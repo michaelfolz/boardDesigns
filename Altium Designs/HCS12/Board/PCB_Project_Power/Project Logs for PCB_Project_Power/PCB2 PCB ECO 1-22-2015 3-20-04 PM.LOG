@@ -1,0 +1,595 @@
+Added Component: Designator=2.5mmJack(KLD-0202)
+Added Component: Designator=3.3V Supply(MP04A_L)
+Added Component: Designator=BDM_PORT(HDR3X2)
+Added Component: Designator=BKGD_PullUP(RESC2112X05M)
+Added Component: Designator=C1-RS232(CAPC2012X09M)
+Added Component: Designator=C1(CAPACITOR_6.3MM)
+Added Component: Designator=C2-RS232(CAPC2012X09M)
+Added Component: Designator=C2(CAPC2012X09M)
+Added Component: Designator=C-VDDX(CAPACITOR_3MM)
+Added Component: Designator=C_F_ICANH(CAPC2012X09M)
+Added Component: Designator=C_F_ICANL(CAPC2012X09M)
+Added Component: Designator=CanBus(HDR1X2)
+Added Component: Designator=CBoot(CAPC2012X09M)
+Added Component: Designator=Cbst-A_Analog(CAPC2012X09M)
+Added Component: Designator=Cbst-A_Digital(CAPC2012X09M)
+Added Component: Designator=CBY_1(CAPC2012X09M)
+Added Component: Designator=CBY_2(CAPC2012X09M)
+Added Component: Designator=CBY_3(CAPC2012X09M)
+Added Component: Designator=CBY_4(CAPC2012X09M)
+Added Component: Designator=CBY_5(CAPC2012X09M)
+Added Component: Designator=CBY_6(CAPC2012X09M)
+Added Component: Designator=Cena(CAPC2012X09M)
+Added Component: Designator=Cenb(CAPC2012X09M)
+Added Component: Designator=CEXTAL(CAPC2012X09M)
+Added Component: Designator=CFilter-RS232(CAPC2012X09M)
+Added Component: Designator=Cin-A_Analog(C1210)
+Added Component: Designator=Cin-A_Digital(C1210)
+Added Component: Designator=Cinx-A_Analog(CAPC2012X09M)
+Added Component: Designator=Cinx-A_Digital(CAPC2012X09M)
+Added Component: Designator=Contrast_Pot(BOURNS_3386F)
+Added Component: Designator=Cout-A_Analog(C1210)
+Added Component: Designator=Cout-A_Digital(C1210)
+Added Component: Designator=Cpump-RS232(CAPC2012X09M)
+Added Component: Designator=CTS_RTS(HDR1X2)
+Added Component: Designator=CV--RS232(CAPC2012X09M)
+Added Component: Designator=CVDDR(CAPACITOR_3MM)
+Added Component: Designator=CXTAL(CAPC2012X09M)
+Added Component: Designator=D1-A_Analog(DIOM4326X23M)
+Added Component: Designator=D1-A_Digital(DIOM4326X23M)
+Added Component: Designator=D1(zener_sod323)
+Added Component: Designator=D2(zener_sod323)
+Added Component: Designator=D_RX(3.2X1.6X1.1)
+Added Component: Designator=D_TX(3.2X1.6X1.1)
+Added Component: Designator=DCMotor(HDR1X4)
+Added Component: Designator=Freescale_Processor(QUAD.65M/80/WG17.45-HCS12)
+Added Component: Designator=LCD(HDR1X16_LCD)
+Added Component: Designator=LM1117_F_In(C1210)
+Added Component: Designator=LM1117_F_Out(C1210)
+Added Component: Designator=MAXLL--RS232(NSO16_N)
+Added Component: Designator=Q1(SOT95P230X110-3M)
+Added Component: Designator=Q2(SOT95P230X110-3M)
+Added Component: Designator=Q?(SOT95P230X110-3M)
+Added Component: Designator=R1_In(RESC2112X05M)
+Added Component: Designator=R2_A(RESC2112X05M)
+Added Component: Designator=R2_B(RESC2112X05M)
+Added Component: Designator=R2_In(RESC2112X05M)
+Added Component: Designator=R?(RESC2112X05M)
+Added Component: Designator=R?(RESC2112X05M)
+Added Component: Designator=R?(RESC2112X05M)
+Added Component: Designator=R_ICANH(RESC2112X05M)
+Added Component: Designator=R_ICANL(RESC2112X05M)
+Added Component: Designator=R_PDown_EN1(RESC2112X05M)
+Added Component: Designator=R_PDown_EN1(RESC2112X05M)
+Added Component: Designator=R_PDown_EN2(RESC2112X05M)
+Added Component: Designator=R_PDown_EN2(RESC2112X05M)
+Added Component: Designator=R_PDown_EN3(RESC2112X05M)
+Added Component: Designator=R_PDown_EN4(RESC2112X05M)
+Added Component: Designator=Rab_(RESC2112X05M)
+Added Component: Designator=Rad_(RESC2112X05M)
+Added Component: Designator=Rena(RESC2112X05M)
+Added Component: Designator=Renb(RESC2112X05M)
+Added Component: Designator=Reset_PullUP(RESC2112X05M)
+Added Component: Designator=Rfb1-A_Analog(RESC2112X05M)
+Added Component: Designator=Rfb1-A_Digital(RESC2112X05M)
+Added Component: Designator=Rfb2-A_Analog(RESC2112X05M)
+Added Component: Designator=Rfb2-A_Digital(RESC2112X05M)
+Added Component: Designator=Rfbe-A_Analog(RESC2112X05M)
+Added Component: Designator=Rfbe-A_Digital(RESC2112X05M)
+Added Component: Designator=RLimit_RX(RESC2112X05M)
+Added Component: Designator=RLimit_TX(RESC2112X05M)
+Added Component: Designator=RLimit(RESC2112X05M)
+Added Component: Designator=Rp(RESC2112X05M)
+Added Component: Designator=RS2232-Con(DSUB1.385-2H9)
+Added Component: Designator=RTS-RS232(RESC2112X05M)
+Added Component: Designator=RX_Cur_L(RESC2112X05M)
+Added Component: Designator=ServoMotor(HDR1X2)
+Added Component: Designator=SMPS-A_Analog(MRA08B_L)
+Added Component: Designator=SMPS-A_Digital(MRA08B_L)
+Added Component: Designator=StepperMotor(HDR1X4)
+Added Component: Designator=TX_Cur_L(RESC2112X05M)
+Added Component: Designator=U?(POWERSOP20)
+Added Component: Designator=U?(SO20_N)
+Added Component: Designator=U?(SOIC127P600X175-8M)
+Added Component: Designator=VCC_Filter(C1210)
+Added Component: Designator=VCP(CAPC2012X09M)
+Added Component: Designator=VDD1_Decoup(CAPC2012X09M)
+Added Component: Designator=VDD2_Decoup(CAPC2012X09M)
+Added Pin To Net: NetName=3.3VD Pin=3.3V Supply-2
+Added Pin To Net: NetName=3.3VD Pin=3.3V Supply-4
+Added Pin To Net: NetName=3.3VD Pin=LM1117_F_Out-2
+Added Net: Name=3.3VD
+Added Pin To Net: NetName=5VA Pin=Cout-A_Analog-2
+Added Pin To Net: NetName=5VA Pin=Q1-3
+Added Pin To Net: NetName=5VA Pin=Q2-3
+Added Pin To Net: NetName=5VA Pin=R_PDown_EN1-1
+Added Pin To Net: NetName=5VA Pin=R_PDown_EN2-1
+Added Pin To Net: NetName=5VA Pin=Rfb2-A_Analog-2
+Added Pin To Net: NetName=5VA Pin=U?-1
+Added Pin To Net: NetName=5VA Pin=U?-11
+Added Pin To Net: NetName=5VA Pin=U?-20
+Added Pin To Net: NetName=5VA Pin=VCC_Filter-1
+Added Net: Name=5VA
+Added Pin To Net: NetName=5VD Pin=3.3V Supply-3
+Added Pin To Net: NetName=5VD Pin=BDM_PORT-6
+Added Pin To Net: NetName=5VD Pin=BKGD_PullUP-2
+Added Pin To Net: NetName=5VD Pin=CBY_1-2
+Added Pin To Net: NetName=5VD Pin=CBY_2-2
+Added Pin To Net: NetName=5VD Pin=CBY_3-2
+Added Pin To Net: NetName=5VD Pin=CBY_4-1
+Added Pin To Net: NetName=5VD Pin=CBY_5-1
+Added Pin To Net: NetName=5VD Pin=CBY_6-1
+Added Pin To Net: NetName=5VD Pin=CFilter-RS232-1
+Added Pin To Net: NetName=5VD Pin=Contrast_Pot-1
+Added Pin To Net: NetName=5VD Pin=Cout-A_Digital-2
+Added Pin To Net: NetName=5VD Pin=D_RX-1
+Added Pin To Net: NetName=5VD Pin=D_TX-1
+Added Pin To Net: NetName=5VD Pin=LCD-2
+Added Pin To Net: NetName=5VD Pin=LM1117_F_In-2
+Added Pin To Net: NetName=5VD Pin=MAXLL--RS232-16
+Added Pin To Net: NetName=5VD Pin=Q?-3
+Added Pin To Net: NetName=5VD Pin=Rad_-2
+Added Pin To Net: NetName=5VD Pin=Reset_PullUP-2
+Added Pin To Net: NetName=5VD Pin=Rfb2-A_Digital-2
+Added Pin To Net: NetName=5VD Pin=U?-3
+Added Net: Name=5VD
+Added Pin To Net: NetName=GND Pin=2.5mmJack-2
+Added Pin To Net: NetName=GND Pin=2.5mmJack-2A
+Added Pin To Net: NetName=GND Pin=2.5mmJack-2B
+Added Pin To Net: NetName=GND Pin=3.3V Supply-1
+Added Pin To Net: NetName=GND Pin=BDM_PORT-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C-VDDX-2
+Added Pin To Net: NetName=GND Pin=C_F_ICANH-2
+Added Pin To Net: NetName=GND Pin=C_F_ICANL-2
+Added Pin To Net: NetName=GND Pin=CBY_1-1
+Added Pin To Net: NetName=GND Pin=CBY_4-2
+Added Pin To Net: NetName=GND Pin=Cena-2
+Added Pin To Net: NetName=GND Pin=Cenb-1
+Added Pin To Net: NetName=GND Pin=CEXTAL-1
+Added Pin To Net: NetName=GND Pin=CFilter-RS232-2
+Added Pin To Net: NetName=GND Pin=Cin-A_Analog-2
+Added Pin To Net: NetName=GND Pin=Cin-A_Digital-2
+Added Pin To Net: NetName=GND Pin=Cinx-A_Analog-2
+Added Pin To Net: NetName=GND Pin=Cinx-A_Digital-2
+Added Pin To Net: NetName=GND Pin=Contrast_Pot-3
+Added Pin To Net: NetName=GND Pin=Cout-A_Analog-1
+Added Pin To Net: NetName=GND Pin=Cout-A_Digital-1
+Added Pin To Net: NetName=GND Pin=Cpump-RS232-2
+Added Pin To Net: NetName=GND Pin=CV--RS232-1
+Added Pin To Net: NetName=GND Pin=CVDDR-2
+Added Pin To Net: NetName=GND Pin=CXTAL-1
+Added Pin To Net: NetName=GND Pin=D1-A_Analog-2
+Added Pin To Net: NetName=GND Pin=D1-A_Digital-2
+Added Pin To Net: NetName=GND Pin=Freescale_Processor-10
+Added Pin To Net: NetName=GND Pin=Freescale_Processor-24
+Added Pin To Net: NetName=GND Pin=Freescale_Processor-28
+Added Pin To Net: NetName=GND Pin=Freescale_Processor-33
+Added Pin To Net: NetName=GND Pin=Freescale_Processor-36
+Added Pin To Net: NetName=GND Pin=Freescale_Processor-50
+Added Pin To Net: NetName=GND Pin=Freescale_Processor-62
+Added Pin To Net: NetName=GND Pin=Freescale_Processor-76
+Added Pin To Net: NetName=GND Pin=LCD-1
+Added Pin To Net: NetName=GND Pin=LCD-16
+Added Pin To Net: NetName=GND Pin=LM1117_F_In-1
+Added Pin To Net: NetName=GND Pin=LM1117_F_Out-1
+Added Pin To Net: NetName=GND Pin=MAXLL--RS232-15
+Added Pin To Net: NetName=GND Pin=R2_A-1
+Added Pin To Net: NetName=GND Pin=R2_B-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R_PDown_EN1-1
+Added Pin To Net: NetName=GND Pin=R_PDown_EN1-2
+Added Pin To Net: NetName=GND Pin=R_PDown_EN2-1
+Added Pin To Net: NetName=GND Pin=R_PDown_EN2-2
+Added Pin To Net: NetName=GND Pin=R_PDown_EN3-1
+Added Pin To Net: NetName=GND Pin=R_PDown_EN4-1
+Added Pin To Net: NetName=GND Pin=Rab_-1
+Added Pin To Net: NetName=GND Pin=Rfb1-A_Analog-2
+Added Pin To Net: NetName=GND Pin=Rfb1-A_Digital-2
+Added Pin To Net: NetName=GND Pin=Rfbe-A_Analog-1
+Added Pin To Net: NetName=GND Pin=Rfbe-A_Digital-1
+Added Pin To Net: NetName=GND Pin=RS2232-Con-5
+Added Pin To Net: NetName=GND Pin=RTS-RS232-1
+Added Pin To Net: NetName=GND Pin=SMPS-A_Analog-6
+Added Pin To Net: NetName=GND Pin=SMPS-A_Analog-9
+Added Pin To Net: NetName=GND Pin=SMPS-A_Digital-6
+Added Pin To Net: NetName=GND Pin=SMPS-A_Digital-9
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-14
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=GND Pin=U?-16
+Added Pin To Net: NetName=GND Pin=U?-17
+Added Pin To Net: NetName=GND Pin=U?-20
+Added Pin To Net: NetName=GND Pin=VCC_Filter-2
+Added Pin To Net: NetName=GND Pin=VDD1_Decoup-1
+Added Pin To Net: NetName=GND Pin=VDD2_Decoup-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net2.5mmJack_3 Pin=2.5mmJack-3
+Added Pin To Net: NetName=Net2.5mmJack_3 Pin=2.5mmJack-3A
+Added Pin To Net: NetName=Net2.5mmJack_3 Pin=2.5mmJack-3B
+Added Net: Name=Net2.5mmJack_3
+Added Pin To Net: NetName=Net16MHz_Crystal_1 Pin=CXTAL-2
+Added Pin To Net: NetName=Net16MHz_Crystal_1 Pin=Freescale_Processor-35
+Added Pin To Net: NetName=Net16MHz_Crystal_1 Pin=R?-1
+Added Net: Name=Net16MHz_Crystal_1
+Added Pin To Net: NetName=Net16MHz_Crystal_2 Pin=CEXTAL-2
+Added Pin To Net: NetName=Net16MHz_Crystal_2 Pin=Freescale_Processor-34
+Added Pin To Net: NetName=Net16MHz_Crystal_2 Pin=R?-2
+Added Net: Name=Net16MHz_Crystal_2
+Added Pin To Net: NetName=NetBDM_PORT_1 Pin=BDM_PORT-1
+Added Pin To Net: NetName=NetBDM_PORT_1 Pin=BKGD_PullUP-1
+Added Pin To Net: NetName=NetBDM_PORT_1 Pin=Freescale_Processor-15
+Added Net: Name=NetBDM_PORT_1
+Added Pin To Net: NetName=NetC1-RS232_1 Pin=C1-RS232-1
+Added Pin To Net: NetName=NetC1-RS232_1 Pin=MAXLL--RS232-3
+Added Net: Name=NetC1-RS232_1
+Added Pin To Net: NetName=NetC1-RS232_2 Pin=C1-RS232-2
+Added Pin To Net: NetName=NetC1-RS232_2 Pin=MAXLL--RS232-1
+Added Net: Name=NetC1-RS232_2
+Added Pin To Net: NetName=NetC2-RS232_1 Pin=C2-RS232-1
+Added Pin To Net: NetName=NetC2-RS232_1 Pin=MAXLL--RS232-5
+Added Net: Name=NetC2-RS232_1
+Added Pin To Net: NetName=NetC2-RS232_2 Pin=C2-RS232-2
+Added Pin To Net: NetName=NetC2-RS232_2 Pin=MAXLL--RS232-4
+Added Net: Name=NetC2-RS232_2
+Added Pin To Net: NetName=NetC-VDDX_1 Pin=C-VDDX-1
+Added Pin To Net: NetName=NetC-VDDX_1 Pin=Freescale_Processor-77
+Added Net: Name=NetC-VDDX_1
+Added Pin To Net: NetName=NetC_F_ICANH_1 Pin=C_F_ICANH-1
+Added Pin To Net: NetName=NetC_F_ICANH_1 Pin=R_ICANH-2
+Added Net: Name=NetC_F_ICANH_1
+Added Pin To Net: NetName=NetC_F_ICANL_1 Pin=C_F_ICANL-1
+Added Pin To Net: NetName=NetC_F_ICANL_1 Pin=R_ICANL-2
+Added Net: Name=NetC_F_ICANL_1
+Added Pin To Net: NetName=NetCanBus_1 Pin=CanBus-1
+Added Pin To Net: NetName=NetCanBus_1 Pin=R_ICANL-1
+Added Pin To Net: NetName=NetCanBus_1 Pin=U?-6
+Added Net: Name=NetCanBus_1
+Added Pin To Net: NetName=NetCanBus_2 Pin=CanBus-2
+Added Pin To Net: NetName=NetCanBus_2 Pin=R_ICANH-1
+Added Pin To Net: NetName=NetCanBus_2 Pin=U?-7
+Added Net: Name=NetCanBus_2
+Added Pin To Net: NetName=NetCBoot_2 Pin=CBoot-2
+Added Pin To Net: NetName=NetCBoot_2 Pin=D2-K
+Added Pin To Net: NetName=NetCBoot_2 Pin=U?-17
+Added Net: Name=NetCBoot_2
+Added Pin To Net: NetName=NetCbst-A_Analog_1 Pin=Cbst-A_Analog-1
+Added Pin To Net: NetName=NetCbst-A_Analog_1 Pin=D1-A_Analog-1
+Added Pin To Net: NetName=NetCbst-A_Analog_1 Pin=SMPS-A_Analog-8
+Added Net: Name=NetCbst-A_Analog_1
+Added Pin To Net: NetName=NetCbst-A_Analog_2 Pin=Cbst-A_Analog-2
+Added Pin To Net: NetName=NetCbst-A_Analog_2 Pin=SMPS-A_Analog-1
+Added Net: Name=NetCbst-A_Analog_2
+Added Pin To Net: NetName=NetCbst-A_Digital_1 Pin=Cbst-A_Digital-1
+Added Pin To Net: NetName=NetCbst-A_Digital_1 Pin=D1-A_Digital-1
+Added Pin To Net: NetName=NetCbst-A_Digital_1 Pin=SMPS-A_Digital-8
+Added Net: Name=NetCbst-A_Digital_1
+Added Pin To Net: NetName=NetCbst-A_Digital_2 Pin=Cbst-A_Digital-2
+Added Pin To Net: NetName=NetCbst-A_Digital_2 Pin=SMPS-A_Digital-1
+Added Net: Name=NetCbst-A_Digital_2
+Added Pin To Net: NetName=NetCBY_2_1 Pin=CBY_2-1
+Added Pin To Net: NetName=NetCBY_2_1 Pin=CBY_5-2
+Added Net: Name=NetCBY_2_1
+Added Pin To Net: NetName=NetCBY_3_1 Pin=CBY_3-1
+Added Pin To Net: NetName=NetCBY_3_1 Pin=CBY_6-2
+Added Net: Name=NetCBY_3_1
+Added Pin To Net: NetName=NetCena_1 Pin=Cena-1
+Added Pin To Net: NetName=NetCena_1 Pin=Rena-1
+Added Pin To Net: NetName=NetCena_1 Pin=U?-5
+Added Net: Name=NetCena_1
+Added Pin To Net: NetName=NetCenb_2 Pin=Cenb-2
+Added Pin To Net: NetName=NetCenb_2 Pin=Renb-1
+Added Pin To Net: NetName=NetCenb_2 Pin=U?-16
+Added Net: Name=NetCenb_2
+Added Pin To Net: NetName=NetContrast_Pot_2 Pin=Contrast_Pot-2
+Added Pin To Net: NetName=NetContrast_Pot_2 Pin=LCD-3
+Added Net: Name=NetContrast_Pot_2
+Added Pin To Net: NetName=NetCpump-RS232_1 Pin=Cpump-RS232-1
+Added Pin To Net: NetName=NetCpump-RS232_1 Pin=MAXLL--RS232-2
+Added Net: Name=NetCpump-RS232_1
+Added Pin To Net: NetName=NetCTS_RTS_1 Pin=CTS_RTS-1
+Added Pin To Net: NetName=NetCTS_RTS_1 Pin=MAXLL--RS232-10
+Added Net: Name=NetCTS_RTS_1
+Added Pin To Net: NetName=NetCTS_RTS_2 Pin=CTS_RTS-2
+Added Pin To Net: NetName=NetCTS_RTS_2 Pin=MAXLL--RS232-9
+Added Pin To Net: NetName=NetCTS_RTS_2 Pin=RTS-RS232-2
+Added Net: Name=NetCTS_RTS_2
+Added Pin To Net: NetName=NetCV--RS232_2 Pin=CV--RS232-2
+Added Pin To Net: NetName=NetCV--RS232_2 Pin=MAXLL--RS232-6
+Added Net: Name=NetCV--RS232_2
+Added Pin To Net: NetName=NetCVDDR_1 Pin=CVDDR-1
+Added Pin To Net: NetName=NetCVDDR_1 Pin=Freescale_Processor-29
+Added Net: Name=NetCVDDR_1
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=D2-A
+Added Pin To Net: NetName=NetD1_K Pin=Rp-1
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetD_RX_2 Pin=D_RX-2
+Added Pin To Net: NetName=NetD_RX_2 Pin=RLimit_RX-2
+Added Net: Name=NetD_RX_2
+Added Pin To Net: NetName=NetD_TX_2 Pin=D_TX-2
+Added Pin To Net: NetName=NetD_TX_2 Pin=RLimit_TX-2
+Added Net: Name=NetD_TX_2
+Added Pin To Net: NetName=NetDCMotor_1 Pin=DCMotor-1
+Added Pin To Net: NetName=NetDCMotor_1 Pin=U?-9
+Added Net: Name=NetDCMotor_1
+Added Pin To Net: NetName=NetDCMotor_2 Pin=DCMotor-2
+Added Pin To Net: NetName=NetDCMotor_2 Pin=U?-12
+Added Net: Name=NetDCMotor_2
+Added Pin To Net: NetName=NetDCMotor_3 Pin=DCMotor-3
+Added Pin To Net: NetName=NetDCMotor_3 Pin=U?-3
+Added Net: Name=NetDCMotor_3
+Added Pin To Net: NetName=NetDCMotor_4 Pin=DCMotor-4
+Added Pin To Net: NetName=NetDCMotor_4 Pin=U?-18
+Added Net: Name=NetDCMotor_4
+Added Pin To Net: NetName=NetFreescale_Processor_1 Pin=Freescale_Processor-1
+Added Pin To Net: NetName=NetFreescale_Processor_1 Pin=Renb-2
+Added Net: Name=NetFreescale_Processor_1
+Added Pin To Net: NetName=NetFreescale_Processor_2 Pin=Freescale_Processor-2
+Added Pin To Net: NetName=NetFreescale_Processor_2 Pin=Rena-2
+Added Net: Name=NetFreescale_Processor_2
+Added Pin To Net: NetName=NetFreescale_Processor_3 Pin=Freescale_Processor-3
+Added Net: Name=NetFreescale_Processor_3
+Added Pin To Net: NetName=NetFreescale_Processor_4 Pin=Freescale_Processor-4
+Added Net: Name=NetFreescale_Processor_4
+Added Pin To Net: NetName=NetFreescale_Processor_5 Pin=Freescale_Processor-5
+Added Pin To Net: NetName=NetFreescale_Processor_5 Pin=Freescale_Processor-6
+Added Net: Name=NetFreescale_Processor_5
+Added Pin To Net: NetName=NetFreescale_Processor_7 Pin=Freescale_Processor-7
+Added Net: Name=NetFreescale_Processor_7
+Added Pin To Net: NetName=NetFreescale_Processor_8 Pin=Freescale_Processor-8
+Added Net: Name=NetFreescale_Processor_8
+Added Pin To Net: NetName=NetFreescale_Processor_9 Pin=Freescale_Processor-9
+Added Pin To Net: NetName=NetFreescale_Processor_9 Pin=VDD1_Decoup-2
+Added Net: Name=NetFreescale_Processor_9
+Added Pin To Net: NetName=NetFreescale_Processor_11 Pin=Freescale_Processor-11
+Added Pin To Net: NetName=NetFreescale_Processor_11 Pin=R_PDown_EN1-2
+Added Pin To Net: NetName=NetFreescale_Processor_11 Pin=U?-2
+Added Net: Name=NetFreescale_Processor_11
+Added Pin To Net: NetName=NetFreescale_Processor_12 Pin=Freescale_Processor-12
+Added Pin To Net: NetName=NetFreescale_Processor_12 Pin=R_PDown_EN2-2
+Added Pin To Net: NetName=NetFreescale_Processor_12 Pin=U?-9
+Added Net: Name=NetFreescale_Processor_12
+Added Pin To Net: NetName=NetFreescale_Processor_13 Pin=Freescale_Processor-13
+Added Pin To Net: NetName=NetFreescale_Processor_13 Pin=R_PDown_EN3-2
+Added Pin To Net: NetName=NetFreescale_Processor_13 Pin=U?-12
+Added Net: Name=NetFreescale_Processor_13
+Added Pin To Net: NetName=NetFreescale_Processor_14 Pin=Freescale_Processor-14
+Added Pin To Net: NetName=NetFreescale_Processor_14 Pin=R_PDown_EN4-2
+Added Pin To Net: NetName=NetFreescale_Processor_14 Pin=U?-19
+Added Net: Name=NetFreescale_Processor_14
+Added Pin To Net: NetName=NetFreescale_Processor_16 Pin=Freescale_Processor-16
+Added Pin To Net: NetName=NetFreescale_Processor_16 Pin=U?-6
+Added Net: Name=NetFreescale_Processor_16
+Added Pin To Net: NetName=NetFreescale_Processor_17 Pin=Freescale_Processor-17
+Added Pin To Net: NetName=NetFreescale_Processor_17 Pin=U?-14
+Added Net: Name=NetFreescale_Processor_17
+Added Pin To Net: NetName=NetFreescale_Processor_18 Pin=Freescale_Processor-18
+Added Pin To Net: NetName=NetFreescale_Processor_18 Pin=U?-7
+Added Net: Name=NetFreescale_Processor_18
+Added Pin To Net: NetName=NetFreescale_Processor_19 Pin=Freescale_Processor-19
+Added Pin To Net: NetName=NetFreescale_Processor_19 Pin=U?-15
+Added Net: Name=NetFreescale_Processor_19
+Added Pin To Net: NetName=NetFreescale_Processor_20 Pin=Freescale_Processor-20
+Added Net: Name=NetFreescale_Processor_20
+Added Pin To Net: NetName=NetFreescale_Processor_21 Pin=Freescale_Processor-21
+Added Net: Name=NetFreescale_Processor_21
+Added Pin To Net: NetName=NetFreescale_Processor_22 Pin=Freescale_Processor-22
+Added Net: Name=NetFreescale_Processor_22
+Added Pin To Net: NetName=NetFreescale_Processor_23 Pin=Freescale_Processor-23
+Added Net: Name=NetFreescale_Processor_23
+Added Pin To Net: NetName=NetFreescale_Processor_30 Pin=Freescale_Processor-30
+Added Pin To Net: NetName=NetFreescale_Processor_30 Pin=Reset_PullUP-1
+Added Net: Name=NetFreescale_Processor_30
+Added Pin To Net: NetName=NetFreescale_Processor_41 Pin=Freescale_Processor-41
+Added Pin To Net: NetName=NetFreescale_Processor_41 Pin=LCD-11
+Added Net: Name=NetFreescale_Processor_41
+Added Pin To Net: NetName=NetFreescale_Processor_42 Pin=Freescale_Processor-42
+Added Pin To Net: NetName=NetFreescale_Processor_42 Pin=LCD-12
+Added Net: Name=NetFreescale_Processor_42
+Added Pin To Net: NetName=NetFreescale_Processor_43 Pin=Freescale_Processor-43
+Added Pin To Net: NetName=NetFreescale_Processor_43 Pin=LCD-13
+Added Net: Name=NetFreescale_Processor_43
+Added Pin To Net: NetName=NetFreescale_Processor_44 Pin=Freescale_Processor-44
+Added Pin To Net: NetName=NetFreescale_Processor_44 Pin=LCD-14
+Added Net: Name=NetFreescale_Processor_44
+Added Pin To Net: NetName=NetFreescale_Processor_45 Pin=Freescale_Processor-45
+Added Pin To Net: NetName=NetFreescale_Processor_45 Pin=LCD-6
+Added Net: Name=NetFreescale_Processor_45
+Added Pin To Net: NetName=NetFreescale_Processor_46 Pin=Freescale_Processor-46
+Added Pin To Net: NetName=NetFreescale_Processor_46 Pin=LCD-4
+Added Net: Name=NetFreescale_Processor_46
+Added Pin To Net: NetName=NetFreescale_Processor_47 Pin=Freescale_Processor-47
+Added Pin To Net: NetName=NetFreescale_Processor_47 Pin=LCD-5
+Added Net: Name=NetFreescale_Processor_47
+Added Pin To Net: NetName=NetFreescale_Processor_48 Pin=Freescale_Processor-48
+Added Pin To Net: NetName=NetFreescale_Processor_48 Pin=RLimit-1
+Added Net: Name=NetFreescale_Processor_48
+Added Pin To Net: NetName=NetFreescale_Processor_49 Pin=Freescale_Processor-49
+Added Pin To Net: NetName=NetFreescale_Processor_49 Pin=VDD2_Decoup-2
+Added Net: Name=NetFreescale_Processor_49
+Added Pin To Net: NetName=NetFreescale_Processor_51 Pin=Freescale_Processor-51
+Added Net: Name=NetFreescale_Processor_51
+Added Pin To Net: NetName=NetFreescale_Processor_52 Pin=Freescale_Processor-52
+Added Net: Name=NetFreescale_Processor_52
+Added Pin To Net: NetName=NetFreescale_Processor_53 Pin=Freescale_Processor-53
+Added Net: Name=NetFreescale_Processor_53
+Added Pin To Net: NetName=NetFreescale_Processor_54 Pin=Freescale_Processor-54
+Added Net: Name=NetFreescale_Processor_54
+Added Pin To Net: NetName=NetFreescale_Processor_55 Pin=Freescale_Processor-55
+Added Net: Name=NetFreescale_Processor_55
+Added Pin To Net: NetName=NetFreescale_Processor_56 Pin=Freescale_Processor-56
+Added Net: Name=NetFreescale_Processor_56
+Added Pin To Net: NetName=NetFreescale_Processor_57 Pin=Freescale_Processor-57
+Added Net: Name=NetFreescale_Processor_57
+Added Pin To Net: NetName=NetFreescale_Processor_58 Pin=Freescale_Processor-58
+Added Net: Name=NetFreescale_Processor_58
+Added Pin To Net: NetName=NetFreescale_Processor_63 Pin=Freescale_Processor-63
+Added Pin To Net: NetName=NetFreescale_Processor_63 Pin=MAXLL--RS232-12
+Added Pin To Net: NetName=NetFreescale_Processor_63 Pin=RX_Cur_L-2
+Added Net: Name=NetFreescale_Processor_63
+Added Pin To Net: NetName=NetFreescale_Processor_64 Pin=Freescale_Processor-64
+Added Pin To Net: NetName=NetFreescale_Processor_64 Pin=MAXLL--RS232-11
+Added Pin To Net: NetName=NetFreescale_Processor_64 Pin=TX_Cur_L-1
+Added Net: Name=NetFreescale_Processor_64
+Added Pin To Net: NetName=NetFreescale_Processor_65 Pin=Freescale_Processor-65
+Added Net: Name=NetFreescale_Processor_65
+Added Pin To Net: NetName=NetFreescale_Processor_66 Pin=Freescale_Processor-66
+Added Net: Name=NetFreescale_Processor_66
+Added Pin To Net: NetName=NetFreescale_Processor_67 Pin=Freescale_Processor-67
+Added Net: Name=NetFreescale_Processor_67
+Added Pin To Net: NetName=NetFreescale_Processor_68 Pin=Freescale_Processor-68
+Added Net: Name=NetFreescale_Processor_68
+Added Pin To Net: NetName=NetFreescale_Processor_69 Pin=Freescale_Processor-69
+Added Net: Name=NetFreescale_Processor_69
+Added Pin To Net: NetName=NetFreescale_Processor_70 Pin=Freescale_Processor-70
+Added Net: Name=NetFreescale_Processor_70
+Added Pin To Net: NetName=NetFreescale_Processor_71 Pin=Freescale_Processor-71
+Added Net: Name=NetFreescale_Processor_71
+Added Pin To Net: NetName=NetFreescale_Processor_72 Pin=Freescale_Processor-72
+Added Net: Name=NetFreescale_Processor_72
+Added Pin To Net: NetName=NetFreescale_Processor_73 Pin=Freescale_Processor-73
+Added Net: Name=NetFreescale_Processor_73
+Added Pin To Net: NetName=NetFreescale_Processor_74 Pin=Freescale_Processor-74
+Added Pin To Net: NetName=NetFreescale_Processor_74 Pin=U?-1
+Added Net: Name=NetFreescale_Processor_74
+Added Pin To Net: NetName=NetFreescale_Processor_75 Pin=Freescale_Processor-75
+Added Pin To Net: NetName=NetFreescale_Processor_75 Pin=U?-4
+Added Net: Name=NetFreescale_Processor_75
+Added Pin To Net: NetName=NetFreescale_Processor_78 Pin=Freescale_Processor-78
+Added Net: Name=NetFreescale_Processor_78
+Added Pin To Net: NetName=NetFreescale_Processor_79 Pin=Freescale_Processor-79
+Added Pin To Net: NetName=NetFreescale_Processor_79 Pin=R2_In-1
+Added Net: Name=NetFreescale_Processor_79
+Added Pin To Net: NetName=NetFreescale_Processor_80 Pin=Freescale_Processor-80
+Added Pin To Net: NetName=NetFreescale_Processor_80 Pin=R1_In-1
+Added Net: Name=NetFreescale_Processor_80
+Added Pin To Net: NetName=NetLCD_15 Pin=LCD-15
+Added Pin To Net: NetName=NetLCD_15 Pin=Q?-2
+Added Pin To Net: NetName=NetLCD_15 Pin=R?-1
+Added Net: Name=NetLCD_15
+Added Pin To Net: NetName=NetMAXLL--RS232_7 Pin=MAXLL--RS232-7
+Added Pin To Net: NetName=NetMAXLL--RS232_7 Pin=RS2232-Con-8
+Added Net: Name=NetMAXLL--RS232_7
+Added Pin To Net: NetName=NetMAXLL--RS232_8 Pin=MAXLL--RS232-8
+Added Pin To Net: NetName=NetMAXLL--RS232_8 Pin=RS2232-Con-7
+Added Net: Name=NetMAXLL--RS232_8
+Added Pin To Net: NetName=NetMAXLL--RS232_13 Pin=MAXLL--RS232-13
+Added Pin To Net: NetName=NetMAXLL--RS232_13 Pin=RS2232-Con-3
+Added Net: Name=NetMAXLL--RS232_13
+Added Pin To Net: NetName=NetMAXLL--RS232_14 Pin=MAXLL--RS232-14
+Added Pin To Net: NetName=NetMAXLL--RS232_14 Pin=RS2232-Con-2
+Added Net: Name=NetMAXLL--RS232_14
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1_In-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R2_A-2
+Added Pin To Net: NetName=NetQ1_2 Pin=ServoMotor-1
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R2_In-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R2_B-2
+Added Pin To Net: NetName=NetQ2_2 Pin=ServoMotor-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=RLimit-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-8
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetRab__2 Pin=Rab_-2
+Added Pin To Net: NetName=NetRab__2 Pin=Rad_-1
+Added Pin To Net: NetName=NetRab__2 Pin=U?-5
+Added Net: Name=NetRab__2
+Added Pin To Net: NetName=NetRfb1-A_Analog_1 Pin=Rfb1-A_Analog-1
+Added Pin To Net: NetName=NetRfb1-A_Analog_1 Pin=Rfb2-A_Analog-1
+Added Pin To Net: NetName=NetRfb1-A_Analog_1 Pin=SMPS-A_Analog-4
+Added Net: Name=NetRfb1-A_Analog_1
+Added Pin To Net: NetName=NetRfb1-A_Digital_1 Pin=Rfb1-A_Digital-1
+Added Pin To Net: NetName=NetRfb1-A_Digital_1 Pin=Rfb2-A_Digital-1
+Added Pin To Net: NetName=NetRfb1-A_Digital_1 Pin=SMPS-A_Digital-4
+Added Net: Name=NetRfb1-A_Digital_1
+Added Pin To Net: NetName=NetRfbe-A_Analog_2 Pin=Rfbe-A_Analog-2
+Added Pin To Net: NetName=NetRfbe-A_Analog_2 Pin=SMPS-A_Analog-5
+Added Net: Name=NetRfbe-A_Analog_2
+Added Pin To Net: NetName=NetRfbe-A_Digital_2 Pin=Rfbe-A_Digital-2
+Added Pin To Net: NetName=NetRfbe-A_Digital_2 Pin=SMPS-A_Digital-5
+Added Net: Name=NetRfbe-A_Digital_2
+Added Pin To Net: NetName=NetRp_2 Pin=Rp-2
+Added Pin To Net: NetName=NetRp_2 Pin=VCP-1
+Added Net: Name=NetRp_2
+Added Pin To Net: NetName=NetRS2232-Con_1 Pin=RS2232-Con-1
+Added Pin To Net: NetName=NetRS2232-Con_1 Pin=RS2232-Con-4
+Added Pin To Net: NetName=NetRS2232-Con_1 Pin=RS2232-Con-6
+Added Net: Name=NetRS2232-Con_1
+Added Pin To Net: NetName=NetStepperMotor_1 Pin=StepperMotor-1
+Added Pin To Net: NetName=NetStepperMotor_1 Pin=U?-3
+Added Net: Name=NetStepperMotor_1
+Added Pin To Net: NetName=NetStepperMotor_2 Pin=StepperMotor-2
+Added Pin To Net: NetName=NetStepperMotor_2 Pin=U?-8
+Added Net: Name=NetStepperMotor_2
+Added Pin To Net: NetName=NetStepperMotor_3 Pin=StepperMotor-3
+Added Pin To Net: NetName=NetStepperMotor_3 Pin=U?-13
+Added Net: Name=NetStepperMotor_3
+Added Pin To Net: NetName=NetStepperMotor_4 Pin=StepperMotor-4
+Added Pin To Net: NetName=NetStepperMotor_4 Pin=U?-18
+Added Net: Name=NetStepperMotor_4
+Added Pin To Net: NetName=NetU?_4 Pin=U?-4
+Added Pin To Net: NetName=NetU?_4 Pin=VCP-2
+Added Net: Name=NetU?_4
+Added Pin To Net: NetName=VIN Pin=2.5mmJack-1
+Added Pin To Net: NetName=VIN Pin=2.5mmJack-1A
+Added Pin To Net: NetName=VIN Pin=2.5mmJack-1B
+Added Pin To Net: NetName=VIN Pin=C1-1
+Added Pin To Net: NetName=VIN Pin=C2-2
+Added Pin To Net: NetName=VIN Pin=CBoot-1
+Added Pin To Net: NetName=VIN Pin=Cin-A_Analog-1
+Added Pin To Net: NetName=VIN Pin=Cin-A_Digital-1
+Added Pin To Net: NetName=VIN Pin=Cinx-A_Analog-1
+Added Pin To Net: NetName=VIN Pin=Cinx-A_Digital-1
+Added Pin To Net: NetName=VIN Pin=D1-A
+Added Pin To Net: NetName=VIN Pin=SMPS-A_Analog-7
+Added Pin To Net: NetName=VIN Pin=SMPS-A_Digital-7
+Added Pin To Net: NetName=VIN Pin=U?-2
+Added Pin To Net: NetName=VIN Pin=U?-10
+Added Pin To Net: NetName=VIN Pin=U?-19
+Added Net: Name=VIN
+Added Class: Name=3.3V_Reg
+Added Class: Name=Analog
+Added Class: Name=CanBus
+Added Class: Name=Connectors
+Added Class: Name=DC_Motor
+Added Class: Name=Digital
+Added Class: Name=HD44780_LCD
+Added Class: Name=MC9S12
+Added Class: Name=Project_Board
+Added Class: Name=RC_PWM
+Added Class: Name=RS232
+Added Class: Name=Stepper_Motor
+Added Class: Name=SMPS_5V_
+Added Room: Name=3.3V_Reg
+Added Room: Name=Analog
+Added Room: Name=CanBus
+Added Room: Name=Connectors
+Added Room: Name=DC_Motor
+Added Room: Name=Digital
+Added Room: Name=HD44780_LCD
+Added Room: Name=MC9S12
+Added Room: Name=Project_Board
+Added Room: Name=RC_PWM
+Added Room: Name=RS232
+Added Room: Name=Stepper_Motor

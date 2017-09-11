@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Stepper_Motor Member=C31
+Removed Member From Class: ClassName=Stepper_Motor Member=C32
+Removed Member From Class: ClassName=DC_Motor Member=C33
+Added Member To Class: ClassName=Stepper_Motor Member=Component C34 Cap
+Added Member To Class: ClassName=Stepper_Motor Member=Component C35 Cap
+Added Member To Class: ClassName=DC_Motor Member=Component C36 Cap

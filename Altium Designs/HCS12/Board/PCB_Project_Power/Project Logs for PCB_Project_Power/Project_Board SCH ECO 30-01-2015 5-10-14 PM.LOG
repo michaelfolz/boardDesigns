@@ -1,0 +1,10 @@
+Change Component Designator: Old Designator=A_Out? New Designator=A_Out1
+Change Component Designator: Old Designator=ACC? New Designator=ACC1
+Change Component Designator: Old Designator=CanBus? New Designator=CanBus1
+Change Component Designator: Old Designator=CTS_RTS? New Designator=CTS_RTS1
+Change Component Designator: Old Designator=DCMotor? New Designator=DCMotor1
+Change Component Designator: Old Designator=ENC_A? New Designator=ENC_A1
+Change Component Designator: Old Designator=ENC_B? New Designator=ENC_B1
+Change Component Designator: Old Designator=ServoMotor? New Designator=ServoMotor1
+Change Component Designator: Old Designator=SPI_OUT? New Designator=SPI_OUT1
+Change Component Designator: Old Designator=StepperMotor? New Designator=StepperMotor1

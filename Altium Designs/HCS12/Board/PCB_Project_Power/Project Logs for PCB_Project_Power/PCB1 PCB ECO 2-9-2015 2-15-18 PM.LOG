@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=GND Pin=C38-1
+Removed Pin From Net: NetName=NetC39_2 Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=C40-1
+Removed Pin From Net: NetName=NetC42_2 Pin=C40-2
+Removed Pin From Net: NetName=NetR7_1 Pin=R5-1
+Removed Pin From Net: NetName=NetP1_2 Pin=R16-1
+Removed Pin From Net: NetName=NetCan_Bus1_8 Pin=R16-2
+Removed Pin From Net: NetName=DAC_CS Pin=R17-1
+Removed Pin From Net: NetName=NetFreescale_Processor1_11 Pin=R42-2
+Removed Member From Class: ClassName=MC9S12 Member=C7
+Removed Member From Class: ClassName=RS232 Member=C21
+Removed Member From Class: ClassName=RS232 Member=C25
+Removed Member From Class: ClassName=RS232 Member=C26
+Removed Member From Class: ClassName=Project_Board Member=R40
+Removed Member From Class: ClassName=3.3V_Reg Member=U4
+Added Component: Designator=C39(CAPC2012X09M)
+Added Component: Designator=C42(CAPC2012X09M)
+Added Component: Designator=R7(RESC2112X05M)
+Added Component: Designator=R20(RESC2112X05M)
+Added Component: Designator=R21(RESC2112X05M)
+Added Component: Designator=R30(RESC2112X05M)
+Added Component: Designator=R43(RESC2112X05M)
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=NetC39_2 Pin=C38-2
+Added Pin To Net: NetName=VIN Pin=C40-1
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=NetC42_2 Pin=C40-2
+Added Pin To Net: NetName=NetFreescale_Processor1_4 Pin=R5-1
+Added Pin To Net: NetName=NetR7_1 Pin=R5-1
+Added Pin To Net: NetName=2.5VREF Pin=R5-2
+Added Pin To Net: NetName=NetCan_Bus1_4 Pin=R16-1
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R16-2
+Added Pin To Net: NetName=NetCan_Bus1_1 Pin=R17-1
+Added Pin To Net: NetName=NetP1_2 Pin=R16-1
+Added Pin To Net: NetName=NetCan_Bus1_8 Pin=R16-2
+Added Pin To Net: NetName=DAC_CS Pin=R17-1
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R17-2
+Added Pin To Net: NetName=SPI_MOSI Pin=R28-1
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R28-2
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R42-2
+Added Pin To Net: NetName=NetFreescale_Processor1_11 Pin=R42-2
+Added Member To Class: ClassName=Accelerometer Member=Component C5 p
+Added Member To Class: ClassName=CanBus Member=Component C6 Cap
+Added Member To Class: ClassName=MC9S12 Member=Component C8 p
+Added Member To Class: ClassName=MC9S12 Member=Component C9 Cap
+Added Member To Class: ClassName=MC9S12 Member=Component C10 Cap
+Added Member To Class: ClassName=RS232 Member=Component C27 Cap
+Added Member To Class: ClassName=RS232 Member=Component C28 Pol
+Added Member To Class: ClassName=RS232 Member=Component C29 Pol
+Added Member To Class: ClassName=DC_Motor Member=Component C34 Cap
+Added Member To Class: ClassName=DC_Motor Member=Component C39 Cap
+Added Member To Class: ClassName=DC_Motor Member=Component C42 C1
+Added Member To Class: ClassName=MC9S12 Member=Component D1 1N4148
+Added Member To Class: ClassName=RS232 Member=Component D2 LED2
+Added Member To Class: ClassName=RS232 Member=Component D3 LED2
+Added Member To Class: ClassName=DC_Motor Member=Component D4 Diode 1N4148
+Added Member To Class: ClassName=DC_Motor Member=Component D5 Diode 1N4148
+Added Member To Class: ClassName=Accelerometer Member=Component R3 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R4 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R7 Res3
+Added Member To Class: ClassName=CanBus Member=Component R18 Res3
+Added Member To Class: ClassName=CanBus Member=Component R19 Res3
+Added Member To Class: ClassName=CanBus Member=Component R20 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R22 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R23 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R30 Res3
+Added Member To Class: ClassName=RS232 Member=Component R36 Res3
+Added Member To Class: ClassName=Project_Board Member=Component R41 Res3
+Added Member To Class: ClassName=Stepper_Motor Member=Component R47 Res3
+Added Member To Class: ClassName=RS232 Member=Component T1 BC846B
+Added Member To Class: ClassName=3.3V_Reg Member=Component U5 LM1117IMP-ADJ/NOPB

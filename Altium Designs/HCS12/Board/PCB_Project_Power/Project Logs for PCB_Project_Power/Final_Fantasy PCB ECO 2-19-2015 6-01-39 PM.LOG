@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetDAC__2 Pin=ACC1-2
+Removed Pin From Net: NetName=NetDAC__3 Pin=ACC1-3
+Removed Pin From Net: NetName=NetDAC__4 Pin=ACC1-4
+Added Component: Designator=DAC_(HDR1X4)
+Added Pin To Net: NetName=NetACC1_2 Pin=ACC1-2
+Added Pin To Net: NetName=NetACC1_3 Pin=ACC1-3
+Added Pin To Net: NetName=NetACC1_4 Pin=ACC1-4
+Added Pin To Net: NetName=GND Pin=ACC1-1
+Added Pin To Net: NetName=NetDAC__2 Pin=ACC1-2
+Added Pin To Net: NetName=NetDAC__3 Pin=ACC1-3
+Added Pin To Net: NetName=NetDAC__4 Pin=ACC1-4
+Added Member To Class: ClassName=Project_Board Member=Component DAC_ Header 4
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board

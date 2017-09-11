@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=SPI_MISO Pin=SPI-1
+Removed Pin From Net: NetName=5VD Pin=SPI-2
+Removed Pin From Net: NetName=SPI_SCK Pin=SPI-3
+Removed Pin From Net: NetName=SPI_MOSI Pin=SPI-4
+Removed Pin From Net: NetName=SPI_SS Pin=SPI-5
+Removed Pin From Net: NetName=GND Pin=SPI-6
+Change Component DesignItemId : Designator=C36 Old DesignItemId=CAP-X7R-5600pF-50V-±10% New DesignItemId=CAP-Z5U-.1uF-50V-±20%
+Change Component DesignItemId : Designator=C34 Old DesignItemId=CAP-X7R-.1uF-50V-±20% New DesignItemId=CAP-Z5U-.1uF-50V-±20%
+Change Component DesignItemId : Designator=C35 Old DesignItemId=CAP-X7R-.1uF-50V-±20% New DesignItemId=CAP-Z5U-.1uF-50V-±20%
+Change Component DesignItemId : Designator=C36 Old DesignItemId=CAP-Z5U-.1uF-50V-±20% New DesignItemId=CAP-X7R-5600pF-50V-±10%
+Change Component DesignItemId : Designator=C34 Old DesignItemId=CAP-Z5U-.1uF-50V-±20% New DesignItemId=CAP-X7R-.1uF-50V-±20%
+Change Component DesignItemId : Designator=C35 Old DesignItemId=CAP-Z5U-.1uF-50V-±20% New DesignItemId=CAP-X7R-.1uF-50V-±20%
+Change Component Description : Designator=C36 Old Description=CAP CER 5600pF 50v X7R 0805 New Description=CAP CER .1uF 50v Z5U 0805
+Change Component Description : Designator=C34 Old Description=CAP CER .1uF 50v X7R 0805 New Description=CAP CER .1uF 50v Z5U 0805
+Change Component Description : Designator=C35 Old Description=CAP CER .1uF 50v X7R 0805 New Description=CAP CER .1uF 50v Z5U 0805
+Change Component Description : Designator=C36 Old Description=CAP CER .1uF 50v Z5U 0805 New Description=CAP CER 5600pF 50v X7R 0805
+Change Component Description : Designator=C34 Old Description=CAP CER .1uF 50v Z5U 0805 New Description=CAP CER .1uF 50v X7R 0805
+Change Component Description : Designator=C35 Old Description=CAP CER .1uF 50v Z5U 0805 New Description=CAP CER .1uF 50v X7R 0805
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=5VA Pin=C34-2
+Added Member To Class: ClassName=Project_Board Member=Component C34 Cap
+Added Member To Class: ClassName=Stepper_Motor Member=Component C34 Cap
+Added Member To Class: ClassName=Project_Board Member=Component C35 Cap
+Added Member To Class: ClassName=Stepper_Motor Member=Component C35 Cap
+Added Member To Class: ClassName=DC_Motor Member=Component C36 Cap
+Added Member To Class: ClassName=Project_Board Member=Component C36 Cap

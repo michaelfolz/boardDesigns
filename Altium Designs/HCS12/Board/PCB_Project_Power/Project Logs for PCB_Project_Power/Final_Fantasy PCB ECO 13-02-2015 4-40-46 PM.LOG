@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=SERVO + VOLTAGE Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=SERVO + VOLTAGE Pin=R42-2
+Removed Pin From Net: NetName=SERVO + VOLTAGE Pin=R43-2
+Removed Pin From Net: NetName=GND Pin=R51-1
+Removed Pin From Net: NetName=SERVO SIGNAL Pin=R51-2
+Removed Member From Class: ClassName=Accelerometer Member=C5
+Removed Member From Class: ClassName=DC_Motor Member=C40
+Removed Member From Class: ClassName=DC_Motor Member=C41
+Removed Member From Class: ClassName=DC_Motor Member=C42
+Removed Member From Class: ClassName=DC_Motor Member=C43
+Removed Member From Class: ClassName=Accelerometer Member=R13
+Removed Member From Class: ClassName=Accelerometer Member=R14
+Removed Member From Class: ClassName=DC_Motor Member=R51
+Removed Member From Class: ClassName=DC_Motor Member=R52
+Removed Member From Class: ClassName=DC_Motor Member=R53
+Removed Member From Class: ClassName=DC_Motor Member=R54
+Removed Member From Class: ClassName=DC_Motor Member=U4
+Added Component: Designator=R55(RESC2112X05M)
+Added Pin To Net: NetName=GND Pin=CameraCon1-2
+Added Pin To Net: NetName=GND Pin=CameraCon1-7
+Added Pin To Net: NetName=GND Pin=CameraCon1-16
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R42-1
+Added Pin To Net: NetName=SWITCH_RIGHT- Pin=R42-2
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R43-1
+Added Pin To Net: NetName=SWITCH_LEFT- Pin=R43-2
+Added Pin To Net: NetName=5VA Pin=R51-1
+Added Pin To Net: NetName=NetC40_2 Pin=R51-2
+Added Pin To Net: NetName=GND Pin=R51-1
+Added Pin To Net: NetName=SERVO SIGNAL Pin=R51-2
+Change Net Name : Old Net Name=GND New Net Name=SWITCH_LEFT+
+Added Class: Name=Encoder
+Added Member To Class: ClassName=MC9S12C Member=Component C15 Cap
+Added Member To Class: ClassName=RC_PWM Member=Component R55 Res3
+Added Room: Name=Encoder

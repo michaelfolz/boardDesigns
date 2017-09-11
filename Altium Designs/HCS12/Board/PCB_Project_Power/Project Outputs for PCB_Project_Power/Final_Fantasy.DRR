@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Final_Fantasy.PcbDoc   25/02/2015  7:19:20 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Component Side to Solder Side
+ASCII RoundHoles File : Final_Fantasy.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        13mil (0.3302mm)         Round          8                0.93 Inch (23.54 mm)
+T2        28mil (0.7112mm)         Round          118              47.01 Inch (1194.09 mm)
+T3        35.4mil (0.89916mm)      Round          102              23.59 Inch (599.31 mm)
+T4        40mil (1.016mm)          Round          36               19.55 Inch (496.65 mm)
+T5        42.9mil (1.08966mm)      Round          9                0.89 Inch (22.55 mm)
+T6        66.9mil (1.69926mm)      Round          1                0.00 Inch (0.00 mm)
+T7        74.8mil (1.89992mm)      Round          1                0.00 Inch (0.00 mm)
+T8        122mil (3.0988mm)        Round          2                0.98 Inch (24.99 mm)
+T9        136mil (3.4544mm)        Round          4                15.93 Inch (404.65 mm)
+---------------------------------------------------------------------------
+Totals                                            281              108.89 Inch (2765.77 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

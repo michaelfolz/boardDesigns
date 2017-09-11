@@ -1,0 +1,147 @@
+Removed Pin From Net: NetName=NetR7_1 Pin=R5-1
+Removed Pin From Net: NetName=2.5VREF Pin=R5-2
+Removed Pin From Net: NetName=2.5VREF Pin=R10-1
+Removed Pin From Net: NetName=SERVO + VOLTAGE Pin=R10-2
+Added Component: Designator=C34(CAPC2012X09M)
+Added Component: Designator=C35(CAPACITOR_6.3MM)
+Added Component: Designator=C42(CAPC2012X09M)
+Added Component: Designator=R7(RESC2112X05M)
+Added Component: Designator=R14(RESC2112X05M)
+Added Component: Designator=R18(RESC2112X05M)
+Added Component: Designator=R19(RESC2112X05M)
+Added Pin To Net: NetName=5VA Pin=C32-2
+Added Pin To Net: NetName=VIN Pin=C33-1
+Added Pin To Net: NetName=NetC34_1 Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=VIN Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=VIN Pin=C40-1
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=NetC42_2 Pin=C40-2
+Added Pin To Net: NetName=NetFreescale_Processor1_4 Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR7_1 Pin=R5-1
+Added Pin To Net: NetName=2.5VREF Pin=R5-2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR8_1 Pin=R10-2
+Added Pin To Net: NetName=2.5VREF Pin=R10-1
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R10-2
+Added Pin To Net: NetName=NetCan_Bus1_4 Pin=R16-1
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R16-2
+Added Pin To Net: NetName=NetCan_Bus1_1 Pin=R17-1
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R17-2
+Added Pin To Net: NetName=NetCan_Bus1_7 Pin=R16-1
+Added Pin To Net: NetName=NetC7_1 Pin=R16-2
+Added Pin To Net: NetName=NetCan_Bus1_6 Pin=R17-1
+Added Pin To Net: NetName=NetC6_1 Pin=R17-2
+Added Pin To Net: NetName=MODA Pin=AR_DIG1-4
+Added Pin To Net: NetName=MODA Pin=AR_PWR1-6
+Added Pin To Net: NetName=MODA Pin=AR_PWR1-7
+Added Pin To Net: NetName=MODA Pin=BDM_PORT1-2
+Added Pin To Net: NetName=MODA Pin=C1-2
+Added Pin To Net: NetName=MODA Pin=C2-2
+Added Pin To Net: NetName=MODA Pin=C3-2
+Added Pin To Net: NetName=MODA Pin=C4-1
+Added Pin To Net: NetName=MODA Pin=C5-1
+Added Pin To Net: NetName=MODA Pin=C6-2
+Added Pin To Net: NetName=MODA Pin=C7-2
+Added Pin To Net: NetName=MODA Pin=C9-1
+Added Pin To Net: NetName=MODA Pin=C10-1
+Added Pin To Net: NetName=MODA Pin=C11-1
+Added Pin To Net: NetName=MODA Pin=C12-1
+Added Pin To Net: NetName=MODA Pin=C13-1
+Added Pin To Net: NetName=MODA Pin=C14-1
+Added Pin To Net: NetName=MODA Pin=C16-1
+Added Pin To Net: NetName=MODA Pin=C17-1
+Added Pin To Net: NetName=MODA Pin=C18-1
+Added Pin To Net: NetName=MODA Pin=C19-2
+Added Pin To Net: NetName=MODA Pin=C20-2
+Added Pin To Net: NetName=MODA Pin=C21-1
+Added Pin To Net: NetName=MODA Pin=C22-1
+Added Pin To Net: NetName=MODA Pin=C23-1
+Added Pin To Net: NetName=MODA Pin=C25-1
+Added Pin To Net: NetName=MODA Pin=C26-2
+Added Pin To Net: NetName=MODA Pin=C27-2
+Added Pin To Net: NetName=MODA Pin=C29-2
+Added Pin To Net: NetName=MODA Pin=C31-1
+Added Pin To Net: NetName=MODA Pin=C32-1
+Added Pin To Net: NetName=MODA Pin=C33-2
+Added Pin To Net: NetName=MODA Pin=C45-2
+Added Pin To Net: NetName=MODA Pin=C46-2
+Added Pin To Net: NetName=MODA Pin=C47_A-2
+Added Pin To Net: NetName=MODA Pin=C47_D-2
+Added Pin To Net: NetName=MODA Pin=C48_A-2
+Added Pin To Net: NetName=MODA Pin=C48_D-2
+Added Pin To Net: NetName=MODA Pin=C50_A-1
+Added Pin To Net: NetName=MODA Pin=C50_D-1
+Added Pin To Net: NetName=MODA Pin=CameraCon1-6
+Added Pin To Net: NetName=MODA Pin=Can_Bus1-2
+Added Pin To Net: NetName=MODA Pin=CFil_1-2
+Added Pin To Net: NetName=MODA Pin=CFil_2-2
+Added Pin To Net: NetName=MODA Pin=D6_A-2
+Added Pin To Net: NetName=MODA Pin=D6_D-2
+Added Pin To Net: NetName=MODA Pin=DS1-3
+Added Pin To Net: NetName=MODA Pin=Freescale_Processor1-10
+Added Pin To Net: NetName=MODA Pin=Freescale_Processor1-25
+Added Pin To Net: NetName=MODA Pin=Freescale_Processor1-26
+Added Pin To Net: NetName=MODA Pin=Freescale_Processor1-28
+Added Pin To Net: NetName=MODA Pin=Freescale_Processor1-33
+Added Pin To Net: NetName=MODA Pin=Freescale_Processor1-36
+Added Pin To Net: NetName=MODA Pin=Freescale_Processor1-50
+Added Pin To Net: NetName=MODA Pin=Freescale_Processor1-62
+Added Pin To Net: NetName=MODA Pin=Freescale_Processor1-76
+Added Pin To Net: NetName=MODA Pin=MAX1-7
+Added Pin To Net: NetName=MODA Pin=MAX2-15
+Added Pin To Net: NetName=MODA Pin=NO_AUTO1-1
+Added Pin To Net: NetName=MODA Pin=P1-1
+Added Pin To Net: NetName=MODA Pin=R1-1
+Added Pin To Net: NetName=MODA Pin=R2-1
+Added Pin To Net: NetName=MODA Pin=R11-2
+Added Pin To Net: NetName=MODA Pin=R12-2
+Added Pin To Net: NetName=MODA Pin=R15-1
+Added Pin To Net: NetName=MODA Pin=R23-2
+Added Pin To Net: NetName=MODA Pin=R34-1
+Added Pin To Net: NetName=MODA Pin=R38-1
+Added Pin To Net: NetName=MODA Pin=R43-1
+Added Pin To Net: NetName=MODA Pin=R44-1
+Added Pin To Net: NetName=MODA Pin=R45-1
+Added Pin To Net: NetName=MODA Pin=R46-1
+Added Pin To Net: NetName=MODA Pin=R47-2
+Added Pin To Net: NetName=MODA Pin=R54-1
+Added Pin To Net: NetName=MODA Pin=R55-1
+Added Pin To Net: NetName=MODA Pin=R56_A-2
+Added Pin To Net: NetName=MODA Pin=R56_D-2
+Added Pin To Net: NetName=MODA Pin=R58_A-1
+Added Pin To Net: NetName=MODA Pin=R58_D-1
+Added Pin To Net: NetName=MODA Pin=Reset1-1
+Added Pin To Net: NetName=MODA Pin=Reset1-2
+Added Pin To Net: NetName=MODA Pin=ROMCTL1-2
+Added Pin To Net: NetName=MODA Pin=RS1-5
+Added Pin To Net: NetName=MODA Pin=SM_H1-4
+Added Pin To Net: NetName=MODA Pin=SM_H1-5
+Added Pin To Net: NetName=MODA Pin=SM_H1-6
+Added Pin To Net: NetName=MODA Pin=SM_H1-7
+Added Pin To Net: NetName=MODA Pin=SM_H1-14
+Added Pin To Net: NetName=MODA Pin=SM_H1-15
+Added Pin To Net: NetName=MODA Pin=SM_H1-16
+Added Pin To Net: NetName=MODA Pin=SM_H1-17
+Added Pin To Net: NetName=MODA Pin=SMPS-A1_A-6
+Added Pin To Net: NetName=MODA Pin=SMPS-A1_A-9
+Added Pin To Net: NetName=MODA Pin=SMPS-A1_D-6
+Added Pin To Net: NetName=MODA Pin=SMPS-A1_D-9
+Added Pin To Net: NetName=MODA Pin=T1-2
+Added Pin To Net: NetName=MODA Pin=T2-2
+Added Pin To Net: NetName=MODA Pin=U1-5
+Added Pin To Net: NetName=MODA Pin=U1-10
+Added Pin To Net: NetName=MODA Pin=U2-11
+Added Pin To Net: NetName=MODA Pin=U5-1
+Added Pin To Net: NetName=MODA Pin=VRL_EN1-2
+Added Net: Name=MODA
+Added Member To Class: ClassName=DC_Motor Member=Component C34 Cap
+Added Member To Class: ClassName=DC_Motor Member=Component C35 Cap Pol
+Added Member To Class: ClassName=DC_Motor Member=Component C42 C1
+Added Member To Class: ClassName=Accelerometer Member=Component R7 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R14 Res3
+Added Member To Class: ClassName=CanBus Member=Component R18 Res3
+Added Member To Class: ClassName=CanBus Member=Component R19 Res3

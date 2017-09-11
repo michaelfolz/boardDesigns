@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=AD0 Pin=AR_AD-1
+Removed Pin From Net: NetName=AD1 Pin=AR_AD-2
+Removed Pin From Net: NetName=AD3 Pin=AR_AD-4
+Removed Pin From Net: NetName=TX_RS232 Pin=AR_DIG7-0-7
+Removed Pin From Net: NetName=RX_RS232 Pin=AR_DIG7-0-8
+Removed Pin From Net: NetName=SPI_MISO Pin=AR_DIG13-8-6
+Removed Pin From Net: NetName=SPI_MOSI Pin=AR_DIG13-8-7
+Removed Pin From Net: NetName=VCC Pin=AR_PWR-5
+Removed Pin From Net: NetName=MODA Pin=C?-2
+Removed Pin From Net: NetName=5VD Pin=D2-1
+Removed Pin From Net: NetName=NetFreescale_Processor_5 Pin=Freescale_Processor-6
+Removed Pin From Net: NetName=MODA Pin=R2-1
+Change Component DesignItemId : Designator=D2 Old DesignItemId=Diode 1N4148 New DesignItemId=LED2
+Change Component DesignItemId : Designator=D2 Old DesignItemId=LED2 New DesignItemId=Diode 1N4148
+Change Component Footprint: Designator=D2 Old Footprint=3.2X1.6X1.1 New Footprint=zener_sod323
+Change Component Footprint: Designator=D2 Old Footprint=zener_sod323 New Footprint=3.2X1.6X1.1
+Change Component Comment : Designator=D2 Old Comment=1N4148 New Comment=LED2
+Change Component Comment : Designator=D2 Old Comment=LED2 New Comment=1N4148
+Added Component: Designator=R11(RESC2112X05M)
+Added Component: Designator=R11(RESC2112X05M)
+Added Component: Designator=R11(RESC2112X05M)
+Added Pin To Net: NetName=AD3 Pin=AR_AD-2
+Added Pin To Net: NetName=AD1 Pin=AR_AD-4
+Added Pin To Net: NetName=AD0 Pin=AR_AD-5
+Added Pin To Net: NetName=PB7 Pin=AR_DIG7-0-1
+Added Pin To Net: NetName=PB6 Pin=AR_DIG7-0-2
+Added Pin To Net: NetName=PB5 Pin=AR_DIG7-0-3
+Added Pin To Net: NetName=PB4 Pin=AR_DIG7-0-4
+Added Pin To Net: NetName=SPI_MOSI Pin=AR_DIG13-8-6
+Added Pin To Net: NetName=SPI_MISO Pin=AR_DIG13-8-7
+Added Pin To Net: NetName=5VD Pin=AR_PWR-5
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetBDM_PORT_4 Pin=D2-A
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=5VD Pin=R2-2
+Added Pin To Net: NetName=5VD Pin=R2-2
+Added Pin To Net: NetName=SPI_MISO Pin=R11-1
+Added Pin To Net: NetName=SPI_MOSI Pin=R11-1
+Added Pin To Net: NetName=SPI_SS Pin=R11-1
+Added Pin To Net: NetName=5VD Pin=R11-2
+Added Pin To Net: NetName=5VD Pin=R11-2
+Added Pin To Net: NetName=5VD Pin=R11-2
+Added Pin To Net: NetName=DAC_CS Pin=R?-1
+Added Pin To Net: NetName=5VD Pin=R?-2
+Added Pin To Net: NetName=I2C_SCL Pin=Rena-2
+Added Pin To Net: NetName=I2C_SDA Pin=Renb-2
+Added Pin To Net: NetName=NetFreescale_Processor_5 Pin=Schmitt_Trigger-2
+Added Pin To Net: NetName=MODA Pin=T1-2
+Added Pin To Net: NetName=MODA Pin=T1-2
+Change Net Name : Old Net Name=NetAR_DIG13-8_9 New Net Name=PA1
+Change Net Name : Old Net Name=NetAR_DIG13-8_10 New Net Name=PA0
+Change Net Name : Old Net Name=PA0 New Net Name=PA2
+Change Net Name : Old Net Name=PA1 New Net Name=PA3
+Added Pin To Net: NetName=AD4 Pin=AR_AD-1
+Added Pin To Net: NetName=AD4 Pin=Freescale_Processor-55
+Added Net: Name=AD4
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R2-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetFreescale_Processor_6 Pin=Freescale_Processor-6
+Added Pin To Net: NetName=NetFreescale_Processor_6 Pin=U?-4
+Added Net: Name=NetFreescale_Processor_6
+Change Class Name : Old Net Name=Arduino_Header New Net Name= ili9327 LCD
+Added Member To Class: ClassName=MC9S12 Member=Component D2 1N4148
+Added Member To Class: ClassName=RS232 Member=Component D2 LED2
+Added Member To Class: ClassName=RS232 Member=Component R2 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R? Res3
+Added Member To Class: ClassName=CanBus Member=Component R? Res3
+Added Member To Class: ClassName=DAC Member=Component R? Res3
+Added Room: Name= ili9327 LCD

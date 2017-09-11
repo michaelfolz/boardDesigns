@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5VD Pin=CameraCon1-5
+Removed Pin From Net: NetName=5VD Pin=R40-1
+Removed Pin From Net: NetName=5VD Pin=R41-1
+Change Component Designator: OldDesignator= NewDesignator=*
+Added Pin To Net: NetName=5VA Pin=CameraCon1-5
+Added Pin To Net: NetName=5VA Pin=R40-1
+Added Pin To Net: NetName=5VA Pin=R41-1
+Added Member To Class: ClassName=MCP23S09 Member=Component * MCP23009
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board

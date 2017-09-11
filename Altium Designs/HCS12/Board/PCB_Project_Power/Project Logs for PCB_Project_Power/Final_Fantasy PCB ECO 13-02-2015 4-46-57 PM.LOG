@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SWITCH_LEFT+ Pin=R51-1
+Removed Pin From Net: NetName=SERVO SIGNAL Pin=R51-2
+Added Component: Designator=R55(RESC2112X05M)
+Added Pin To Net: NetName=SWITCH_LEFT- Pin=CameraCon1-15
+Added Pin To Net: NetName=SWITCH_LEFT- Pin=R43-2
+Added Pin To Net: NetName=5VA Pin=R51-1
+Added Pin To Net: NetName=NetC40_2 Pin=R51-2
+Added Pin To Net: NetName=SWITCH_LEFT+ Pin=R51-1
+Added Pin To Net: NetName=SERVO SIGNAL Pin=R51-2
+Change Net Name : Old Net Name=SWITCH_LEFT+ New Net Name=GND
+Added Member To Class: ClassName=RC_PWM Member=Component R55 Res3

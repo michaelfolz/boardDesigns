@@ -1,0 +1,6 @@
+Added Component: Designator=*(PJ-002AH-SMD)
+Added Pin To Net: NetName=VIN Pin=*-1
+Added Pin To Net: NetName=VIN Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-3
+Added Member To Class: ClassName=Project_Board Member=Component * PJ-S002AH-SMD

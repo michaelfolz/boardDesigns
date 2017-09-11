@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MOTOR_EN Pin=Freescale_Processor1-67
+Added Pin To Net: NetName=ROMCTL Pin=Freescale_Processor1-67
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board

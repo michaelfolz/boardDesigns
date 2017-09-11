@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SPI_MOSI Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Room: Name=Accelerometer
+Added Room: Name=CanBus
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board

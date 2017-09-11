@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=DAC-1
+Removed Pin From Net: NetName=NetDAC_2 Pin=MAX1-4
+Removed Pin From Net: NetName=NetDAC_3 Pin=MAX1-5
+Added Pin To Net: NetName=GND Pin=DAC-4
+Added Pin To Net: NetName=NetDAC_2 Pin=MAX1-5
+Added Pin To Net: NetName=NetDAC_3 Pin=MAX1-8
+Added Pin To Net: NetName=NetDAC_1 Pin=DAC-1
+Added Pin To Net: NetName=NetDAC_1 Pin=MAX1-4
+Added Net: Name=NetDAC_1
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board

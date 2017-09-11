@@ -1,0 +1,27 @@
+Removed Member From Class: ClassName=Project_Board Member=C31
+Removed Member From Class: ClassName=Project_Board Member=C32
+Removed Member From Class: ClassName=Project_Board Member=C33
+Change Component DesignItemId : Designator=C36 Old DesignItemId=CAP-X7R-5600pF-50V-±10% New DesignItemId=CAP-Z5U-.1uF-50V-±20%
+Change Component DesignItemId : Designator=C34 Old DesignItemId=CAP-X7R-.1uF-50V-±20% New DesignItemId=CAP-Z5U-.1uF-50V-±20%
+Change Component DesignItemId : Designator=C35 Old DesignItemId=CAP-X7R-.1uF-50V-±20% New DesignItemId=CAP-Z5U-.1uF-50V-±20%
+Change Component DesignItemId : Designator=C33 Old DesignItemId=CAP-Z5U-.1uF-50V-±20% New DesignItemId=CAP-X7R-5600pF-50V-±10%
+Change Component DesignItemId : Designator=C31 Old DesignItemId=CAP-Z5U-.1uF-50V-±20% New DesignItemId=CAP-X7R-.1uF-50V-±20%
+Change Component DesignItemId : Designator=C32 Old DesignItemId=CAP-Z5U-.1uF-50V-±20% New DesignItemId=CAP-X7R-.1uF-50V-±20%
+Change Component Designator: OldDesignator=C31 NewDesignator=C34
+Change Component Designator: OldDesignator=C32 NewDesignator=C35
+Change Component Designator: OldDesignator=C33 NewDesignator=C36
+Change Component Description : Designator=C36 Old Description=CAP CER 5600pF 50v X7R 0805 New Description=CAP CER .1uF 50v Z5U 0805
+Change Component Description : Designator=C34 Old Description=CAP CER .1uF 50v X7R 0805 New Description=CAP CER .1uF 50v Z5U 0805
+Change Component Description : Designator=C35 Old Description=CAP CER .1uF 50v X7R 0805 New Description=CAP CER .1uF 50v Z5U 0805
+Change Component Description : Designator=C36 Old Description=CAP CER .1uF 50v Z5U 0805 New Description=CAP CER 5600pF 50v X7R 0805
+Change Component Description : Designator=C34 Old Description=CAP CER .1uF 50v Z5U 0805 New Description=CAP CER .1uF 50v X7R 0805
+Change Component Description : Designator=C35 Old Description=CAP CER .1uF 50v Z5U 0805 New Description=CAP CER .1uF 50v X7R 0805
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=5VA Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=5VD Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=3.3VD Pin=C36-2
+Added Member To Class: ClassName=Project_Board Member=Component C34 Cap
+Added Member To Class: ClassName=Project_Board Member=Component C35 Cap
+Added Member To Class: ClassName=Project_Board Member=Component C36 Cap

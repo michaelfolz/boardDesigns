@@ -1,0 +1,9 @@
+Added Component: Designator=DS1(SOT95P230X110-3M)
+Added Component: Designator=U?(MP04A_L)
+Added Pin To Net: NetName=NetD5_K Pin=DS1-1
+Added Pin To Net: NetName=5VD Pin=DS1-2
+Added Pin To Net: NetName=3.3VD Pin=U?-2
+Added Pin To Net: NetName=5VD Pin=U?-3
+Added Pin To Net: NetName=3.3VD Pin=U?-4
+Added Member To Class: ClassName=MC9S12 Member=Component DS1 DS1813-10
+Added Member To Class: ClassName=3.3V_Reg Member=Component U? LM1117IMP-ADJ/NOPB

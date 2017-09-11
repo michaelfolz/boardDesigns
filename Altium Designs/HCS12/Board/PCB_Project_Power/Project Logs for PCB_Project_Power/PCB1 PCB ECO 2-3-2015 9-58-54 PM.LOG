@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=2.5VREF Pin=C7-2
+Removed Pin From Net: NetName=2.5VREF Pin=R10-1
+Removed Pin From Net: NetName=5VD Pin=R10-2
+Removed Pin From Net: NetName=2.5VREF Pin=R12-2
+Removed Member From Class: ClassName=Accelerometer Member=C11
+Removed Member From Class: ClassName=CanBus Member=C11
+Removed Member From Class: ClassName=MC9S12 Member=C30
+Removed Member From Class: ClassName=RS232 Member=C37
+Removed Member From Class: ClassName=DC_Motor Member=C43
+Removed Member From Class: ClassName=Accelerometer Member=R17
+Removed Member From Class: ClassName=CanBus Member=R17
+Removed Member From Class: ClassName=Accelerometer Member=R18
+Removed Member From Class: ClassName=CanBus Member=R18
+Removed Member From Class: ClassName=HD44780_LCD Member=R25
+Removed Member From Class: ClassName=RS232 Member=R42
+Removed Member From Class: ClassName=RS232 Member=R43
+Removed Member From Class: ClassName=DC_Motor Member=R54
+Added Member To Class: ClassName=CanBus Member=Component C10 Cap
+Added Member To Class: ClassName=MC9S12 Member=Component C29 Cap
+Added Member To Class: ClassName=RS232 Member=Component C34 Cap
+Added Member To Class: ClassName=DC_Motor Member=Component C42 Cap
+Added Member To Class: ClassName=CanBus Member=Component R15 Res3
+Added Member To Class: ClassName=CanBus Member=Component R16 Res3
+Added Member To Class: ClassName=HD44780_LCD Member=Component R23 Res3
+Added Member To Class: ClassName=RS232 Member=Component R40 Res3
+Added Member To Class: ClassName=RS232 Member=Component R41 Res3
+Added Member To Class: ClassName=DC_Motor Member=Component R52 Res3

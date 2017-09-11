@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=R51-1
+Removed Pin From Net: NetName=SERVO SIGNAL Pin=R51-2
+Removed Member From Class: ClassName=DC_Motor Member=C44
+Removed Member From Class: ClassName=DC_Motor Member=C45
+Removed Member From Class: ClassName=DC_Motor Member=U5
+Added Component: Designator=R55(RESC2112X05M)
+Added Pin To Net: NetName=5VA Pin=R51-1
+Added Pin To Net: NetName=NetC40_2 Pin=R51-2
+Added Pin To Net: NetName=GND Pin=R51-1
+Added Pin To Net: NetName=SERVO SIGNAL Pin=R51-2
+Added Member To Class: ClassName=DC_Motor Member=Component C40 Cap
+Added Member To Class: ClassName=DC_Motor Member=Component C41 C1
+Added Member To Class: ClassName=DC_Motor Member=Component R51 Res3
+Added Member To Class: ClassName=DC_Motor Member=Component R52 Res3
+Added Member To Class: ClassName=DC_Motor Member=Component U4 74ACT14_3

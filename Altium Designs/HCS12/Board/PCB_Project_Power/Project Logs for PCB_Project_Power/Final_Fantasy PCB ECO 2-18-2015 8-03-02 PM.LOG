@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=5VD Pin=SPI Expander-1
+Removed Pin From Net: NetName=PJ6 Pin=SPI Expander-3
+Removed Pin From Net: NetName=SPI_SCK Pin=SPI Expander-4
+Removed Pin From Net: NetName=SPI_MOSI Pin=SPI Expander-5
+Removed Pin From Net: NetName=PJ7 Pin=SPI Expander-8
+Removed Pin From Net: NetName=PEX0 Pin=SPI Expander-9
+Removed Pin From Net: NetName=PEX1 Pin=SPI Expander-10
+Removed Pin From Net: NetName=PEX2 Pin=SPI Expander-11
+Removed Pin From Net: NetName=PEX3 Pin=SPI Expander-12
+Removed Pin From Net: NetName=PEX4 Pin=SPI Expander-13
+Removed Pin From Net: NetName=PEX5 Pin=SPI Expander-14
+Removed Pin From Net: NetName=PEX6 Pin=SPI Expander-15
+Removed Pin From Net: NetName=PEX7 Pin=SPI Expander-16
+Removed Member From Class: ClassName=MCP23S09 Member=SPI Expander
+Added Component: Designator=*(MCP23009)
+Added Pin To Net: NetName=5VD Pin=*-1
+Added Pin To Net: NetName=PJ6 Pin=*-3
+Added Pin To Net: NetName=SPI_SCK Pin=*-4
+Added Pin To Net: NetName=SPI_MOSI Pin=*-5
+Added Pin To Net: NetName=PJ7 Pin=*-8
+Added Pin To Net: NetName=PEX0 Pin=*-9
+Added Pin To Net: NetName=PEX1 Pin=*-10
+Added Pin To Net: NetName=PEX2 Pin=*-11
+Added Pin To Net: NetName=PEX3 Pin=*-12
+Added Pin To Net: NetName=PEX4 Pin=*-13
+Added Pin To Net: NetName=PEX5 Pin=*-14
+Added Pin To Net: NetName=PEX6 Pin=*-15
+Added Pin To Net: NetName=PEX7 Pin=*-16
+Added Pin To Net: NetName=GND Pin=*-18
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Pin To Net: NetName=Net*_7 Pin=R58-1
+Added Net: Name=Net*_7
+Added Member To Class: ClassName=MCP23S09 Member=Component * MCP23009

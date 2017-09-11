@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=SPI_SCK Pin=-3
+Removed Pin From Net: NetName=SPI_MOSI Pin=-4
+Removed Pin From Net: NetName=SPI_MISO Pin=-5
+Removed Pin From Net: NetName=SPI_SS Pin=-6
+Removed Pin From Net: NetName=PA1 Pin=-7
+Removed Pin From Net: NetName=PA0 Pin=-8
+Added Component: Designator=AR_DIG1(HDR1X8)
+Added Pin To Net: NetName=AD5 Pin=AR_AD1-6
+Added Pin To Net: NetName=GND Pin=AR_DIG1-2
+Added Pin To Net: NetName=SPI_SCK Pin=AR_DIG1-3
+Added Pin To Net: NetName=SPI_MOSI Pin=AR_DIG1-4
+Added Pin To Net: NetName=SPI_MISO Pin=AR_DIG1-5
+Added Pin To Net: NetName=SPI_SS Pin=AR_DIG1-6
+Added Pin To Net: NetName=PA1 Pin=AR_DIG1-7
+Added Pin To Net: NetName=PA0 Pin=AR_DIG1-8
+Added Pin To Net: NetName=PB6 Pin=AR_DIG2-7
+Added Pin To Net: NetName=PB7 Pin=AR_DIG2-8
+Added Member To Class: ClassName=ili9327 LCD Member=Component AR_DIG1 Header 8
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board

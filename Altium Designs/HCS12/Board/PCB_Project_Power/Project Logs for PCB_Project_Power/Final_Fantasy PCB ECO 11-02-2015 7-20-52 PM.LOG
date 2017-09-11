@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=5VA Pin=R51-1
+Removed Pin From Net: NetName=GND Pin=R51-1
+Removed Pin From Net: NetName=NetC40_2 Pin=R51-2
+Removed Pin From Net: NetName=SERVO SIGNAL Pin=R51-2
+Removed Member From Class: ClassName=3.3V_Reg Member=C40
+Removed Member From Class: ClassName=3.3V_Reg Member=C41
+Removed Member From Class: ClassName=RC_PWM Member=R51
+Removed Member From Class: ClassName=3.3V_Reg Member=U4
+Change Component DesignItemId : Designator=R51 Old DesignItemId=Resistor_10.0K New DesignItemId=Resistor_1.00K
+Change Component Designator: OldDesignator=C40 NewDesignator=C44
+Change Component Designator: OldDesignator=C41 NewDesignator=C45
+Change Component Designator: OldDesignator=C42_A NewDesignator=C46_A
+Change Component Designator: OldDesignator=C42_D NewDesignator=C46_D
+Change Component Designator: OldDesignator=C43_A NewDesignator=C47_A
+Change Component Designator: OldDesignator=C43_D NewDesignator=C47_D
+Change Component Designator: OldDesignator=C44_A NewDesignator=C48_A
+Change Component Designator: OldDesignator=C44_D NewDesignator=C48_D
+Change Component Designator: OldDesignator=C45_A NewDesignator=C49_A
+Change Component Designator: OldDesignator=C45_D NewDesignator=C49_D
+Change Component Designator: OldDesignator=R52 NewDesignator=R56
+Change Component Designator: OldDesignator=R53_A NewDesignator=R57_A
+Change Component Designator: OldDesignator=R53_D NewDesignator=R57_D
+Change Component Designator: OldDesignator=R54_A NewDesignator=R58_A
+Change Component Designator: OldDesignator=R54_D NewDesignator=R58_D
+Change Component Designator: OldDesignator=R55_A NewDesignator=R59_A
+Change Component Designator: OldDesignator=R55_D NewDesignator=R59_D
+Change Component Designator: OldDesignator=R? NewDesignator=R52
+Change Component Designator: OldDesignator=SPI_OUT NewDesignator=SPI_OUT1
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=V5D_IN1 NewDesignator=V1
+Change Component Designator: OldDesignator=VIN_IN NewDesignator=VIN_IN1
+Change Component Description : Designator=R51 Old Description=RES SMD 10.0K OHM 1% 1/8W 0805 New Description=RES SMD 1.00K OHM 1% 1/8W 0805
+Change Component Library : Designator=R51 Old Library=esd_library.IntLib New Library=esd_library (1).IntLib
+Added Component: Designator=R55(RESC2112X05M)
+Added Pin To Net: NetName=5VA Pin=R51-1
+Added Pin To Net: NetName=NetC40_2 Pin=R51-2
+Added Pin To Net: NetName=GND Pin=R51-1
+Added Pin To Net: NetName=SERVO SIGNAL Pin=R51-2
+Change Net Name : Old Net Name=NetC44_A_1 New Net Name=NetC48_A_1
+Change Net Name : Old Net Name=NetC44_A_2 New Net Name=NetC48_A_2
+Change Net Name : Old Net Name=NetC44_D_1 New Net Name=NetC48_D_1
+Change Net Name : Old Net Name=NetC44_D_2 New Net Name=NetC48_D_2
+Change Net Name : Old Net Name=NetR52_2 New Net Name=NetR56_2
+Change Net Name : Old Net Name=NetR53_A_1 New Net Name=NetR57_A_1
+Change Net Name : Old Net Name=NetR53_D_1 New Net Name=NetR57_D_1
+Change Net Name : Old Net Name=NetR55_D_2 New Net Name=NetR59_D_2
+Added Member To Class: ClassName=3.3V_Reg Member=Component C44 Pol
+Added Member To Class: ClassName=3.3V_Reg Member=Component C45 Pol
+Added Member To Class: ClassName=RC_PWM Member=Component R55 Res3
+Added Member To Class: ClassName=RC_PWM Member=Component R56 R2_B
+Added Member To Class: ClassName=3.3V_Reg Member=Component U5 LM1117IMP-ADJ/NOPB

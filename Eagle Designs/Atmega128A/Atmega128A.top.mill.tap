@@ -1,0 +1,35 @@
+(.../Program Files (x86)/EAGLE-6.5.0/ulp/pcb-gcode.ulp)
+(Copyright 2005 - 2012 by John Johnson)
+(See readme.txt for licensing terms.)
+(This file generated from the board:)
+(.../Eagle Designs/Atmega128A/Atmega128A.brd)
+(Current profile is .../EAGLE-6.5.0/ulp/profiles/mach.pp  )
+(This file generated 31/10/2013 2:35:26 PM)
+(Settings from pcb-machine.h)
+(  Tool Size)
+(0.1000  )
+(Z Axis Settings)
+(  High     Up        Down     Drill)
+(1.2000  	1.2000  	-0.1778 	-0.8128 )
+(spindle on time = 3.0000)
+(milling depth = -0.2540)
+(text depth = -0.1270)
+(tool change at 12.7000 15.2400 25.4000 )
+(feed rate xy = F508   )
+(feed rate z  = F254   )
+(Settings from pcb-defaults.h)
+(isolate min = 0.0254)
+(isolate max = 0.5080)
+(isolate step = 0.1270)
+(Generated top outlines, top drill, )
+(Unit of measure: mm)
+(Metric Mode)
+G21
+(Absolute Coordinates)
+G90
+G00 X0.0000  Y0.0000  
+M03
+G04 P3.000000
+G00 Z1.2000  
+M05
+M02

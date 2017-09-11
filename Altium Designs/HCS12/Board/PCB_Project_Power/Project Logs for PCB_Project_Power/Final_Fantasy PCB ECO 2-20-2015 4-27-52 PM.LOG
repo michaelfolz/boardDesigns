@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VIN Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=NetC36_1 Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Change Component DesignItemId : Designator=C31 Old DesignItemId=CAP-X7R-.1uF-50V-±20% New DesignItemId=CAP-Z5U-.1uF-50V-±20%
+Change Component DesignItemId : Designator=C32 Old DesignItemId=CAP-X7R-.1uF-50V-±20% New DesignItemId=CAP-Z5U-.1uF-50V-±20%
+Change Component DesignItemId : Designator=C33 Old DesignItemId=CAP-X7R-.1uF-50V-±20% New DesignItemId=CAP-Z5U-.1uF-50V-±20%
+Change Component Description : Designator=C31 Old Description=CAP CER .1uF 50v X7R 0805 New Description=CAP CER .1uF 50v Z5U 0805
+Change Component Description : Designator=C32 Old Description=CAP CER .1uF 50v X7R 0805 New Description=CAP CER .1uF 50v Z5U 0805
+Change Component Description : Designator=C33 Old Description=CAP CER .1uF 50v X7R 0805 New Description=CAP CER .1uF 50v Z5U 0805
+Added Component: Designator=C34(CAPC2012X09M)
+Added Component: Designator=C35(CAPC2012X09M)
+Added Component: Designator=C36(CAPC2012X09M)
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=5VD Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=3.3VD Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=5VA Pin=C31-2
+Added Pin To Net: NetName=VIN Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=NetC36_1 Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2

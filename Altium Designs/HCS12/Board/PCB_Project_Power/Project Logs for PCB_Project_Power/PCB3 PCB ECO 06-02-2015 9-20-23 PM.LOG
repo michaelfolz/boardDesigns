@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=DAC_CS Pin=Freescale_Processor1-69
+Removed Pin From Net: NetName=DAC_CS Pin=Slave_Select1-1
+Change Component Designator: OldDesignator=Slave_Select1 NewDesignator=I2C
+Added Component: Designator=CameraCon(HDR1X16)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=R32(RESC2112X05M)
+Added Component: Designator=R?(RESC2112X05M)
+Added Component: Designator=R?(RESC2112X05M)
+Added Component: Designator=ROMCTL(HDR1X2)
+Added Pin To Net: NetName=NetR54_2 Pin=CameraCon-4
+Added Pin To Net: NetName=DAC_CS Pin=Freescale_Processor1-78
+Added Pin To Net: NetName=5VD Pin=R32-2
+Change Net Name : Old Net Name=NetR54_2 New Net Name=SERVO SIGNAL
+Added Pin To Net: NetName=NetFreescale_Processor1_69 Pin=Freescale_Processor1-69
+Added Pin To Net: NetName=NetFreescale_Processor1_69 Pin=I2C-1
+Added Net: Name=NetFreescale_Processor1_69
+Added Pin To Net: NetName=ROMCTL Pin=Freescale_Processor1-67
+Added Pin To Net: NetName=ROMCTL Pin=R32-1
+Added Pin To Net: NetName=ROMCTL Pin=ROMCTL-1
+Added Net: Name=ROMCTL
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=CameraCon-5
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R35-2
+Added Net: Name=SERVO + VOLTAGE
+Added Pin To Net: NetName=STEPPER A BAR Pin=CameraCon-12
+Added Pin To Net: NetName=STEPPER A BAR Pin=SM_H1-8
+Added Pin To Net: NetName=STEPPER A BAR Pin=StepperMotor1-2
+Added Net: Name=STEPPER A BAR
+Added Pin To Net: NetName=STEPPER A Pin=CameraCon-13
+Added Pin To Net: NetName=STEPPER A Pin=SM_H1-3
+Added Pin To Net: NetName=STEPPER A Pin=StepperMotor1-1
+Added Net: Name=STEPPER A
+Added Pin To Net: NetName=STEPPER B BAR Pin=CameraCon-8
+Added Pin To Net: NetName=STEPPER B BAR Pin=SM_H1-18
+Added Pin To Net: NetName=STEPPER B BAR Pin=StepperMotor1-4
+Added Net: Name=STEPPER B BAR
+Added Pin To Net: NetName=STEPPER B Pin=CameraCon-9
+Added Pin To Net: NetName=STEPPER B Pin=SM_H1-13
+Added Pin To Net: NetName=STEPPER B Pin=StepperMotor1-3
+Added Net: Name=STEPPER B
+Added Pin To Net: NetName=SWITCH_LEFT+ Pin=CameraCon-16
+Added Pin To Net: NetName=SWITCH_LEFT+ Pin=R?-1
+Added Net: Name=SWITCH_LEFT+
+Added Pin To Net: NetName=SWITCH_LEFT- Pin=CameraCon-15
+Added Pin To Net: NetName=SWITCH_LEFT- Pin=Freescale_Processor1-57
+Added Net: Name=SWITCH_LEFT-
+Added Pin To Net: NetName=SWITCH_RIGHT+ Pin=CameraCon-2
+Added Pin To Net: NetName=SWITCH_RIGHT+ Pin=R?-1
+Added Net: Name=SWITCH_RIGHT+
+Added Pin To Net: NetName=SWITCH_RIGHT- Pin=CameraCon-1
+Added Pin To Net: NetName=SWITCH_RIGHT- Pin=Freescale_Processor1-58
+Added Net: Name=SWITCH_RIGHT-
+Added Member To Class: ClassName=Project_Board Member=Component CameraCon Header 16
+Added Member To Class: ClassName=Project_Board Member=Component P? Header 2
+Added Member To Class: ClassName=Project_Board Member=Component R? Res3
+Added Member To Class: ClassName=MC9S12 Member=Component ROMCTL Header 2
+Added Room: Name=Project_Board

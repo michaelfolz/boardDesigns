@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=PORT-EX NewDesignator=PEX
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board

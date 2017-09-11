@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=NetD6_1 Pin=R13-2
+Change Component Designator: OldDesignator=MODE_A_Head NewDesignator=MODE_A_Head1
+Change Component Designator: OldDesignator=MODE_B_Head NewDesignator=MODE_B_Head1
+Change Component Designator: OldDesignator=R25 NewDesignator=R31
+Change Component Designator: OldDesignator=R25 NewDesignator=R36
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R37
+Change Component Designator: OldDesignator=R36 NewDesignator=R38
+Change Component Designator: OldDesignator=R37 NewDesignator=R39
+Change Component Designator: OldDesignator=R38 NewDesignator=R40
+Change Component Designator: OldDesignator=R39 NewDesignator=R41
+Change Component Designator: OldDesignator=R40 NewDesignator=R42
+Change Component Designator: OldDesignator=R41 NewDesignator=R43
+Change Component Designator: OldDesignator=R42 NewDesignator=R44
+Change Component Designator: OldDesignator=R43 NewDesignator=R45
+Change Component Designator: OldDesignator=R44 NewDesignator=R46
+Change Component Designator: OldDesignator=R45 NewDesignator=R47
+Change Component Designator: OldDesignator=R46 NewDesignator=R48
+Change Component Designator: OldDesignator=R47 NewDesignator=R49
+Change Component Designator: OldDesignator=R48 NewDesignator=R50
+Change Component Designator: OldDesignator=R49 NewDesignator=R51
+Change Component Designator: OldDesignator=R50 NewDesignator=R52
+Change Component Designator: OldDesignator=R51 NewDesignator=R53
+Change Component Designator: OldDesignator=R52 NewDesignator=R54
+Change Component Designator: OldDesignator=R53 NewDesignator=R55
+Change Component Designator: OldDesignator=R54_Analog NewDesignator=R56_Analog
+Change Component Designator: OldDesignator=R54_Digital NewDesignator=R56_Digital
+Change Component Designator: OldDesignator=R55_Analog NewDesignator=R57_Analog
+Change Component Designator: OldDesignator=R55_Digital NewDesignator=R57_Digital
+Change Component Designator: OldDesignator=R56_Analog NewDesignator=R58_Analog
+Change Component Designator: OldDesignator=R56_Digital NewDesignator=R58_Digital
+Change Component Designator: OldDesignator=Slave_Select NewDesignator=Slave_Select1
+Added Component: Designator=R34(RESC2112X05M)
+Added Pin To Net: NetName=5VD Pin=R13-2
+Added Pin To Net: NetName=NetD6_1 Pin=R13-2
+Change Net Name : Old Net Name=NetMODE_A_Head_2 New Net Name=NetMODE_A_Head1_2
+Change Net Name : Old Net Name=NetMODE_B_Head_2 New Net Name=NetMODE_B_Head1_2
+Change Net Name : Old Net Name=NetR36_2 New Net Name=NetR38_2
+Change Net Name : Old Net Name=NetR38_1 New Net Name=NetR40_1
+Change Net Name : Old Net Name=NetR52_2 New Net Name=NetR54_2
+Change Net Name : Old Net Name=NetR53_2 New Net Name=NetR55_2
+Change Net Name : Old Net Name=NetR54_Analog_1 New Net Name=NetR56_Analog_1
+Change Net Name : Old Net Name=NetR54_Digital_1 New Net Name=NetR56_Digital_1
+Change Net Name : Old Net Name=NetR56_Analog_2 New Net Name=NetR58_Analog_2
+Change Net Name : Old Net Name=NetR56_Digital_2 New Net Name=NetR58_Digital_2
+Added Member To Class: ClassName=MC9S12 Member=Component R33 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R36 Res3

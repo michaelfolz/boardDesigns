@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=ANALOG NewDesignator=ANALOG1
+Added Pin To Net: NetName=RX_RS232 Pin=MAX2-12
+Added Pin To Net: NetName=RX_RS232 Pin=R38-2

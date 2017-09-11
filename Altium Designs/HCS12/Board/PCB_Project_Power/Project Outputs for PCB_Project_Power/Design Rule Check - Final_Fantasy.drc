@@ -1,0 +1,202 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\mfolz-cc\Desktop\Owncloud\ConestogaCollege\ESE\Engineering Project IV\Final Board\Feb_28\PCB_Project_Power\Final_Fantasy.PcbDoc
+Date     : 4/28/2015
+Time     : 2:39:28 PM
+
+Processing Rule : Room MCP23S09 (Bounding Region = (51.562mm, 66.167mm, 80.01mm, 93.474mm) (InComponentClass('MCP23S09'))
+Rule Violations :0
+
+Processing Rule : Room DC_Motor (Bounding Region = (122.809mm, 60.706mm, 176.022mm, 101.6mm) (InComponentClass('DC_Motor'))
+Rule Violations :0
+
+Processing Rule : Room RC_PWM (Bounding Region = (100.219mm, 110.805mm, 119.888mm, 122.235mm) (InComponentClass('RC_PWM'))
+Rule Violations :0
+
+Processing Rule : Room Encoder (Bounding Region = (27.559mm, 66.167mm, 51.308mm, 94.234mm) (InComponentClass('Encoder'))
+Rule Violations :0
+
+Processing Rule : Room Stepper_Motor (Bounding Region = (140.162mm, 101.219mm, 176.022mm, 125.708mm) (InComponentClass('Stepper_Motor'))
+Rule Violations :0
+
+Processing Rule : Room RS232 (Bounding Region = (51.209mm, 18.034mm, 88.9mm, 65.913mm) (InComponentClass('RS232'))
+Rule Violations :0
+
+Processing Rule : Room DAC (Bounding Region = (26.797mm, 50.419mm, 51.562mm, 65.786mm) (InComponentClass('DAC'))
+Rule Violations :0
+
+Processing Rule : Room D (Bounding Region = (128.778mm, 27.287mm, 152.502mm, 61.849mm) (InComponentClass('D'))
+Rule Violations :0
+
+Processing Rule : Room 3.3V_Reg (Bounding Region = (57.531mm, 100.457mm, 83.185mm, 113.03mm) (InComponentClass('3.3V_Reg'))
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (35.65mm,-4.416mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (51.98mm,-4.416mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (64.207mm,-0.809mm)(73.207mm,-0.809mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (64.207mm,-0.809mm)(64.207mm,0.381mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (73.207mm,-0.809mm)(73.207mm,0.381mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (64.207mm,-1.342mm)(64.207mm,-0.809mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (64.207mm,-1.342mm)(64.389mm,-1.524mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (64.389mm,-1.524mm)(73.025mm,-1.524mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (73.025mm,-1.524mm)(73.207mm,-1.342mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (73.207mm,-1.342mm)(73.207mm,-0.809mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (34.95mm,-4.411mm)(34.95mm,0.189mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (52.68mm,-4.411mm)(52.68mm,0.189mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (35.65mm,-5.111mm)(51.98mm,-5.111mm)  Top Overlay
+Rule Violations :13
+
+Processing Rule : Silk to Silk (Clearance=0.051mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.051mm) (IsPad),(All)
+   Violation between Track (63.5mm,1.651mm)(63.5mm,3.175mm)  Top Overlay and 
+                     Pad *3-1(63.707mm,4.191mm)  Component Side
+   Violation between Track (63.5mm,3.175mm)(63.5mm,40.64mm)  Top Overlay and 
+                     Pad *3-1(63.707mm,4.191mm)  Component Side
+   Violation between Track (64.207mm,0.381mm)(64.207mm,12.772mm)  Top Overlay and 
+                     Pad *3-1(63.707mm,4.191mm)  Component Side
+   Violation between Track (73.207mm,0.381mm)(73.207mm,12.772mm)  Top Overlay and 
+                     Pad *3-2(73.707mm,4.191mm)  Component Side
+   Violation between Track (63.5mm,3.175mm)(63.5mm,40.64mm)  Top Overlay and 
+                     Pad *3-1(63.707mm,10.291mm)  Component Side
+   Violation between Track (64.207mm,0.381mm)(64.207mm,12.772mm)  Top Overlay and 
+                     Pad *3-1(63.707mm,10.291mm)  Component Side
+   Violation between Track (73.207mm,0.381mm)(73.207mm,12.772mm)  Top Overlay and 
+                     Pad *3-3(73.707mm,10.291mm)  Component Side
+   Violation between Track (76.292mm,70.926mm)(76.8mm,70.418mm)  Top Overlay and 
+                     Pad ECX-1-1(77.308mm,71.307mm)  Component Side
+   Violation between Track (88.265mm,20.193mm)(88.265mm,29.845mm)  Top Overlay and 
+                     Pad R22-1(87.485mm,23.495mm)  Component Side
+   Violation between Track (37.719mm,52.943mm)(49.403mm,52.943mm)  Top Overlay and 
+                     Pad IC1-10(38.354mm,51.943mm)  Component Side
+   Violation between Track (37.719mm,52.943mm)(49.403mm,52.943mm)  Top Overlay and 
+                     Pad IC1-11(39.624mm,51.943mm)  Component Side
+   Violation between Track (37.719mm,52.943mm)(49.403mm,52.943mm)  Top Overlay and 
+                     Pad IC1-12(40.894mm,51.943mm)  Component Side
+   Violation between Track (37.719mm,52.943mm)(49.403mm,52.943mm)  Top Overlay and 
+                     Pad IC1-13(42.164mm,51.943mm)  Component Side
+   Violation between Track (37.719mm,52.943mm)(49.403mm,52.943mm)  Top Overlay and 
+                     Pad IC1-14(43.434mm,51.943mm)  Component Side
+   Violation between Track (37.719mm,52.943mm)(49.403mm,52.943mm)  Top Overlay and 
+                     Pad IC1-15(44.704mm,51.943mm)  Component Side
+   Violation between Track (37.719mm,52.943mm)(49.403mm,52.943mm)  Top Overlay and 
+                     Pad IC1-16(45.974mm,51.943mm)  Component Side
+   Violation between Track (37.719mm,52.943mm)(49.403mm,52.943mm)  Top Overlay and 
+                     Pad IC1-17(47.244mm,51.943mm)  Component Side
+   Violation between Track (37.719mm,52.943mm)(49.403mm,52.943mm)  Top Overlay and 
+                     Pad IC1-18(48.514mm,51.943mm)  Component Side
+   Violation between Track (37.719mm,60.343mm)(49.403mm,60.343mm)  Top Overlay and 
+                     Pad IC1-9(38.354mm,61.343mm)  Component Side
+   Violation between Track (37.719mm,60.343mm)(49.403mm,60.343mm)  Top Overlay and 
+                     Pad IC1-8(39.624mm,61.343mm)  Component Side
+   Violation between Track (37.719mm,60.343mm)(49.403mm,60.343mm)  Top Overlay and 
+                     Pad IC1-7(40.894mm,61.343mm)  Component Side
+   Violation between Track (37.719mm,60.343mm)(49.403mm,60.343mm)  Top Overlay and 
+                     Pad IC1-6(42.164mm,61.343mm)  Component Side
+   Violation between Track (37.719mm,60.343mm)(49.403mm,60.343mm)  Top Overlay and 
+                     Pad IC1-5(43.434mm,61.343mm)  Component Side
+   Violation between Track (37.719mm,60.343mm)(49.403mm,60.343mm)  Top Overlay and 
+                     Pad IC1-4(44.704mm,61.343mm)  Component Side
+   Violation between Track (37.719mm,60.343mm)(49.403mm,60.343mm)  Top Overlay and 
+                     Pad IC1-3(45.974mm,61.343mm)  Component Side
+   Violation between Track (37.719mm,60.343mm)(49.403mm,60.343mm)  Top Overlay and 
+                     Pad IC1-2(47.244mm,61.343mm)  Component Side
+   Violation between Track (37.719mm,60.343mm)(49.403mm,60.343mm)  Top Overlay and 
+                     Pad IC1-1(48.514mm,61.343mm)  Component Side
+   Violation between Track (119.762mm,58.259mm)(134.477mm,58.259mm)  Top Overlay and 
+                     Pad U?-1(133.477mm,59.309mm)  Component Side
+   Violation between Track (119.762mm,58.259mm)(134.477mm,58.259mm)  Top Overlay and 
+                     Pad U?-2(132.207mm,59.309mm)  Component Side
+   Violation between Track (119.762mm,58.259mm)(134.477mm,58.259mm)  Top Overlay and 
+                     Pad U?-3(130.937mm,59.309mm)  Component Side
+   Violation between Track (119.762mm,58.259mm)(134.477mm,58.259mm)  Top Overlay and 
+                     Pad U?-4(129.667mm,59.309mm)  Component Side
+   Violation between Track (119.762mm,58.259mm)(134.477mm,58.259mm)  Top Overlay and 
+                     Pad U?-5(128.397mm,59.309mm)  Component Side
+   Violation between Track (119.762mm,58.259mm)(134.477mm,58.259mm)  Top Overlay and 
+                     Pad U?-6(127.127mm,59.309mm)  Component Side
+   Violation between Track (119.762mm,58.259mm)(134.477mm,58.259mm)  Top Overlay and 
+                     Pad U?-7(125.857mm,59.309mm)  Component Side
+   Violation between Track (119.762mm,58.259mm)(134.477mm,58.259mm)  Top Overlay and 
+                     Pad U?-8(124.587mm,59.309mm)  Component Side
+   Violation between Track (119.762mm,58.259mm)(134.477mm,58.259mm)  Top Overlay and 
+                     Pad U?-9(123.317mm,59.309mm)  Component Side
+   Violation between Track (119.762mm,58.259mm)(134.477mm,58.259mm)  Top Overlay and 
+                     Pad U?-10(122.047mm,59.309mm)  Component Side
+   Violation between Track (119.762mm,47.129mm)(135.762mm,47.129mm)  Top Overlay and 
+                     Pad U?-11(122.047mm,46.079mm)  Component Side
+   Violation between Track (119.762mm,47.129mm)(135.762mm,47.129mm)  Top Overlay and 
+                     Pad U?-12(123.317mm,46.079mm)  Component Side
+   Violation between Track (119.762mm,47.129mm)(135.762mm,47.129mm)  Top Overlay and 
+                     Pad U?-13(124.587mm,46.079mm)  Component Side
+   Violation between Track (119.762mm,47.129mm)(135.762mm,47.129mm)  Top Overlay and 
+                     Pad U?-14(125.857mm,46.079mm)  Component Side
+   Violation between Track (119.762mm,47.129mm)(135.762mm,47.129mm)  Top Overlay and 
+                     Pad U?-15(127.127mm,46.079mm)  Component Side
+   Violation between Track (119.762mm,47.129mm)(135.762mm,47.129mm)  Top Overlay and 
+                     Pad U?-16(128.397mm,46.079mm)  Component Side
+   Violation between Track (119.762mm,47.129mm)(135.762mm,47.129mm)  Top Overlay and 
+                     Pad U?-17(129.667mm,46.079mm)  Component Side
+   Violation between Track (119.762mm,47.129mm)(135.762mm,47.129mm)  Top Overlay and 
+                     Pad U?-18(130.937mm,46.079mm)  Component Side
+   Violation between Track (119.762mm,47.129mm)(135.762mm,47.129mm)  Top Overlay and 
+                     Pad U?-19(132.207mm,46.079mm)  Component Side
+   Violation between Track (119.762mm,47.129mm)(135.762mm,47.129mm)  Top Overlay and 
+                     Pad U?-20(133.477mm,46.079mm)  Component Side
+Rule Violations :47
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint (3.1mm > 2.54mm) : Pad RS1-11(31.32mm,10.389mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.1mm > 2.54mm) : Pad RS1-10(56.31mm,10.389mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.454mm > 2.54mm) : Pad Free-0(139.7mm,88.9mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.454mm > 2.54mm) : Pad Free-0(139.7mm,12.7mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.454mm > 2.54mm) : Pad Free-0(12.7mm,88.9mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.454mm > 2.54mm) : Pad Free-0(10.16mm,12.7mm)  Multi-Layer
+Rule Violations :6
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=1.27mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.191mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Room A (Bounding Region = (149.86mm, 27.178mm, 175.26mm, 61.977mm) (InComponentClass('A'))
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.051mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.381mm) (InNamedPolygon('Solder Side-No Net') Or  InNamedPolygon('Solder Side-No Net')),(All)
+Rule Violations :0
+
+
+Violations Detected : 66
+Time Elapsed        : 00:00:10

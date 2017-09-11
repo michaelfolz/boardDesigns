@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PB6 Pin=AR_DIG2-7
+Removed Pin From Net: NetName=PB7 Pin=AR_DIG2-8
+Removed Pin From Net: NetName=SPI_MOSI Pin=IC-5
+Change Component Designator: OldDesignator=VIN  NewDesignator=DCJack1
+Added Pin To Net: NetName=PB7 Pin=AR_DIG2-7
+Added Pin To Net: NetName=PB6 Pin=AR_DIG2-8
+Added Pin To Net: NetName=NetIC_5 Pin=IC-5

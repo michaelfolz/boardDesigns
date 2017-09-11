@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetD6_1 Pin=R13-2
+Added Component: Designator=R33(RESC2112X05M)
+Added Pin To Net: NetName=5VD Pin=R13-2
+Added Pin To Net: NetName=NetD6_1 Pin=R13-2

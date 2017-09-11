@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=Cena-2
+Removed Pin From Net: NetName=GND Pin=Cenb-1
+Removed Pin From Net: NetName=GND Pin=U?-1
+Removed Pin From Net: NetName=GND Pin=U?-8
+Removed Pin From Net: NetName=GND Pin=U?-10
+Removed Pin From Net: NetName=GND Pin=U?-11
+Removed Pin From Net: NetName=GND Pin=U?-13
+Removed Pin From Net: NetName=GND Pin=U?-20
+Removed Member From Class: ClassName=CanBus Member=U?
+Removed Member From Class: ClassName=Stepper_Motor Member=U?
+Change Component Comment : Designator=DCMotor Old Comment=Header 4 New Comment=DC_M
+Change Component Designator: OldDesignator=Q1 NewDesignator=RC_T1
+Change Component Designator: OldDesignator=Q2 NewDesignator=RC_T2
+Change Component Designator: OldDesignator=R1_In NewDesignator=RC_R1_In
+Change Component Designator: OldDesignator=R2_In NewDesignator=RC_R2_In
+Change Component Designator: OldDesignator=U? NewDesignator=Can_Bus
+Change Component Designator: OldDesignator=U? NewDesignator=DC_H
+Change Component Designator: OldDesignator=U? NewDesignator=SM_H
+Added Component: Designator=Cap_FilterEnOP(CAPC2012X09M)
+Added Component: Designator=Cap_FilterEn(CAPC2012X09M)
+Added Component: Designator=Encoder_Header(HDR1X4)
+Added Component: Designator=EncoderLimit_R(RESC2112X05M)
+Added Component: Designator=EncoderPullUP(RESC2112X05M)
+Added Component: Designator=Schmitt_Trigger(SOIC127P600X175-14M)
+Added Pin To Net: NetName=5VA Pin=EncoderLimit_R-1
+Added Pin To Net: NetName=5VA Pin=EncoderPullUP-2
+Added Pin To Net: NetName=5VA Pin=Schmitt_Trigger-14
+Change Net Name : Old Net Name=NetCanBus_1 New Net Name=NetCan_Bus_6
+Change Net Name : Old Net Name=NetCanBus_2 New Net Name=NetCan_Bus_7
+Change Net Name : Old Net Name=NetDCMotor_1 New Net Name=NetDC_H_9
+Change Net Name : Old Net Name=NetDCMotor_2 New Net Name=NetDC_H_12
+Change Net Name : Old Net Name=NetDCMotor_3 New Net Name=NetDC_H_3
+Change Net Name : Old Net Name=NetDCMotor_4 New Net Name=NetDC_H_18
+Change Net Name : Old Net Name=NetFreescale_Processor_16 New Net Name=NetDC_H_6
+Change Net Name : Old Net Name=NetFreescale_Processor_17 New Net Name=NetDC_H_14
+Change Net Name : Old Net Name=NetFreescale_Processor_18 New Net Name=NetDC_H_7
+Change Net Name : Old Net Name=NetFreescale_Processor_19 New Net Name=NetDC_H_15
+Change Net Name : Old Net Name=NetFreescale_Processor_74 New Net Name=NetCan_Bus_1
+Change Net Name : Old Net Name=NetFreescale_Processor_75 New Net Name=NetCan_Bus_4
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetRC_R1_In_2
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetR2_A_2
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetRC_R2_In_2
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=NetR2_B_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetCan_Bus_8
+Change Net Name : Old Net Name=NetRab__2 New Net Name=NetCan_Bus_5
+Change Net Name : Old Net Name=NetStepperMotor_1 New Net Name=NetSM_H_3
+Change Net Name : Old Net Name=NetStepperMotor_2 New Net Name=NetSM_H_8
+Change Net Name : Old Net Name=NetStepperMotor_3 New Net Name=NetSM_H_13
+Change Net Name : Old Net Name=NetStepperMotor_4 New Net Name=NetSM_H_18
+Change Net Name : Old Net Name=NetU?_4 New Net Name=NetDC_H_4
+Added Pin To Net: NetName=NetCap_FilterEn_2 Pin=Cap_FilterEn-2
+Added Pin To Net: NetName=NetCap_FilterEn_2 Pin=Encoder_Header-1
+Added Pin To Net: NetName=NetCap_FilterEn_2 Pin=EncoderLimit_R-2
+Added Net: Name=NetCap_FilterEn_2
+Added Pin To Net: NetName=NetCap_FilterEnOP_1 Pin=Cap_FilterEnOP-1
+Added Pin To Net: NetName=NetCap_FilterEnOP_1 Pin=Encoder_Header-4
+Added Pin To Net: NetName=NetCap_FilterEnOP_1 Pin=EncoderPullUP-1
+Added Pin To Net: NetName=NetCap_FilterEnOP_1 Pin=Schmitt_Trigger-1
+Added Net: Name=NetCap_FilterEnOP_1
+Added Pin To Net: NetName=NetEncoder_Header_2 Pin=Encoder_Header-2
+Added Net: Name=NetEncoder_Header_2
+Added Pin To Net: NetName=NetSchmitt_Trigger_2 Pin=Schmitt_Trigger-2
+Added Net: Name=NetSchmitt_Trigger_2
+Added Member To Class: ClassName=CanBus Member=Component Can_Bus MCP2551
+Added Member To Class: ClassName=DC_Motor Member=Component Cap_FilterEnOP Cap
+Added Member To Class: ClassName=DC_Motor Member=Component Cap_FilterEn Cap
+Added Member To Class: ClassName=Project_Board Member=Component Encoder_Header En_H
+Added Member To Class: ClassName=DC_Motor Member=Component EncoderLimit_R Res3
+Added Member To Class: ClassName=DC_Motor Member=Component EncoderPullUP Res3
+Added Member To Class: ClassName=DC_Motor Member=Component Schmitt_Trigger 74ACT14_3
+Added Member To Class: ClassName=Stepper_Motor Member=Component SM_H L293DD

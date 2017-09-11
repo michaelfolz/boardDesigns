@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SPI_MOSI Pin=*-5
+Added Pin To Net: NetName=SPI_MISO Pin=*-6
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Net: Name=Net*_5
+Added Member To Class: ClassName=Stepper_Motor Member=Component R46 Res3
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board

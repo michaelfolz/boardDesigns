@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=* NewDesignator=*3
+Change Component Designator: OldDesignator=IC NewDesignator=IC1
+Added Component: Designator=*1(PAD)
+Added Component: Designator=*2(PAD)
+Added Pin To Net: NetName=MODB Pin=*1-1
+Added Pin To Net: NetName=MODA Pin=*2-1
+Change Net Name : Old Net Name=NetIC_5 New Net Name=NetIC1_5
+Change Net Name : Old Net Name=NetIC_7 New Net Name=NetIC1_7
+Added Member To Class: ClassName=MC9S12C Member=Component *1 PAD
+Added Member To Class: ClassName=MC9S12C Member=Component *2 PAD

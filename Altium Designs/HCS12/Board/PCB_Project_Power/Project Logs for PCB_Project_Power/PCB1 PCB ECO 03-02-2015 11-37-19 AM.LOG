@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=CanBus Member=R15
+Removed Member From Class: ClassName=CanBus Member=R16
+Removed Member From Class: ClassName=HD44780_LCD Member=R23
+Added Member To Class: ClassName=CanBus Member=Component R12 Res3
+Added Member To Class: ClassName=CanBus Member=Component R13 Res3
+Added Member To Class: ClassName=HD44780_LCD Member=Component R21 Res3

@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=*1 NewDesignator=IC
+Change Component Designator: OldDesignator= NewDesignator=U4
+Change Component Designator: OldDesignator=8 NewDesignator=U5
+Change Component Designator: OldDesignator=SPI NewDesignator=SPI1
+Change Net Name : Old Net Name=Net*1_5 New Net Name=NetIC_5
+Change Net Name : Old Net Name=Net*1_7 New Net Name=NetIC_7
+Added Member To Class: ClassName=3.3V_Reg Member=Component U4 LM1117IMP-ADJ/NOPB

@@ -1,0 +1,8 @@
+Added Component: Designator=L2_A(INDP8080X40M)
+Added Component: Designator=L2_D(INDP8080X40M)
+Added Pin To Net: NetName=NetC49_A_1 Pin=L2_A-1
+Added Pin To Net: NetName=5VA Pin=L2_A-2
+Added Pin To Net: NetName=NetC49_D_1 Pin=L2_D-1
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=L2_D-2
+Added Member To Class: ClassName=A Member=Component L2_A (L2) SRN8040-33uH
+Added Member To Class: ClassName=D Member=Component L2_D (L2) SRN8040-33uH

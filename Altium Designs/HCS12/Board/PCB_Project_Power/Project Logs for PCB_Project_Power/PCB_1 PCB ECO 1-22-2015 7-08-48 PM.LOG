@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=RS232 Member=D3
+Removed Member From Class: ClassName=RS232 Member=D4
+Added Member To Class: ClassName=RS232 Member=Component D1 LED2
+Added Member To Class: ClassName=RS232 Member=Component D2 LED2

@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=NetC34_1 Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=C40-1
+Removed Pin From Net: NetName=NetC42_2 Pin=C40-2
+Removed Pin From Net: NetName=3.3VD Pin=C45-2
+Removed Pin From Net: NetName=SERVO + VOLTAGE Pin=C46-2
+Removed Pin From Net: NetName=NetR7_1 Pin=R5-1
+Removed Pin From Net: NetName=2.5VREF Pin=R5-2
+Removed Pin From Net: NetName=2.5VREF Pin=R10-1
+Removed Pin From Net: NetName=SERVO + VOLTAGE Pin=R10-2
+Removed Pin From Net: NetName=NetCan_Bus1_7 Pin=R16-1
+Removed Pin From Net: NetName=NetC7_1 Pin=R16-2
+Removed Pin From Net: NetName=NetCan_Bus1_6 Pin=R17-1
+Removed Pin From Net: NetName=NetC6_1 Pin=R17-2
+Removed Member From Class: ClassName=RS232 Member=R32
+Removed Member From Class: ClassName=RS232 Member=R34
+Removed Member From Class: ClassName=Stepper_Motor Member=R41
+Removed Member From Class: ClassName=DC_Motor Member=R43
+Removed Member From Class: ClassName=DC_Motor Member=R45
+Removed Member From Class: ClassName=DC_Motor Member=R46
+Change Component DesignItemId : Designator=C45 Old DesignItemId=Cap New DesignItemId=Cap Polar-0.1uF-50V
+Change Component DesignItemId : Designator=C46 Old DesignItemId=Cap New DesignItemId=Cap Polar-0.1uF-50V
+Change Component Footprint: Designator=C45 Old Footprint=C1210 New Footprint=CAPACITOR_3MM
+Change Component Footprint: Designator=C46 Old Footprint=C1210 New Footprint=CAPACITOR_3MM
+Change Component Comment : Designator=C45 Old Comment=Cap-10v-A New Comment=Pol
+Change Component Comment : Designator=C46 Old Comment=Cap-10v-A New Comment=Pol
+Added Component: Designator=C34(CAPC2012X09M)
+Added Component: Designator=C35(CAPACITOR_6.3MM)
+Added Component: Designator=C42(CAPC2012X09M)
+Added Component: Designator=R7(RESC2112X05M)
+Added Component: Designator=R14(RESC2112X05M)
+Added Component: Designator=R18(RESC2112X05M)
+Added Component: Designator=R19(RESC2112X05M)
+Added Pin To Net: NetName=5VA Pin=C32-2
+Added Pin To Net: NetName=NetC34_1 Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=VIN Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=VIN Pin=C40-1
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=NetC42_2 Pin=C40-2
+Added Pin To Net: NetName=3.3VD Pin=C45-1
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=C46-1
+Added Pin To Net: NetName=NetFreescale_Processor1_4 Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR7_1 Pin=R5-1
+Added Pin To Net: NetName=2.5VREF Pin=R5-2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR8_1 Pin=R10-2
+Added Pin To Net: NetName=2.5VREF Pin=R10-1
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R10-2
+Added Pin To Net: NetName=NetCan_Bus1_4 Pin=R16-1
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R16-2
+Added Pin To Net: NetName=NetCan_Bus1_1 Pin=R17-1
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R17-2
+Added Pin To Net: NetName=NetCan_Bus1_7 Pin=R16-1
+Added Pin To Net: NetName=NetC7_1 Pin=R16-2
+Added Pin To Net: NetName=NetCan_Bus1_6 Pin=R17-1
+Added Pin To Net: NetName=NetC6_1 Pin=R17-2
+Added Member To Class: ClassName=DC_Motor Member=Component C34 Cap
+Added Member To Class: ClassName=DC_Motor Member=Component C35 Cap Pol
+Added Member To Class: ClassName=DC_Motor Member=Component C42 C1
+Added Member To Class: ClassName=Accelerometer Member=Component R7 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R14 Res3
+Added Member To Class: ClassName=CanBus Member=Component R18 Res3
+Added Member To Class: ClassName=CanBus Member=Component R19 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R35 Res3
+Added Member To Class: ClassName=RS232 Member=Component R36 Res3
+Added Member To Class: ClassName=RS232 Member=Component R38 Res3
+Added Member To Class: ClassName=RS232 Member=Component R40 Res3
+Added Member To Class: ClassName=Project_Board Member=Component R42 Res3
+Added Member To Class: ClassName=Stepper_Motor Member=Component R47 Res3
+Added Member To Class: ClassName=DC_Motor Member=Component R48 Res3
+Added Member To Class: ClassName=DC_Motor Member=Component R49 Res3
+Added Member To Class: ClassName=DC_Motor Member=Component R51 Res3
+Added Member To Class: ClassName=DC_Motor Member=Component R52 Res3
+Added Member To Class: ClassName=RC_PWM Member=Component R54 Res3
+Added Member To Class: ClassName=RC_PWM Member=Component R55 R2_B

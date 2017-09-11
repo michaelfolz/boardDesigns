@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=D2 Old Footprint=3.2X1.6X1.1 New Footprint=zener_sod323
+Change Component Comment: Designator=D2 Old Comment=LED2 New Comment=Diode 1N4148
+Change Component Designator: OldDesignator=C1 NewDesignator=C1-RS232
+Change Component Designator: OldDesignator=C2 NewDesignator=C2-RS232
+Change Component Designator: OldDesignator=C3 NewDesignator=CFilter-RS232
+Change Component Designator: OldDesignator=C4 NewDesignator=Cpump-RS232
+Change Component Designator: OldDesignator=C5 NewDesignator=CV--RS232
+Change Component Designator: OldDesignator=D1 NewDesignator=D_RX
+Change Component Designator: OldDesignator=R3 NewDesignator=RTS-RS232
+Change Component Designator: OldDesignator=R?? NewDesignator=R?
+Change Pin Designator/Name:  Old Designator=D2-A Old Name=A New Designator =A New Name=A
+Change Pin Designator/Name:  Old Designator=D2-K Old Name=K New Designator =K New Name=K

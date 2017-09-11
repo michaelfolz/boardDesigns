@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=5VA Pin=C34-2
+Removed Pin From Net: NetName=VIN Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=NetC36_1 Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=SPI_MISO Pin=SPI_OUT1-1
+Removed Pin From Net: NetName=SPI_SCK Pin=SPI_OUT1-2
+Removed Pin From Net: NetName=SPI_SS Pin=SPI_OUT1-3
+Removed Pin From Net: NetName=5VD Pin=SPI_OUT1-4
+Removed Pin From Net: NetName=SPI_MOSI Pin=SPI_OUT1-5
+Removed Pin From Net: NetName=GND Pin=SPI_OUT1-6
+Removed Member From Class: ClassName=Project_Board Member=SPI_OUT1
+Change Component DesignItemId : Designator=C36 Old DesignItemId=CAP-X7R-5600pF-50V-±10% New DesignItemId=CAP-Z5U-.1uF-50V-±20%
+Change Component DesignItemId : Designator=C34 Old DesignItemId=CAP-X7R-.1uF-50V-±20% New DesignItemId=CAP-Z5U-.1uF-50V-±20%
+Change Component DesignItemId : Designator=C35 Old DesignItemId=CAP-X7R-.1uF-50V-±20% New DesignItemId=CAP-Z5U-.1uF-50V-±20%
+Change Component Designator: OldDesignator=PBHB NewDesignator=PBHB1
+Change Component Description : Designator=C36 Old Description=CAP CER 5600pF 50v X7R 0805 New Description=CAP CER .1uF 50v Z5U 0805
+Change Component Description : Designator=C34 Old Description=CAP CER .1uF 50v X7R 0805 New Description=CAP CER .1uF 50v Z5U 0805
+Change Component Description : Designator=C35 Old Description=CAP CER .1uF 50v X7R 0805 New Description=CAP CER .1uF 50v Z5U 0805
+Added Component: Designator=C34(CAPC2012X09M)
+Added Component: Designator=C35(CAPC2012X09M)
+Added Component: Designator=C36(CAPC2012X09M)
+Added Component: Designator=SPI(HDR2X3)
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=5VA Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=VIN Pin=C35-1
+Added Pin To Net: NetName=5VD Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=3.3VD Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=SPI_MISO Pin=SPI-1
+Added Pin To Net: NetName=5VD Pin=SPI-2
+Added Pin To Net: NetName=SPI_SCK Pin=SPI-3
+Added Pin To Net: NetName=SPI_MOSI Pin=SPI-4
+Added Pin To Net: NetName=SPI_SS Pin=SPI-5
+Added Pin To Net: NetName=GND Pin=SPI-6
+Added Member To Class: ClassName=Project_Board Member=Component SPI Header 3X2

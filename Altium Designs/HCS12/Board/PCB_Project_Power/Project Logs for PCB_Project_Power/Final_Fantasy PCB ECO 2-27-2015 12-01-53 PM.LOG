@@ -1,0 +1,8 @@
+Added Component: Designator=U5(SOIC127P600X175-14M)
+Added Pin To Net: NetName=NetC50_1 Pin=U5-1
+Added Pin To Net: NetName=NetFreescale_Processor1_5 Pin=U5-2
+Added Pin To Net: NetName=NetC51_1 Pin=U5-3
+Added Pin To Net: NetName=NetFreescale_Processor1_6 Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-7
+Added Pin To Net: NetName=5VA Pin=U5-14
+Added Member To Class: ClassName=Encoder Member=Component U5 74ACT14_3

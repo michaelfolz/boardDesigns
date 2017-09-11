@@ -1,0 +1,5 @@
+Change Component Designator: Old Designator=I2C New Designator=I1
+Change Component Designator: Old Designator=R41 New Designator=R43
+Change Component Designator: Old Designator=R42 New Designator=R44
+Change Component Designator: Old Designator=V_AX New Designator=V_AX1
+Change Component Designator: Old Designator=V_DC New Designator=V_DC1

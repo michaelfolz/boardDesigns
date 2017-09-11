@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MODB Pin=*1-1
+Removed Pin From Net: NetName=MODA Pin=*2-1
+Removed Member From Class: ClassName=MC9S12C Member=*1
+Removed Member From Class: ClassName=MC9S12C Member=*2
+Added Component: Designator=*(PADA)
+Added Component: Designator=*(PADA)
+Added Pin To Net: NetName=MODA Pin=*-1
+Added Pin To Net: NetName=MODB Pin=*-1
+Added Member To Class: ClassName=MC9S12C Member=Component * PAD

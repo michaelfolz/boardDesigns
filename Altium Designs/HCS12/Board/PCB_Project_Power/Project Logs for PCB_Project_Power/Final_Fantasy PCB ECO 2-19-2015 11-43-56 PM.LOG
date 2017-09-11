@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=MCP23S09 Member=DCJ
+Change Component Designator: OldDesignator=DCJ NewDesignator=DCJack
+Added Member To Class: ClassName=MCP23S09 Member=Component * MCP23009
+Added Room: Name=Accelerometer
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board

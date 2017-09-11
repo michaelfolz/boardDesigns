@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=RX_RS232 Pin=MAX2-12
+Removed Pin From Net: NetName=NetD2_1 Pin=R34-1
+Removed Pin From Net: NetName=5VD Pin=R34-2
+Removed Pin From Net: NetName=RX_RS232 Pin=R38-2
+Removed Pin From Net: NetName=NetD3_1 Pin=R39-1
+Change Component DesignItemId : Designator=D2 Old DesignItemId=LED2 New DesignItemId=LED
+Change Component DesignItemId : Designator=D3 Old DesignItemId=LED2 New DesignItemId=LED
+Change Component Comment : Designator=D2 Old Comment=LED2 New Comment=LED
+Change Component Comment : Designator=D3 Old Comment=LED2 New Comment=LED
+Change Component Description : Designator=D2 Old Description=Typical RED, GREEN, YELLOW, AMBER GaAs LED New Description=
+Change Component Description : Designator=D3 Old Description=Typical RED, GREEN, YELLOW, AMBER GaAs LED New Description=
+Change Component Library : Designator=D2 Old Library=Miscellaneous Devices.IntLib New Library=Crystal.SchLib
+Change Component Library : Designator=D3 Old Library=Miscellaneous Devices.IntLib New Library=Crystal.SchLib
+Added Pin To Net: NetName=5VD Pin=R34-1
+Added Pin To Net: NetName=NetD2_1 Pin=T1-3
+Added Pin To Net: NetName=NetD3_1 Pin=T2-3

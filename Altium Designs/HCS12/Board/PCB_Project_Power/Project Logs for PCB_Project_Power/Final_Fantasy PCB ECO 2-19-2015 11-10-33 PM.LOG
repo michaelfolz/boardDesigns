@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SPI_MOSI Pin=*-5
+Change Component Designator: OldDesignator=8 NewDesignator=U5
+Added Component: Designator=*(BGA56x10)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=VIN Pin=*-3
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Member To Class: ClassName=Project_Board Member=Component * RAPC722X
+Added Room: Name=Accelerometer
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board

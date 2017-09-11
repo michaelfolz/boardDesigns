@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Final_Fantasy.PcbDoc]
+   Generated File[Faggot.TXT]
+   Generated File[Faggot.LDP]
+   Generated File[Faggot.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:02:03 PM On 2/26/2015

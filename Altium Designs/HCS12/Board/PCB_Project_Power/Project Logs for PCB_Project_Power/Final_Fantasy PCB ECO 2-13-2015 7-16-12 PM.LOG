@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=NetDCR1_1 Pin=U3-3
+Removed Pin From Net: NetName=NetDCL1_1 Pin=U3-9
+Removed Pin From Net: NetName=NetDCL1_2 Pin=U3-12
+Removed Pin From Net: NetName=NetDCR1_2 Pin=U3-18
+Removed Member From Class: ClassName=MC9S12C Member=C5
+Removed Member From Class: ClassName=MC9S12C Member=C6
+Removed Member From Class: ClassName=RS232 Member=C20
+Removed Member From Class: ClassName=RS232 Member=C24
+Removed Member From Class: ClassName=Stepper_Motor Member=C28
+Removed Member From Class: ClassName=3.3V_Reg Member=C35
+Removed Member From Class: ClassName=MC9S12C Member=R13
+Removed Member From Class: ClassName=DAC Member=R14
+Removed Member From Class: ClassName=MC9S12C Member=R16
+Removed Member From Class: ClassName=MC9S12C Member=R17
+Removed Member From Class: ClassName=RS232 Member=R28
+Removed Member From Class: ClassName=RS232 Member=R31
+Removed Member From Class: ClassName=RS232 Member=R32
+Removed Member From Class: ClassName=Project_Board Member=R37
+Removed Member From Class: ClassName=Project_Board Member=R38
+Removed Member From Class: ClassName=Stepper_Motor Member=R38
+Removed Member From Class: ClassName=Encoder Member=R48
+Added Pin To Net: NetName=NetDCL1_1 Pin=U3-3
+Added Pin To Net: NetName=NetDCR1_1 Pin=U3-9
+Added Pin To Net: NetName=NetDCR1_2 Pin=U3-12
+Added Pin To Net: NetName=NetDCL1_2 Pin=U3-18
+Change Class Name : Old Net Name=Components Class 1 New Net Name=RC_PWM
+Change Class Name : Old Net Name=Components Class 2 New Net Name=DC_Motor
+Added Member To Class: ClassName=CanBus Member=Component C6 Cap
+Added Member To Class: ClassName=MC9S12C Member=Component C7 p
+Added Member To Class: ClassName=MC9S12C Member=Component C25 Cap Pol
+Added Member To Class: ClassName=RS232 Member=Component C26 Cap
+Added Member To Class: ClassName=RS232 Member=Component C30 Pol
+Added Member To Class: ClassName=Stepper_Motor Member=Component C32 Cap
+Added Member To Class: ClassName=3.3V_Reg Member=Component C39 Pol
+Added Member To Class: ClassName=3.3V_Reg Member=Component C40 Pol
+Added Member To Class: ClassName=Encoder Member=Component C45 Cap
+Added Member To Class: ClassName=CanBus Member=Component R16 Res3
+Added Member To Class: ClassName=CanBus Member=Component R17 Res3
+Added Member To Class: ClassName=DAC Member=Component R18 Res3
+Added Member To Class: ClassName=MC9S12C Member=Component R19 Res3
+Added Member To Class: ClassName=MC9S12C Member=Component R32 Res3
+Added Member To Class: ClassName=MC9S12C Member=Component R33 Res3
+Added Member To Class: ClassName=RS232 Member=Component R34 Res3
+Added Member To Class: ClassName=RS232 Member=Component R38 Res3
+Added Member To Class: ClassName=RS232 Member=Component R39 Res3
+Added Member To Class: ClassName=Project_Board Member=Component R40 Res3
+Added Member To Class: ClassName=Project_Board Member=Component R41 Res3
+Added Member To Class: ClassName=Stepper_Motor Member=Component R43 Res3
+Added Member To Class: ClassName=Stepper_Motor Member=Component R45 Res3
+Added Member To Class: ClassName=Stepper_Motor Member=Component R46 Res3
+Added Member To Class: ClassName=RC_PWM Member=Component R49 Res3
+Added Member To Class: ClassName=Encoder Member=Component R56 Res3
+Added Member To Class: ClassName=3.3V_Reg Member=Component U4 LM1117IMP-ADJ/NOPB
+Added Member To Class: ClassName=Encoder Member=Component U5 74ACT14_3
+Change Room Name: Old Name=MOTOR New Name=RC_PWM
+Change Room Scope: Old Scope=InComponentClass('Components Class 2') New Scope=InComponentClass('RC_PWM')
+Change Room Scope: Old Scope=(InComponent('R37') AND InComponent('R38')) New Scope=InComponentClass('RS232')
+Added Room: Name=DC_Motor

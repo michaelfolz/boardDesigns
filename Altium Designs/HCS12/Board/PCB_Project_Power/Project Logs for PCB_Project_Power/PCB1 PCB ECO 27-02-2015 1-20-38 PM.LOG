@@ -1,0 +1,8 @@
+Added Component: Designator=R32(RESC2112X05M)
+Added Component: Designator=R33(RESC2112X05M)
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=MODB Pin=R32-2
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=MODA Pin=R33-2
+Added Member To Class: ClassName=MC9S12C Member=Component R32 Res3
+Added Member To Class: ClassName=MC9S12C Member=Component R33 Res3

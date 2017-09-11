@@ -1,0 +1,27 @@
+Removed Member From Class: ClassName=3.3V_Reg Member=2
+Removed Member From Class: ClassName=CanBus Member=C7
+Removed Member From Class: ClassName=MC9S12 Member=C9
+Removed Member From Class: ClassName=RS232 Member=C28
+Removed Member From Class: ClassName=3.3V_Reg Member=C41
+Removed Member From Class: ClassName=DAC Member=R13
+Removed Member From Class: ClassName=MC9S12 Member=R20
+Removed Member From Class: ClassName=RS232 Member=R34
+Removed Member From Class: ClassName=Project_Board Member=R44
+Change Component Designator: OldDesignator=1 NewDesignator=V_AX
+Change Component Designator: OldDesignator=2 NewDesignator=V_DC
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R41-2
+Added Pin To Net: NetName=SERVO + VOLTAGE Pin=R42-2
+Added Member To Class: ClassName=CanBus Member=Component C8 Cap
+Added Member To Class: ClassName=MC9S12 Member=Component C10 p
+Added Member To Class: ClassName=RS232 Member=Component C29 Cap
+Added Member To Class: ClassName=3.3V_Reg Member=Component C42 Cap-10v-A
+Added Member To Class: ClassName=DAC Member=Component R15 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R22 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R31 Res3
+Added Member To Class: ClassName=RS232 Member=Component R36 Res3
+Added Member To Class: ClassName=Project_Board Member=Component R42 Res3
+Added Room: Name=Connectors
+Added Room: Name=DC_Motor
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12
+Added Room: Name=Project_Board

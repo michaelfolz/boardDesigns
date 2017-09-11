@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=PJ6 Pin=PJ1-1
+Removed Pin From Net: NetName=PJ7 Pin=PJ1-2
+Removed Member From Class: ClassName=Project_Board Member=PJ1
+Added Component: Designator=PEX(HDR2X6_CEN)
+Added Component: Designator=PORTEX(MAX7317)
+Added Pin To Net: NetName=GND Pin=PEX-1
+Added Pin To Net: NetName=5VD Pin=PEX-7
+Added Pin To Net: NetName=SPI_SCK Pin=PORTEX-1
+Added Pin To Net: NetName=PJ6 Pin=PORTEX-2
+Added Pin To Net: NetName=GND Pin=PORTEX-8
+Added Pin To Net: NetName=SPI_MISO Pin=PORTEX-14
+Added Pin To Net: NetName=SPI_MOSI Pin=PORTEX-15
+Added Pin To Net: NetName=5VD Pin=PORTEX-16
+Added Pin To Net: NetName=PEX0 Pin=PEX-2
+Added Pin To Net: NetName=PEX0 Pin=PORTEX-3
+Added Net: Name=PEX0
+Added Pin To Net: NetName=PEX1 Pin=PEX-8
+Added Pin To Net: NetName=PEX1 Pin=PORTEX-4
+Added Net: Name=PEX1
+Added Pin To Net: NetName=PEX2 Pin=PEX-3
+Added Pin To Net: NetName=PEX2 Pin=PORTEX-4
+Added Net: Name=PEX2
+Added Pin To Net: NetName=PEX3 Pin=PEX-9
+Added Pin To Net: NetName=PEX3 Pin=PORTEX-6
+Added Net: Name=PEX3
+Added Pin To Net: NetName=PEX4 Pin=PEX-4
+Added Pin To Net: NetName=PEX4 Pin=PORTEX-7
+Added Net: Name=PEX4
+Added Pin To Net: NetName=PEX5 Pin=PEX-10
+Added Pin To Net: NetName=PEX5 Pin=PORTEX-9
+Added Net: Name=PEX5
+Added Pin To Net: NetName=PEX6 Pin=PEX-5
+Added Pin To Net: NetName=PEX6 Pin=PORTEX-10
+Added Net: Name=PEX6
+Added Pin To Net: NetName=PEX7 Pin=PEX-11
+Added Pin To Net: NetName=PEX7 Pin=PORTEX-11
+Added Net: Name=PEX7
+Added Pin To Net: NetName=PEX8 Pin=PEX-6
+Added Pin To Net: NetName=PEX8 Pin=PORTEX-12
+Added Net: Name=PEX8
+Added Pin To Net: NetName=PEX9 Pin=PEX-12
+Added Pin To Net: NetName=PEX9 Pin=PORTEX-13
+Added Net: Name=PEX9
+Added Class: Name=PORT_EX
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=PORT_EX
+Added Room: Name=Project_Board

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=SPI_MOSI Pin=IC1-5
+Added Component: Designator=PEX1(HDR2X5)
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=GND Pin=PEX1-1
+Added Pin To Net: NetName=5VD Pin=PEX1-2
+Added Pin To Net: NetName=PEX0 Pin=PEX1-3
+Added Pin To Net: NetName=PEX1 Pin=PEX1-4
+Added Pin To Net: NetName=PEX2 Pin=PEX1-5
+Added Pin To Net: NetName=PEX3 Pin=PEX1-6
+Added Pin To Net: NetName=PEX4 Pin=PEX1-7
+Added Pin To Net: NetName=PEX5 Pin=PEX1-8
+Added Pin To Net: NetName=PEX6 Pin=PEX1-9
+Added Pin To Net: NetName=PEX7 Pin=PEX1-10
+Added Member To Class: ClassName=MCP23S09 Member=Component PEX1 Header 5X2

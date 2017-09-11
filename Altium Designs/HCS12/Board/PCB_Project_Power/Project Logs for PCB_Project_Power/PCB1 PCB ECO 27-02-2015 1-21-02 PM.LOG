@@ -1,0 +1,6 @@
+Added Component: Designator=R36(HDR1X4)
+Added Pin To Net: NetName=R1 Pin=R36-1
+Added Pin To Net: NetName=RTS Pin=R36-2
+Added Pin To Net: NetName=CTS Pin=R36-3
+Added Pin To Net: NetName=RT Pin=R36-4
+Added Member To Class: ClassName=RS232 Member=Component R36 Header 4

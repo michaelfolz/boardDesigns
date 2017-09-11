@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=Project_Board Member=P?
+Added Component: Designator=12V_Aux(HDR1X2)
+Added Component: Designator=12V_Dig(HDR1X2)
+Added Pin To Net: NetName=VIN Pin=12V_Aux-2
+Added Pin To Net: NetName=5VA Pin=12V_Dig-1
+Added Pin To Net: NetName=VIN Pin=12V_Dig-2
+Added Member To Class: ClassName=Project_Board Member=Component 12V_Aux Header 2
+Added Member To Class: ClassName=Project_Board Member=Component 12V_Dig Header 2
+Added Room: Name=Connectors
+Added Room: Name=DC_Motor
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12
+Added Room: Name=Project_Board

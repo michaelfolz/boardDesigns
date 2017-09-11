@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=Analog NewDesignator=ANALOG1
+Added Member To Class: ClassName=Stepper_Motor Member=Component C34 Cap
+Added Member To Class: ClassName=Stepper_Motor Member=Component C35 Cap
+Added Member To Class: ClassName=DC_Motor Member=Component C36 Cap

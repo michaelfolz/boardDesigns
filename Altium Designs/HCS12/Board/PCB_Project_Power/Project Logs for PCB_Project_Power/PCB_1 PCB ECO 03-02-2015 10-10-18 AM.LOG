@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=NetD6_1 Pin=R13-2
+Removed Member From Class: ClassName=RS232 Member=R36
+Removed Member From Class: ClassName=MC9S12 Member=R37
+Removed Member From Class: ClassName=MC9S12 Member=R38
+Removed Member From Class: ClassName=RS232 Member=R43
+Removed Member From Class: ClassName=RS232 Member=R44
+Removed Member From Class: ClassName=Stepper_Motor Member=R48
+Removed Member From Class: ClassName=Stepper_Motor Member=R49
+Removed Member From Class: ClassName=DC_Motor Member=R54
+Change Component Designator: OldDesignator=C44_Analog NewDesignator=C44_A
+Change Component Designator: OldDesignator=C44_Digital NewDesignator=C44_D
+Change Component Designator: OldDesignator=C45_Analog NewDesignator=C45_A
+Change Component Designator: OldDesignator=C45_Digital NewDesignator=C45_D
+Change Component Designator: OldDesignator=C46_Analog NewDesignator=C46_A
+Change Component Designator: OldDesignator=C46_Digital NewDesignator=C46_D
+Change Component Designator: OldDesignator=C47_Analog NewDesignator=C47_A
+Change Component Designator: OldDesignator=C47_Digital NewDesignator=C47_D
+Change Component Designator: OldDesignator=D12_Analog NewDesignator=D12_A
+Change Component Designator: OldDesignator=D12_Digital NewDesignator=D12_D
+Change Component Designator: OldDesignator=L2_Analog NewDesignator=L2_A
+Change Component Designator: OldDesignator=L2_Digital NewDesignator=L2_D
+Change Component Designator: OldDesignator=R56_Analog NewDesignator=R56_A
+Change Component Designator: OldDesignator=R56_Digital NewDesignator=R56_D
+Change Component Designator: OldDesignator=R57_Analog NewDesignator=R57_A
+Change Component Designator: OldDesignator=R57_Digital NewDesignator=R57_D
+Change Component Designator: OldDesignator=R58_Analog NewDesignator=R58_A
+Change Component Designator: OldDesignator=R58_Digital NewDesignator=R58_D
+Change Component Designator: OldDesignator=SMPS-A1_Analog NewDesignator=SMPS-A1_A
+Change Component Designator: OldDesignator=SMPS-A1_Digital NewDesignator=SMPS-A1_D
+Added Component: Designator=R34(RESC2112X05M)
+Added Pin To Net: NetName=5VD Pin=R13-2
+Added Pin To Net: NetName=NetD6_1 Pin=R13-2
+Change Net Name : Old Net Name=NetC46_Analog_1 New Net Name=NetC46_A_1
+Change Net Name : Old Net Name=NetC46_Analog_2 New Net Name=NetC46_A_2
+Change Net Name : Old Net Name=NetC46_Digital_1 New Net Name=NetC46_D_1
+Change Net Name : Old Net Name=NetC46_Digital_2 New Net Name=NetC46_D_2
+Change Net Name : Old Net Name=NetR56_Analog_1 New Net Name=NetR56_A_1
+Change Net Name : Old Net Name=NetR56_Digital_1 New Net Name=NetR56_D_1
+Change Net Name : Old Net Name=NetR58_Analog_2 New Net Name=NetR58_A_2
+Change Net Name : Old Net Name=NetR58_Digital_2 New Net Name=NetR58_D_2
+Change Class Name : Old Net Name=Analog New Net Name=A
+Change Class Name : Old Net Name=Digital New Net Name=D
+Added Member To Class: ClassName=MC9S12 Member=Component R25 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R35 Res3
+Added Member To Class: ClassName=RS232 Member=Component R40 Res3
+Added Member To Class: ClassName=RS232 Member=Component R41 Res3
+Added Member To Class: ClassName=Stepper_Motor Member=Component R46 Res3
+Added Member To Class: ClassName=Stepper_Motor Member=Component R47 Res3
+Added Member To Class: ClassName=DC_Motor Member=Component R52 Res3
+Added Room: Name=A
+Added Room: Name=D

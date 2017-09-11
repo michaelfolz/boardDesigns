@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=R51-1
+Removed Pin From Net: NetName=SERVO SIGNAL Pin=R51-2
+Removed Pin From Net: NetName=VIN Pin=U3-2
+Removed Pin From Net: NetName=NetDCR1_1 Pin=U3-3
+Removed Pin From Net: NetName=NetC37_2 Pin=U3-4
+Removed Pin From Net: NetName=NetC34_1 Pin=U3-5
+Removed Pin From Net: NetName=NetFreescale_Processor1_16 Pin=U3-6
+Removed Pin From Net: NetName=NetFreescale_Processor1_18 Pin=U3-7
+Removed Pin From Net: NetName=NetDCL1_1 Pin=U3-9
+Removed Pin From Net: NetName=NetDCL1_2 Pin=U3-12
+Removed Pin From Net: NetName=NetFreescale_Processor1_17 Pin=U3-14
+Removed Pin From Net: NetName=NetFreescale_Processor1_19 Pin=U3-15
+Removed Pin From Net: NetName=NetC38_2 Pin=U3-16
+Removed Pin From Net: NetName=NetC39_2 Pin=U3-17
+Removed Pin From Net: NetName=NetDCR1_2 Pin=U3-18
+Removed Pin From Net: NetName=VIN Pin=U3-19
+Removed Member From Class: ClassName=DC_Motor Member=U3
+Added Component: Designator=R55(RESC2112X05M)
+Added Component: Designator=U?(POWERSOP20)
+Added Pin To Net: NetName=5VA Pin=R51-1
+Added Pin To Net: NetName=NetC40_2 Pin=R51-2
+Added Pin To Net: NetName=GND Pin=R51-1
+Added Pin To Net: NetName=SERVO SIGNAL Pin=R51-2
+Added Pin To Net: NetName=VIN Pin=U?-2
+Added Pin To Net: NetName=NetDCR1_1 Pin=U?-3
+Added Pin To Net: NetName=NetC37_2 Pin=U?-4
+Added Pin To Net: NetName=NetC34_1 Pin=U?-5
+Added Pin To Net: NetName=NetFreescale_Processor1_16 Pin=U?-6
+Added Pin To Net: NetName=NetFreescale_Processor1_18 Pin=U?-7
+Added Pin To Net: NetName=NetDCL1_1 Pin=U?-9
+Added Pin To Net: NetName=NetDCL1_2 Pin=U?-12
+Added Pin To Net: NetName=NetFreescale_Processor1_17 Pin=U?-14
+Added Pin To Net: NetName=NetFreescale_Processor1_19 Pin=U?-15
+Added Pin To Net: NetName=NetC38_2 Pin=U?-16
+Added Pin To Net: NetName=NetC39_2 Pin=U?-17
+Added Pin To Net: NetName=NetDCR1_2 Pin=U?-18
+Added Pin To Net: NetName=VIN Pin=U?-19
+Added Member To Class: ClassName=RC_PWM Member=Component R55 Res3
+Added Member To Class: ClassName=DC_Motor Member=Component U? L6225
+Added Room: Name=DC_Motor
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board
+Added Room: Name=Stepper_Motor

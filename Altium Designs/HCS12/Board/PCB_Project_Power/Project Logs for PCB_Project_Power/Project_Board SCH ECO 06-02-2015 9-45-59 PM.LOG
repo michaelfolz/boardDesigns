@@ -1,0 +1,10 @@
+Change Component Designator: Old Designator=12V_Aux New Designator=2
+Change Component Designator: Old Designator=12V_Dig New Designator=1
+Change Component Designator: Old Designator=CameraCon New Designator=CameraCon1
+Change Component Designator: Old Designator=DCL New Designator=DCL1
+Change Component Designator: Old Designator=DCR New Designator=DCR1
+Change Component Designator: Old Designator=ENC_L New Designator=ENC_L1
+Change Component Designator: Old Designator=ENC_R New Designator=ENC_R1
+Change Component Designator: Old Designator=I2C New Designator=I1
+Change Component Designator: Old Designator=R? New Designator=R41
+Change Component Designator: Old Designator=R? New Designator=R42

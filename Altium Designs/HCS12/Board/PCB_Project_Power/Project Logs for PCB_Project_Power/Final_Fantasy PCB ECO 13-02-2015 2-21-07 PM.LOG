@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=R51-1
+Removed Pin From Net: NetName=SERVO SIGNAL Pin=R51-2
+Added Component: Designator=R55(RESC2112X05M)
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=5VA Pin=R51-1
+Added Pin To Net: NetName=NetC40_2 Pin=R51-2
+Added Pin To Net: NetName=GND Pin=R51-1
+Added Pin To Net: NetName=SERVO SIGNAL Pin=R51-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-20
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=NetC40_1 Pin=C42-2
+Added Pin To Net: NetName=NetC40_1 Pin=ENC_R1-3
+Added Net: Name=NetC40_1
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=NetC41_1 Pin=C43-2
+Added Pin To Net: NetName=NetC41_1 Pin=ENC_L1-3
+Added Net: Name=NetC41_1
+Added Member To Class: ClassName=RC_PWM Member=Component R55 Res3

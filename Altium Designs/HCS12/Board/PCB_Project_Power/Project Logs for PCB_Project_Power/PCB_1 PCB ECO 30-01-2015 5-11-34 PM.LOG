@@ -1,0 +1,479 @@
+Removed Pin From Net: NetName=AD4 Pin=AR_AD-1
+Removed Pin From Net: NetName=AD3 Pin=AR_AD-2
+Removed Pin From Net: NetName=AD2 Pin=AR_AD-3
+Removed Pin From Net: NetName=AD1 Pin=AR_AD-4
+Removed Pin From Net: NetName=AD0 Pin=AR_AD-5
+Removed Pin From Net: NetName=PB7 Pin=AR_DIG7-0-1
+Removed Pin From Net: NetName=PB6 Pin=AR_DIG7-0-2
+Removed Pin From Net: NetName=PB5 Pin=AR_DIG7-0-3
+Removed Pin From Net: NetName=PB4 Pin=AR_DIG7-0-4
+Removed Pin From Net: NetName=PA3 Pin=AR_DIG7-0-5
+Removed Pin From Net: NetName=PA2 Pin=AR_DIG7-0-6
+Removed Pin From Net: NetName=MODA Pin=AR_DIG13-8-4
+Removed Pin From Net: NetName=SPI_SCK Pin=AR_DIG13-8-5
+Removed Pin From Net: NetName=SPI_MOSI Pin=AR_DIG13-8-6
+Removed Pin From Net: NetName=SPI_MISO Pin=AR_DIG13-8-7
+Removed Pin From Net: NetName=SPI_SS Pin=AR_DIG13-8-8
+Removed Pin From Net: NetName=PA1 Pin=AR_DIG13-8-9
+Removed Pin From Net: NetName=PA0 Pin=AR_DIG13-8-10
+Removed Pin From Net: NetName=3.3VD Pin=AR_PWR-4
+Removed Pin From Net: NetName=5VD Pin=AR_PWR-5
+Removed Pin From Net: NetName=MODA Pin=AR_PWR-6
+Removed Pin From Net: NetName=MODA Pin=AR_PWR-7
+Removed Pin From Net: NetName=NetD2_K Pin=D2-K
+Removed Pin From Net: NetName=5VD Pin=R2-2
+Removed Pin From Net: NetName=NetD6_1 Pin=R14-2
+Removed Pin From Net: NetName=DAC_CS Pin=R?-1
+Removed Pin From Net: NetName=5VD Pin=R?-2
+Removed Pin From Net: NetName=2.5VREF Pin=U?-3
+Removed Pin From Net: NetName=5VD Pin=U?-4
+Removed Pin From Net: NetName=MODA Pin=U?-11
+Removed Member From Class: ClassName= ili9327 LCD Member=AR_AD
+Removed Member From Class: ClassName= ili9327 LCD Member=AR_DIG7-0
+Removed Member From Class: ClassName= ili9327 LCD Member=AR_DIG13-8
+Removed Member From Class: ClassName= ili9327 LCD Member=AR_PWR
+Removed Member From Class: ClassName=DC_Motor Member=C1
+Removed Member From Class: ClassName=DC_Motor Member=C2
+Removed Member From Class: ClassName=Accelerometer Member=C9
+Removed Member From Class: ClassName=MC9S12 Member=C19
+Removed Member From Class: ClassName=MC9S12 Member=C20
+Removed Member From Class: ClassName=MC9S12 Member=D2
+Removed Member From Class: ClassName=HD44780_LCD Member=R20
+Removed Member From Class: ClassName=HD44780_LCD Member=R21
+Removed Member From Class: ClassName=Accelerometer Member=R?
+Removed Member From Class: ClassName=DAC Member=R?
+Removed Member From Class: ClassName=RS232 Member=T1
+Removed Member From Class: ClassName=Accelerometer Member=U?
+Change Component DesignItemId : Designator=R13 Old DesignItemId=Resistor_1.00K New DesignItemId=Resistor_10.0K
+Change Component Comment : Designator=Cap_FilterEn Old Comment=Cap New Comment=C1
+Change Component Designator: OldDesignator=3.3V Supply NewDesignator=2
+Change Component Designator: OldDesignator=A_Out NewDesignator=A_Out1
+Change Component Designator: OldDesignator=ACC NewDesignator=ACC1
+Change Component Designator: OldDesignator=BDM_PORT NewDesignator=BDM_PORT1
+Change Component Designator: OldDesignator=C1 NewDesignator=C30
+Change Component Designator: OldDesignator=C1 NewDesignator=C35
+Change Component Designator: OldDesignator=C2 NewDesignator=C32
+Change Component Designator: OldDesignator=C2 NewDesignator=C36
+Change Component Designator: OldDesignator=C3 NewDesignator=C29
+Change Component Designator: OldDesignator=C4 NewDesignator=C31
+Change Component Designator: OldDesignator=C5 NewDesignator=C33
+Change Component Designator: OldDesignator=C6 NewDesignator=C17
+Change Component Designator: OldDesignator=C7 NewDesignator=C10
+Change Component Designator: OldDesignator=C8 NewDesignator=C19
+Change Component Designator: OldDesignator=C9 NewDesignator=C5
+Change Component Designator: OldDesignator=C9 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C9 NewDesignator=C18
+Change Component Designator: OldDesignator=C10 NewDesignator=C20
+Change Component Designator: OldDesignator=C11 NewDesignator=C21
+Change Component Designator: OldDesignator=C12 NewDesignator=C23
+Change Component Designator: OldDesignator=C13 NewDesignator=C22
+Change Component Designator: OldDesignator=C14 NewDesignator=C24
+Change Component Designator: OldDesignator=C15 NewDesignator=C25
+Change Component Designator: OldDesignator=C16 NewDesignator=C26
+Change Component Designator: OldDesignator=C17 NewDesignator=C27
+Change Component Designator: OldDesignator=C18 NewDesignator=C28
+Change Component Designator: OldDesignator=C19 NewDesignator=C16
+Change Component Designator: OldDesignator=C20 NewDesignator=C11
+Change Component Designator: OldDesignator=C21 NewDesignator=C12
+Change Component Designator: OldDesignator=C22 NewDesignator=C13
+Change Component Designator: OldDesignator=C23 NewDesignator=C14
+Change Component Designator: OldDesignator=C24 NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C_F_ICANH NewDesignator=C9
+Change Component Designator: OldDesignator=C_F_ICANL NewDesignator=C8
+Change Component Designator: OldDesignator=Can_Bus NewDesignator=Can_Bus1
+Change Component Designator: OldDesignator=CanBus NewDesignator=CanBus1
+Change Component Designator: OldDesignator=Cap_FilterEn NewDesignator=C38
+Change Component Designator: OldDesignator=Cap_FilterEn NewDesignator=C39
+Change Component Designator: OldDesignator=Cap_FilterEnOP NewDesignator=C40
+Change Component Designator: OldDesignator=Cap_FilterEnOP NewDesignator=C41
+Change Component Designator: OldDesignator=CBoot NewDesignator=CBoot1
+Change Component Designator: OldDesignator=Cbst-A_Analog NewDesignator=C46_Analog
+Change Component Designator: OldDesignator=Cbst-A_Digital NewDesignator=C46_Digital
+Change Component Designator: OldDesignator=Cena NewDesignator=C34
+Change Component Designator: OldDesignator=Cenb NewDesignator=C37
+Change Component Designator: OldDesignator=CFil_1 NewDesignator=CFil_2
+Change Component Designator: OldDesignator=CFil_2 NewDesignator=CFil_1
+Change Component Designator: OldDesignator=Cin-A_Analog NewDesignator=C44_Analog
+Change Component Designator: OldDesignator=Cin-A_Digital NewDesignator=C44_Digital
+Change Component Designator: OldDesignator=Cinx-A_Analog NewDesignator=C45_Analog
+Change Component Designator: OldDesignator=Cinx-A_Digital NewDesignator=C45_Digital
+Change Component Designator: OldDesignator=Cout-A_Analog NewDesignator=C47_Analog
+Change Component Designator: OldDesignator=Cout-A_Digital NewDesignator=C47_Digital
+Change Component Designator: OldDesignator=CTS_RTS NewDesignator=CTS_RTS1
+Change Component Designator: OldDesignator=D1-A_Analog NewDesignator=D12_Analog
+Change Component Designator: OldDesignator=D1-A_Digital NewDesignator=D12_Digital
+Change Component Designator: OldDesignator=D2 NewDesignator=D5
+Change Component Designator: OldDesignator=D2 NewDesignator=D8
+Change Component Designator: OldDesignator=D3 NewDesignator=D10
+Change Component Designator: OldDesignator=D4 NewDesignator=D11
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=DCMotor NewDesignator=DCMotor1
+Change Component Designator: OldDesignator=ENC_A NewDesignator=ENC_A1
+Change Component Designator: OldDesignator=ENC_B NewDesignator=ENC_B1
+Change Component Designator: OldDesignator=EncoderLimit_R NewDesignator=R48
+Change Component Designator: OldDesignator=EncoderLimit_R NewDesignator=R49
+Change Component Designator: OldDesignator=EncoderPullUP NewDesignator=R50
+Change Component Designator: OldDesignator=EncoderPullUP NewDesignator=R51
+Change Component Designator: OldDesignator=Freescale_Processor NewDesignator=Freescale_Processor1
+Change Component Designator: OldDesignator=HD44780 NewDesignator=HD1
+Change Component Designator: OldDesignator=Jack_On NewDesignator=Jack_On1
+Change Component Designator: OldDesignator=L1-A_Analog NewDesignator=L2_Analog
+Change Component Designator: OldDesignator=L1-A_Digital NewDesignator=L2_Digital
+Change Component Designator: OldDesignator=LM1117_F_In NewDesignator=C43
+Change Component Designator: OldDesignator=LM1117_F_Out NewDesignator=C42
+Change Component Designator: OldDesignator=MAX3232 NewDesignator=MAX2
+Change Component Designator: OldDesignator=MAX5515 NewDesignator=MAX1
+Change Component Designator: OldDesignator=R2 NewDesignator=R35
+Change Component Designator: OldDesignator=R2_A NewDesignator=R52
+Change Component Designator: OldDesignator=R2_B NewDesignator=R53
+Change Component Designator: OldDesignator=R3 NewDesignator=R36
+Change Component Designator: OldDesignator=R3 NewDesignator=R37
+Change Component Designator: OldDesignator=R3 NewDesignator=R38
+Change Component Designator: OldDesignator=R4 NewDesignator=R20
+Change Component Designator: OldDesignator=R4 NewDesignator=R22
+Change Component Designator: OldDesignator=R5 NewDesignator=R24
+Change Component Designator: OldDesignator=R5 NewDesignator=R25
+Change Component Designator: OldDesignator=R7 NewDesignator=R23
+Change Component Designator: OldDesignator=R8 NewDesignator=R21
+Change Component Designator: OldDesignator=R11 NewDesignator=R26
+Change Component Designator: OldDesignator=R11 NewDesignator=R27
+Change Component Designator: OldDesignator=R11 NewDesignator=R28
+Change Component Designator: OldDesignator=R11 NewDesignator=R29
+Change Component Designator: OldDesignator=R12 NewDesignator=R30
+Change Component Designator: OldDesignator=R14 NewDesignator=R31
+Change Component Designator: OldDesignator=R14 NewDesignator=R32
+Change Component Designator: OldDesignator=R14 NewDesignator=R34
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R14
+Change Component Designator: OldDesignator=R19 NewDesignator=R15
+Change Component Designator: OldDesignator=R20 NewDesignator=R16
+Change Component Designator: OldDesignator=R21 NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R_ICANH NewDesignator=R_ICANH1
+Change Component Designator: OldDesignator=R_ICANL NewDesignator=R_ICANL1
+Change Component Designator: OldDesignator=R_PDown_EN1 NewDesignator=R40
+Change Component Designator: OldDesignator=R_PDown_EN1 NewDesignator=R44
+Change Component Designator: OldDesignator=R_PDown_EN2 NewDesignator=R42
+Change Component Designator: OldDesignator=R_PDown_EN2 NewDesignator=R45
+Change Component Designator: OldDesignator=R_PDown_EN3 NewDesignator=R41
+Change Component Designator: OldDesignator=R_PDown_EN4 NewDesignator=R43
+Change Component Designator: OldDesignator=RC_R1_In NewDesignator=RC_R1
+Change Component Designator: OldDesignator=RC_R2_In NewDesignator=RC_R2
+Change Component Designator: OldDesignator=Rena NewDesignator=R46
+Change Component Designator: OldDesignator=Renb NewDesignator=R47
+Change Component Designator: OldDesignator=Rfb1-A_Analog NewDesignator=R54_Analog
+Change Component Designator: OldDesignator=Rfb1-A_Digital NewDesignator=R54_Digital
+Change Component Designator: OldDesignator=Rfb2-A_Analog NewDesignator=R55_Analog
+Change Component Designator: OldDesignator=Rfb2-A_Digital NewDesignator=R55_Digital
+Change Component Designator: OldDesignator=Rfbe-A_Analog NewDesignator=R56_Analog
+Change Component Designator: OldDesignator=Rfbe-A_Digital NewDesignator=R56_Digital
+Change Component Designator: OldDesignator=Rp NewDesignator=Rp1
+Change Component Designator: OldDesignator=RS2232-Con NewDesignator=RS1
+Change Component Designator: OldDesignator=Schmitt_Trigger NewDesignator=Schmitt_Trigger1
+Change Component Designator: OldDesignator=ServoMotor NewDesignator=ServoMotor1
+Change Component Designator: OldDesignator=SM_H NewDesignator=SM_H1
+Change Component Designator: OldDesignator=SMPS-A_Analog NewDesignator=SMPS-A1_Analog
+Change Component Designator: OldDesignator=SMPS-A_Digital NewDesignator=SMPS-A1_Digital
+Change Component Designator: OldDesignator=SPI_OUT NewDesignator=SPI_OUT1
+Change Component Designator: OldDesignator=StepperMotor NewDesignator=StepperMotor1
+Change Component Designator: OldDesignator=T1 NewDesignator=T2
+Change Component Designator: OldDesignator=T1 NewDesignator=T3
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=VCC_Filter NewDesignator=VCC_Filter1
+Change Component Designator: OldDesignator=VCP NewDesignator=VCP1
+Change Component Designator: OldDesignator=VRH_EN NewDesignator=VRH_EN1
+Change Component Designator: OldDesignator=VRL_EN NewDesignator=VRL_EN1
+Change Component Description : Designator=R13 Old Description=RES SMD 1.00K OHM 1% 1/8W 0805 New Description=RES SMD 10.0K OHM 1% 1/8W 0805
+Added Component: Designator=AR_AD2(HDR1X6)
+Added Component: Designator=AR_DIG3(HDR1X10)
+Added Component: Designator=AR_DIG4(HDR1X8)
+Added Component: Designator=AR_PWR2(HDR1X8)
+Added Component: Designator=D9(3.2X1.6X1.1)
+Added Component: Designator=R33(RESC2112X05M)
+Added Component: Designator=R39(RESC2112X05M)
+Added Pin To Net: NetName=AD4 Pin=AR_AD2-1
+Added Pin To Net: NetName=AD3 Pin=AR_AD2-2
+Added Pin To Net: NetName=AD2 Pin=AR_AD2-3
+Added Pin To Net: NetName=AD1 Pin=AR_AD2-4
+Added Pin To Net: NetName=AD0 Pin=AR_AD2-5
+Added Pin To Net: NetName=MODA Pin=AR_DIG3-4
+Added Pin To Net: NetName=SPI_SCK Pin=AR_DIG3-5
+Added Pin To Net: NetName=SPI_MOSI Pin=AR_DIG3-6
+Added Pin To Net: NetName=SPI_MISO Pin=AR_DIG3-7
+Added Pin To Net: NetName=SPI_SS Pin=AR_DIG3-8
+Added Pin To Net: NetName=PA1 Pin=AR_DIG3-9
+Added Pin To Net: NetName=PA0 Pin=AR_DIG3-10
+Added Pin To Net: NetName=PB7 Pin=AR_DIG4-1
+Added Pin To Net: NetName=PB6 Pin=AR_DIG4-2
+Added Pin To Net: NetName=PB5 Pin=AR_DIG4-3
+Added Pin To Net: NetName=PB4 Pin=AR_DIG4-4
+Added Pin To Net: NetName=PA3 Pin=AR_DIG4-5
+Added Pin To Net: NetName=PA2 Pin=AR_DIG4-6
+Added Pin To Net: NetName=3.3VD Pin=AR_PWR2-4
+Added Pin To Net: NetName=5VD Pin=AR_PWR2-5
+Added Pin To Net: NetName=MODA Pin=AR_PWR2-6
+Added Pin To Net: NetName=MODA Pin=AR_PWR2-7
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=NetD2_K Pin=R2-1
+Added Pin To Net: NetName=DAC_CS Pin=R13-1
+Added Pin To Net: NetName=5VD Pin=R13-2
+Added Pin To Net: NetName=NetD6_1 Pin=R13-2
+Added Pin To Net: NetName=5VD Pin=R39-2
+Added Pin To Net: NetName=NetD2_K Pin=U1-4
+Added Pin To Net: NetName=2.5VREF Pin=U2-3
+Added Pin To Net: NetName=5VD Pin=U2-4
+Added Pin To Net: NetName=MODA Pin=U2-11
+Change Net Name : Old Net Name=NetA_Out_1 New Net Name=NetA_Out1_1
+Change Net Name : Old Net Name=NetA_Out_2 New Net Name=NetA_Out1_2
+Change Net Name : Old Net Name=NetA_Out_3 New Net Name=NetA_Out1_3
+Change Net Name : Old Net Name=NetACC_1 New Net Name=NetACC1_1
+Change Net Name : Old Net Name=NetACC_2 New Net Name=NetACC1_2
+Change Net Name : Old Net Name=NetACC_3 New Net Name=NetACC1_3
+Change Net Name : Old Net Name=NetACC_4 New Net Name=NetACC1_4
+Change Net Name : Old Net Name=NetBDM_PORT_1 New Net Name=NetBDM_PORT1_1
+Change Net Name : Old Net Name=NetBDM_PORT_4 New Net Name=NetBDM_PORT1_4
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC30_1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC30_2
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC32_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC32_2
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC31_1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC33_2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetC20_1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC22_1
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC24_1
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC24_2
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetC28_2
+Change Net Name : Old Net Name=NetC_F_ICANH_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetC_F_ICANL_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetCan_Bus_1 New Net Name=NetCan_Bus1_1
+Change Net Name : Old Net Name=NetCan_Bus_4 New Net Name=NetCan_Bus1_4
+Change Net Name : Old Net Name=NetCan_Bus_5 New Net Name=NetCan_Bus1_5
+Change Net Name : Old Net Name=NetCan_Bus_7 New Net Name=NetCan_Bus1_7
+Change Net Name : Old Net Name=NetCan_Bus_8 New Net Name=NetCan_Bus1_8
+Change Net Name : Old Net Name=NetCap_FilterEn_2 New Net Name=NetC38_2
+Change Net Name : Old Net Name=NetCap_FilterEnOP_1 New Net Name=NetC40_1
+Change Net Name : Old Net Name=NetCBoot_2 New Net Name=NetCBoot1_2
+Change Net Name : Old Net Name=NetCbst-A_Analog_1 New Net Name=NetC46_Analog_1
+Change Net Name : Old Net Name=NetCbst-A_Analog_2 New Net Name=NetC46_Analog_2
+Change Net Name : Old Net Name=NetCbst-A_Digital_1 New Net Name=NetC46_Digital_1
+Change Net Name : Old Net Name=NetCbst-A_Digital_2 New Net Name=NetC46_Digital_2
+Change Net Name : Old Net Name=NetCena_1 New Net Name=NetC34_1
+Change Net Name : Old Net Name=NetCenb_2 New Net Name=NetC37_2
+Change Net Name : Old Net Name=NetCTS_RTS_1 New Net Name=NetCTS_RTS1_1
+Change Net Name : Old Net Name=NetCTS_RTS_2 New Net Name=NetCTS_RTS1_2
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD3_K New Net Name=NetD10_K
+Change Net Name : Old Net Name=NetD?_K New Net Name=NetD4_K
+Change Net Name : Old Net Name=NetDCMotor_1 New Net Name=NetDCMotor1_1
+Change Net Name : Old Net Name=NetDCMotor_2 New Net Name=NetDCMotor1_2
+Change Net Name : Old Net Name=NetDCMotor_3 New Net Name=NetDCMotor1_3
+Change Net Name : Old Net Name=NetDCMotor_4 New Net Name=NetDCMotor1_4
+Change Net Name : Old Net Name=NetENC_A_2 New Net Name=NetENC_A1_2
+Change Net Name : Old Net Name=NetENC_B_2 New Net Name=NetENC_B1_2
+Change Net Name : Old Net Name=NetFreescale_Processor_1 New Net Name=NetFreescale_Processor1_1
+Change Net Name : Old Net Name=NetFreescale_Processor_2 New Net Name=NetFreescale_Processor1_2
+Change Net Name : Old Net Name=NetFreescale_Processor_3 New Net Name=NetFreescale_Processor1_3
+Change Net Name : Old Net Name=NetFreescale_Processor_4 New Net Name=NetFreescale_Processor1_4
+Change Net Name : Old Net Name=NetFreescale_Processor_5 New Net Name=NetFreescale_Processor1_5
+Change Net Name : Old Net Name=NetFreescale_Processor_6 New Net Name=NetFreescale_Processor1_6
+Change Net Name : Old Net Name=NetFreescale_Processor_7 New Net Name=NetFreescale_Processor1_7
+Change Net Name : Old Net Name=NetFreescale_Processor_8 New Net Name=NetFreescale_Processor1_8
+Change Net Name : Old Net Name=NetFreescale_Processor_11 New Net Name=NetFreescale_Processor1_11
+Change Net Name : Old Net Name=NetFreescale_Processor_12 New Net Name=NetFreescale_Processor1_12
+Change Net Name : Old Net Name=NetFreescale_Processor_13 New Net Name=NetFreescale_Processor1_13
+Change Net Name : Old Net Name=NetFreescale_Processor_14 New Net Name=NetFreescale_Processor1_14
+Change Net Name : Old Net Name=NetFreescale_Processor_16 New Net Name=NetFreescale_Processor1_16
+Change Net Name : Old Net Name=NetFreescale_Processor_17 New Net Name=NetFreescale_Processor1_17
+Change Net Name : Old Net Name=NetFreescale_Processor_18 New Net Name=NetFreescale_Processor1_18
+Change Net Name : Old Net Name=NetFreescale_Processor_19 New Net Name=NetFreescale_Processor1_19
+Change Net Name : Old Net Name=NetFreescale_Processor_24 New Net Name=NetFreescale_Processor1_24
+Change Net Name : Old Net Name=NetFreescale_Processor_27 New Net Name=NetFreescale_Processor1_27
+Change Net Name : Old Net Name=NetFreescale_Processor_35 New Net Name=NetFreescale_Processor1_35
+Change Net Name : Old Net Name=NetFreescale_Processor_37 New Net Name=NetFreescale_Processor1_37
+Change Net Name : Old Net Name=NetFreescale_Processor_38 New Net Name=NetFreescale_Processor1_38
+Change Net Name : Old Net Name=NetFreescale_Processor_39 New Net Name=NetFreescale_Processor1_39
+Change Net Name : Old Net Name=NetFreescale_Processor_40 New Net Name=NetFreescale_Processor1_40
+Change Net Name : Old Net Name=NetFreescale_Processor_41 New Net Name=NetFreescale_Processor1_41
+Change Net Name : Old Net Name=NetFreescale_Processor_42 New Net Name=NetFreescale_Processor1_42
+Change Net Name : Old Net Name=NetFreescale_Processor_43 New Net Name=NetFreescale_Processor1_43
+Change Net Name : Old Net Name=NetFreescale_Processor_44 New Net Name=NetFreescale_Processor1_44
+Change Net Name : Old Net Name=NetFreescale_Processor_45 New Net Name=NetFreescale_Processor1_45
+Change Net Name : Old Net Name=NetFreescale_Processor_46 New Net Name=NetFreescale_Processor1_46
+Change Net Name : Old Net Name=NetFreescale_Processor_47 New Net Name=NetFreescale_Processor1_47
+Change Net Name : Old Net Name=NetFreescale_Processor_48 New Net Name=NetFreescale_Processor1_48
+Change Net Name : Old Net Name=NetFreescale_Processor_56 New Net Name=NetFreescale_Processor1_56
+Change Net Name : Old Net Name=NetFreescale_Processor_57 New Net Name=NetFreescale_Processor1_57
+Change Net Name : Old Net Name=NetFreescale_Processor_58 New Net Name=NetFreescale_Processor1_58
+Change Net Name : Old Net Name=NetFreescale_Processor_67 New Net Name=NetFreescale_Processor1_67
+Change Net Name : Old Net Name=NetFreescale_Processor_68 New Net Name=NetFreescale_Processor1_68
+Change Net Name : Old Net Name=NetFreescale_Processor_69 New Net Name=NetFreescale_Processor1_69
+Change Net Name : Old Net Name=NetFreescale_Processor_78 New Net Name=NetFreescale_Processor1_78
+Change Net Name : Old Net Name=NetFreescale_Processor_79 New Net Name=NetFreescale_Processor1_79
+Change Net Name : Old Net Name=NetFreescale_Processor_80 New Net Name=NetFreescale_Processor1_80
+Change Net Name : Old Net Name=NetHD44780_3 New Net Name=NetHD1_3
+Change Net Name : Old Net Name=NetHD44780_7 New Net Name=NetHD1_7
+Change Net Name : Old Net Name=NetHD44780_8 New Net Name=NetHD1_8
+Change Net Name : Old Net Name=NetHD44780_9 New Net Name=NetHD1_9
+Change Net Name : Old Net Name=NetHD44780_10 New Net Name=NetHD1_10
+Change Net Name : Old Net Name=NetHD44780_15 New Net Name=NetHD1_15
+Change Net Name : Old Net Name=NetHD44780_16 New Net Name=NetHD1_16
+Change Net Name : Old Net Name=NetJack_On_3 New Net Name=NetJack_On1_3
+Change Net Name : Old Net Name=NetMAX3232_7 New Net Name=NetMAX2_7
+Change Net Name : Old Net Name=NetMAX3232_8 New Net Name=NetMAX2_8
+Change Net Name : Old Net Name=NetMAX3232_13 New Net Name=NetMAX2_13
+Change Net Name : Old Net Name=NetMAX3232_14 New Net Name=NetMAX2_14
+Change Net Name : Old Net Name=NetR2_A_2 New Net Name=NetR52_2
+Change Net Name : Old Net Name=NetR2_B_2 New Net Name=NetR53_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR38_1
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR36_2
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetRC_R1_In_2 New Net Name=NetRC_R1_2
+Change Net Name : Old Net Name=NetRC_R2_In_2 New Net Name=NetRC_R2_2
+Change Net Name : Old Net Name=NetRfb1-A_Analog_1 New Net Name=NetR54_Analog_1
+Change Net Name : Old Net Name=NetRfb1-A_Digital_1 New Net Name=NetR54_Digital_1
+Change Net Name : Old Net Name=NetRfbe-A_Analog_2 New Net Name=NetR56_Analog_2
+Change Net Name : Old Net Name=NetRfbe-A_Digital_2 New Net Name=NetR56_Digital_2
+Change Net Name : Old Net Name=NetRp_2 New Net Name=NetRp1_2
+Change Net Name : Old Net Name=NetRS2232-Con_1 New Net Name=NetRS1_1
+Change Net Name : Old Net Name=NetSM_H_3 New Net Name=NetSM_H1_3
+Change Net Name : Old Net Name=NetSM_H_8 New Net Name=NetSM_H1_8
+Change Net Name : Old Net Name=NetSM_H_13 New Net Name=NetSM_H1_13
+Change Net Name : Old Net Name=NetSM_H_18 New Net Name=NetSM_H1_18
+Change Net Name : Old Net Name=NetU?_4 New Net Name=NetU4_4
+Added Pin To Net: NetName=NetC39_2 Pin=C39-2
+Added Pin To Net: NetName=NetC39_2 Pin=ENC_B1-1
+Added Pin To Net: NetName=NetC39_2 Pin=R49-2
+Added Net: Name=NetC39_2
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=NetC41_1 Pin=ENC_B1-4
+Added Pin To Net: NetName=NetC41_1 Pin=R51-1
+Added Pin To Net: NetName=NetC41_1 Pin=U5-3
+Added Net: Name=NetC41_1
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=R1-1
+Added Pin To Net: NetName=NetD1_K Pin=U1-6
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetD3_K Pin=D3-K
+Added Pin To Net: NetName=NetD3_K Pin=R3-1
+Added Pin To Net: NetName=NetD3_K Pin=U1-3
+Added Net: Name=NetD3_K
+Added Pin To Net: NetName=NetD5_K Pin=D5-K
+Added Net: Name=NetD5_K
+Added Pin To Net: NetName=NetD7_1 Pin=R34-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=T2-3
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=R39-1
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=T3-3
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetFreescale_Processor1_59 Pin=Freescale_Processor1-59
+Added Net: Name=NetFreescale_Processor1_59
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R7-2
+Added Pin To Net: NetName=NetR5_1 Pin=R9-2
+Added Pin To Net: NetName=NetR5_1 Pin=U2-6
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R8-2
+Added Pin To Net: NetName=NetR6_1 Pin=U2-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R9-1
+Added Pin To Net: NetName=NetR6_2 Pin=U2-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U2-7
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U1-11
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Net: Name=NetR30_1
+Added Member To Class: ClassName= ili9327 LCD Member=Component AR_AD2 Header 6
+Added Member To Class: ClassName= ili9327 LCD Member=Component AR_DIG3 Header 10
+Added Member To Class: ClassName= ili9327 LCD Member=Component AR_DIG4 Header 8
+Added Member To Class: ClassName= ili9327 LCD Member=Component AR_PWR2 Header 8
+Added Member To Class: ClassName=Accelerometer Member=Component C1 Cap
+Added Member To Class: ClassName=Accelerometer Member=Component C2 Cap
+Added Member To Class: ClassName=Accelerometer Member=Component C3 Cap
+Added Member To Class: ClassName=Accelerometer Member=Component C4 Cap
+Added Member To Class: ClassName=Accelerometer Member=Component C5 p
+Added Member To Class: ClassName=Accelerometer Member=Component C6 p
+Added Member To Class: ClassName=Accelerometer Member=Component C7 p
+Added Member To Class: ClassName=MC9S12 Member=Component C25 Cap Pol
+Added Member To Class: ClassName=MC9S12 Member=Component C26 Cap
+Added Member To Class: ClassName=DC_Motor Member=Component C35 Cap Pol
+Added Member To Class: ClassName=DC_Motor Member=Component C36 Cap
+Added Member To Class: ClassName=DC_Motor Member=Component C39 C1
+Added Member To Class: ClassName=DC_Motor Member=Component C41 Cap
+Added Member To Class: ClassName=Accelerometer Member=Component D1 MM3Z3V3ST1G
+Added Member To Class: ClassName=Accelerometer Member=Component D2 MM3Z3V3ST1G
+Added Member To Class: ClassName=Accelerometer Member=Component D3 MM3Z3V3ST1G
+Added Member To Class: ClassName=MC9S12 Member=Component D5 1N4148
+Added Member To Class: ClassName=RS232 Member=Component D9 LED2
+Added Member To Class: ClassName=Accelerometer Member=Component R1 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R2 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R3 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R4 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R5 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R6 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R7 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R8 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R9 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R10 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R11 Res3
+Added Member To Class: ClassName=DAC Member=Component R13 Res3
+Added Member To Class: ClassName=HD44780_LCD Member=Component R18 Res3
+Added Member To Class: ClassName=HD44780_LCD Member=Component R19 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R20 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R25 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R26 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R27 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R28 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R31 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R34 Res3
+Added Member To Class: ClassName=RS232 Member=Component R36 Res3
+Added Member To Class: ClassName=RS232 Member=Component R38 Res3
+Added Member To Class: ClassName=RS232 Member=Component R39 Res3
+Added Member To Class: ClassName=Stepper_Motor Member=Component R42 Res3
+Added Member To Class: ClassName=Stepper_Motor Member=Component R44 Res3
+Added Member To Class: ClassName=DC_Motor Member=Component R49 Res3
+Added Member To Class: ClassName=DC_Motor Member=Component R51 Res3
+Added Member To Class: ClassName=RS232 Member=Component T2 BC846B
+Added Member To Class: ClassName=RS232 Member=Component T3 BC846B
+Added Member To Class: ClassName=Accelerometer Member=Component U1 LIS352ARTR
+Added Member To Class: ClassName=Accelerometer Member=Component U2 LMC6484_0
+Added Member To Class: ClassName=DC_Motor Member=Component U4 L6225

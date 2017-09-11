@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=PA0 Pin=PA1-1
+Removed Pin From Net: NetName=PA1 Pin=PA1-2
+Removed Pin From Net: NetName=PA2 Pin=PA1-3
+Removed Pin From Net: NetName=PA3 Pin=PA1-4
+Removed Pin From Net: NetName=PA4 Pin=PA1-5
+Removed Pin From Net: NetName=PA5 Pin=PA1-6
+Removed Pin From Net: NetName=PA6 Pin=PA1-7
+Removed Pin From Net: NetName=PA7 Pin=PA1-8
+Removed Pin From Net: NetName=PB7 Pin=PB_HB1-1
+Removed Pin From Net: NetName=PB6 Pin=PB_HB1-2
+Removed Pin From Net: NetName=PB5 Pin=PB_HB1-3
+Removed Pin From Net: NetName=PB4 Pin=PB_HB1-4
+Removed Member From Class: ClassName=Project_Board Member=PA1
+Removed Member From Class: ClassName=Project_Board Member=PB_HB1
+Added Component: Designator=PA(HDR1X8)
+Added Component: Designator=PBHB(HDR1X4)
+Added Pin To Net: NetName=PA0 Pin=PA-1
+Added Pin To Net: NetName=PA1 Pin=PA-2
+Added Pin To Net: NetName=PA2 Pin=PA-3
+Added Pin To Net: NetName=PA3 Pin=PA-4
+Added Pin To Net: NetName=PA4 Pin=PA-5
+Added Pin To Net: NetName=PA5 Pin=PA-6
+Added Pin To Net: NetName=PA6 Pin=PA-7
+Added Pin To Net: NetName=PA7 Pin=PA-8
+Added Pin To Net: NetName=PB7 Pin=PBHB-1
+Added Pin To Net: NetName=PB6 Pin=PBHB-2
+Added Pin To Net: NetName=PB5 Pin=PBHB-3
+Added Pin To Net: NetName=PB4 Pin=PBHB-4
+Added Member To Class: ClassName=Project_Board Member=Component PA Header 8
+Added Member To Class: ClassName=Project_Board Member=Component PBHB Header 4
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board

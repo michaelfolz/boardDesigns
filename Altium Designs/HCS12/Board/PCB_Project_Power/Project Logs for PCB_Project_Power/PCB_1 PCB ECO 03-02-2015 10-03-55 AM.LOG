@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=NetCan_Bus1_5 Pin=Can_Bus1-5
+Removed Pin From Net: NetName=MODA Pin=Freescale_Processor1-25
+Removed Pin From Net: NetName=MODA Pin=Freescale_Processor1-26
+Removed Pin From Net: NetName=NetFreescale_Processor1_3 Pin=R2-2
+Removed Pin From Net: NetName=NetFreescale_Processor1_4 Pin=R3-2
+Removed Pin From Net: NetName=NetD6_1 Pin=R13-2
+Removed Member From Class: ClassName=Accelerometer Member=C11
+Removed Member From Class: ClassName=Accelerometer Member=C17
+Removed Member From Class: ClassName=CanBus Member=C18
+Removed Member From Class: ClassName=Accelerometer Member=C29
+Removed Member From Class: ClassName=Accelerometer Member=C30
+Removed Member From Class: ClassName=Accelerometer Member=C31
+Removed Member From Class: ClassName=Accelerometer Member=C32
+Removed Member From Class: ClassName=Accelerometer Member=C33
+Removed Member From Class: ClassName=MC9S12 Member=C33
+Removed Member From Class: ClassName=Accelerometer Member=D5
+Removed Member From Class: ClassName=RS232 Member=D5
+Removed Member From Class: ClassName=Accelerometer Member=D10
+Removed Member From Class: ClassName=CanBus Member=R1
+Removed Member From Class: ClassName=Accelerometer Member=R21
+Removed Member From Class: ClassName=Accelerometer Member=R22
+Removed Member From Class: ClassName=Accelerometer Member=R23
+Removed Member From Class: ClassName=Accelerometer Member=R25
+Removed Member From Class: ClassName=Accelerometer Member=R26
+Removed Member From Class: ClassName=HD44780_LCD Member=R31
+Removed Member From Class: ClassName=Accelerometer Member=R35
+Removed Member From Class: ClassName=Accelerometer Member=R36
+Removed Member From Class: ClassName=HD44780_LCD Member=T2
+Removed Member From Class: ClassName=DC_Motor Member=U2
+Change Component DesignItemId : Designator=CanBus1 Old DesignItemId=Header 2 New DesignItemId=Header 3
+Change Component Footprint: Designator=CanBus1 Old Footprint=HDR1X2 New Footprint=HDR1X3
+Change Component Comment : Designator=CanBus1 Old Comment=Header 2 New Comment=Header 3
+Added Component: Designator=MODE_A_Head(HDR1X3)
+Added Component: Designator=MODE_B_Head(HDR1X3)
+Added Component: Designator=R25(RESC2112X05M)
+Added Component: Designator=R25(RESC2112X05M)
+Added Component: Designator=R33(RESC2112X05M)
+Added Component: Designator=Slave_Select(HDR1X2)
+Added Pin To Net: NetName=DAC_CS Pin=Freescale_Processor1-69
+Added Pin To Net: NetName=MODA Pin=MODE_A_Head-1
+Added Pin To Net: NetName=5VD Pin=MODE_A_Head-3
+Added Pin To Net: NetName=5VD Pin=MODE_B_Head-1
+Added Pin To Net: NetName=MODA Pin=MODE_B_Head-3
+Added Pin To Net: NetName=NetFreescale_Processor1_4 Pin=R2-2
+Added Pin To Net: NetName=NetFreescale_Processor1_3 Pin=R3-2
+Added Pin To Net: NetName=NetFreescale_Processor1_56 Pin=R7-1
+Added Pin To Net: NetName=5VD Pin=R13-2
+Added Pin To Net: NetName=NetD6_1 Pin=R13-2
+Added Pin To Net: NetName=DAC_CS Pin=Slave_Select-1
+Added Pin To Net: NetName=NetFreescale_Processor1_68 Pin=Slave_Select-2
+Added Pin To Net: NetName=NetFreescale_Processor1_56 Pin=U2-7
+Change Net Name : Old Net Name=MODA New Net Name=GND
+Change Net Name : Old Net Name=NetCan_Bus1_5 New Net Name=NetCan_Bus1_6
+Added Pin To Net: NetName=MODA Pin=Freescale_Processor1-26
+Added Pin To Net: NetName=MODA Pin=R25-1
+Added Net: Name=MODA
+Added Pin To Net: NetName=MODB Pin=Freescale_Processor1-25
+Added Pin To Net: NetName=MODB Pin=R25-1
+Added Net: Name=MODB
+Added Pin To Net: NetName=NetCan_Bus1_5 Pin=Can_Bus1-5
+Added Pin To Net: NetName=NetCan_Bus1_5 Pin=CanBus1-3
+Added Net: Name=NetCan_Bus1_5
+Added Pin To Net: NetName=NetMODE_A_Head_2 Pin=MODE_A_Head-2
+Added Pin To Net: NetName=NetMODE_A_Head_2 Pin=R25-2
+Added Net: Name=NetMODE_A_Head_2
+Added Pin To Net: NetName=NetMODE_B_Head_2 Pin=MODE_B_Head-2
+Added Pin To Net: NetName=NetMODE_B_Head_2 Pin=R25-2
+Added Net: Name=NetMODE_B_Head_2
+Added Member To Class: ClassName=Accelerometer Member=Component C1 Cap
+Added Member To Class: ClassName=Accelerometer Member=Component C2 Cap
+Added Member To Class: ClassName=Accelerometer Member=Component C3 Cap
+Added Member To Class: ClassName=Accelerometer Member=Component C4 Cap
+Added Member To Class: ClassName=Accelerometer Member=Component C5 p
+Added Member To Class: ClassName=Accelerometer Member=Component C6 p
+Added Member To Class: ClassName=Accelerometer Member=Component C7 p
+Added Member To Class: ClassName=CanBus Member=Component C9 Cap
+Added Member To Class: ClassName=MC9S12 Member=Component C18 p
+Added Member To Class: ClassName=MC9S12 Member=Component C19 Cap
+Added Member To Class: ClassName=MC9S12 Member=Component C20 Cap Pol
+Added Member To Class: ClassName=DC_Motor Member=Component C40 Cap
+Added Member To Class: ClassName=Accelerometer Member=Component D2 MM3Z3V3ST1G
+Added Member To Class: ClassName=Accelerometer Member=Component D4 MM3Z3V3ST1G
+Added Member To Class: ClassName=RS232 Member=Component D8 LED2
+Added Member To Class: ClassName=MC9S12 Member=Component MODE_A_Head Header 3
+Added Member To Class: ClassName=MC9S12 Member=Component MODE_B_Head Header 3
+Added Member To Class: ClassName=Accelerometer Member=Component R2 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R3 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R4 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R5 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R7 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R8 Res3
+Added Member To Class: ClassName=Accelerometer Member=Component R11 Res3
+Added Member To Class: ClassName=CanBus Member=Component R12 Res3
+Added Member To Class: ClassName=HD44780_LCD Member=Component R14 Res3
+Added Member To Class: ClassName=HD44780_LCD Member=Component R16 Res3
+Added Member To Class: ClassName=HD44780_LCD Member=Component R17 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R20 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R24 Res3
+Added Member To Class: ClassName=MC9S12 Member=Component R29 Res3
+Added Member To Class: ClassName=RS232 Member=Component R37 Res3
+Added Member To Class: ClassName=Stepper_Motor Member=Component R40 Res3
+Added Member To Class: ClassName=DC_Motor Member=Component R50 Res3
+Added Member To Class: ClassName=Project_Board Member=Component Slave_Select Header 2
+Added Member To Class: ClassName=HD44780_LCD Member=Component T1 BC846B
+Added Member To Class: ClassName=DC_Motor Member=Component U5 74ACT14_3
+Change Room Scope: Old Scope=InComponentClass(' ili9327 LCD') New Scope=InComponentClass('ili9327 LCD')

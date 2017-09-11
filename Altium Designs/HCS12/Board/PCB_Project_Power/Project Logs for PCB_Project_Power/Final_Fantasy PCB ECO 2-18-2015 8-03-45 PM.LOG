@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=PEX2-1
+Removed Pin From Net: NetName=5VD Pin=PEX2-2
+Removed Pin From Net: NetName=PEX0 Pin=PEX2-3
+Removed Pin From Net: NetName=PEX1 Pin=PEX2-4
+Removed Pin From Net: NetName=PEX2 Pin=PEX2-5
+Removed Pin From Net: NetName=PEX3 Pin=PEX2-6
+Removed Pin From Net: NetName=PEX4 Pin=PEX2-7
+Removed Pin From Net: NetName=PEX5 Pin=PEX2-8
+Removed Pin From Net: NetName=PEX6 Pin=PEX2-9
+Removed Pin From Net: NetName=PEX7 Pin=PEX2-10
+Removed Member From Class: ClassName=MCP23S09 Member=PEX2
+Added Component: Designator=PEX(HDR2X5)
+Added Pin To Net: NetName=GND Pin=PEX-1
+Added Pin To Net: NetName=5VD Pin=PEX-2
+Added Pin To Net: NetName=PEX0 Pin=PEX-3
+Added Pin To Net: NetName=PEX1 Pin=PEX-4
+Added Pin To Net: NetName=PEX2 Pin=PEX-5
+Added Pin To Net: NetName=PEX3 Pin=PEX-6
+Added Pin To Net: NetName=PEX4 Pin=PEX-7
+Added Pin To Net: NetName=PEX5 Pin=PEX-8
+Added Pin To Net: NetName=PEX6 Pin=PEX-9
+Added Pin To Net: NetName=PEX7 Pin=PEX-10
+Added Member To Class: ClassName=MCP23S09 Member=Component PEX Header 5X2

@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=NetD1_K Pin=D2-A
+Removed Pin From Net: NetName=NetCBoot_2 Pin=D2-K
+Removed Pin From Net: NetName=5VD Pin=D_TX-1
+Removed Pin From Net: NetName=NetFreescale_Processor_63 Pin=RX_Cur_L-2
+Removed Pin From Net: NetName=NetFreescale_Processor_64 Pin=TX_Cur_L-1
+Removed Member From Class: ClassName=RS232 Member=D_TX
+Removed Member From Class: ClassName=RS232 Member=RLimit_RX
+Removed Member From Class: ClassName=RS232 Member=RLimit_TX
+Removed Member From Class: ClassName=RS232 Member=RX_Cur_L
+Removed Member From Class: ClassName=RS232 Member=TX_Cur_L
+Change Component DesignItemId : Designator=D2 Old DesignItemId=Diode 1N4148 New DesignItemId=LED2
+Change Component Footprint: Designator=D2 Old Footprint=zener_sod323 New Footprint=3.2X1.6X1.1
+Change Component Comment : Designator=D2 Old Comment=Diode 1N4148 New Comment=LED2
+Change Component Designator: OldDesignator=C1-RS232 NewDesignator=C1
+Change Component Designator: OldDesignator=C2-RS232 NewDesignator=C2
+Change Component Designator: OldDesignator=CFilter-RS232 NewDesignator=C3
+Change Component Designator: OldDesignator=Cpump-RS232 NewDesignator=C4
+Change Component Designator: OldDesignator=CV--RS232 NewDesignator=C5
+Change Component Designator: OldDesignator=D_RX NewDesignator=D1
+Change Component Designator: OldDesignator=MAXLL--RS232 NewDesignator=MAX3232
+Change Component Designator: OldDesignator=RTS-RS232 NewDesignator=R3
+Added Component: Designator=D2(zener_sod323)
+Added Component: Designator=R1(RESC2112X05M)
+Added Component: Designator=R2(RESC2112X05M)
+Added Pin To Net: NetName=NetFreescale_Processor_64 Pin=R1-1
+Added Pin To Net: NetName=NetFreescale_Processor_63 Pin=R2-2
+Change Net Name : Old Net Name=NetC1-RS232_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC1-RS232_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC2-RS232_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC2-RS232_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetCpump-RS232_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetCV--RS232_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetMAXLL--RS232_7 New Net Name=NetMAX3232_7
+Change Net Name : Old Net Name=NetMAXLL--RS232_8 New Net Name=NetMAX3232_8
+Change Net Name : Old Net Name=NetMAXLL--RS232_13 New Net Name=NetMAX3232_13
+Change Net Name : Old Net Name=NetMAXLL--RS232_14 New Net Name=NetMAX3232_14
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=R2-1
+Added Net: Name=NetD2_2
+Added Member To Class: ClassName=RS232 Member=Component D2 LED2
+Added Member To Class: ClassName=RS232 Member=Component R1 Res3
+Added Member To Class: ClassName=RS232 Member=Component R2 Res3
+Added Member To Class: ClassName=RS232 Member=Component R3 Res3

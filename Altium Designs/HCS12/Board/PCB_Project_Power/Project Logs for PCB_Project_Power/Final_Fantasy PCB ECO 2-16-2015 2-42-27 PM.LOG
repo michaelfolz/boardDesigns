@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VRH Pin=VRH_EN1-1
+Removed Pin From Net: NetName=VDDA Pin=VRH_EN1-2
+Removed Member From Class: ClassName=MC9S12C Member=VRH_EN1
+Added Component: Designator=VRH_EN(HDR1X2)
+Added Pin To Net: NetName=VRH Pin=VRH_EN-1
+Added Pin To Net: NetName=VDDA Pin=VRH_EN-2
+Added Member To Class: ClassName=DC_Motor Member=Component C33 Cap
+Added Member To Class: ClassName=DC_Motor Member=Component C36 Cap
+Added Member To Class: ClassName=DC_Motor Member=Component D4 Diode 1N4148
+Added Member To Class: ClassName=DC_Motor Member=Component R47 Res3
+Added Member To Class: ClassName=DC_Motor Member=Component Rp1 Res3
+Added Member To Class: ClassName=MC9S12C Member=Component VRH_EN Header 2
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board

@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=AD7 Pin=ANALOG1-1
+Removed Pin From Net: NetName=AD6 Pin=ANALOG1-2
+Removed Pin From Net: NetName=AD5 Pin=ANALOG1-3
+Removed Pin From Net: NetName=AD4 Pin=ANALOG1-4
+Removed Pin From Net: NetName=NetACC1_3 Pin=C1-1
+Removed Pin From Net: NetName=NetACC1_2 Pin=C2-1
+Removed Pin From Net: NetName=PB7 Pin=PBHB1-1
+Removed Pin From Net: NetName=PB6 Pin=PBHB1-2
+Removed Pin From Net: NetName=PB5 Pin=PBHB1-3
+Removed Pin From Net: NetName=PB4 Pin=PBHB1-4
+Removed Pin From Net: NetName=NetACC1_4 Pin=R7-1
+Removed Pin From Net: NetName=NetACC1_3 Pin=U1-7
+Removed Pin From Net: NetName=NetACC1_2 Pin=U1-8
+Removed Member From Class: ClassName=Project_Board Member=A_Out1
+Removed Member From Class: ClassName=Project_Board Member=ANALOG1
+Removed Member From Class: ClassName=Project_Board Member=PBHB1
+Change Component DesignItemId : Designator=CanBus1 Old DesignItemId=Header 3 New DesignItemId=Header 4
+Change Component DesignItemId : Designator=ACC1 Old DesignItemId=Header 4 New DesignItemId=Header 5
+Change Component DesignItemId : Designator=PA1 Old DesignItemId=Header 8 New DesignItemId=Header 9
+Change Component Footprint: Designator=CanBus1 Old Footprint=HDR1X3 New Footprint=HDR1X4
+Change Component Footprint: Designator=ACC1 Old Footprint=HDR1X4 New Footprint=HDR1X5
+Change Component Footprint: Designator=PA1 Old Footprint=HDR1X8 New Footprint=HDR1X9
+Change Component Comment : Designator=CanBus1 Old Comment=Header 3 New Comment=Header 4
+Change Component Comment : Designator=ACC1 Old Comment=Header 4 New Comment=Header 5
+Change Component Comment : Designator=PA1 Old Comment=Header 8 New Comment=Header 9
+Change Component Designator: OldDesignator=VDIG NewDesignator=V1
+Change Component Designator: OldDesignator=VIN NewDesignator=VIN_IN1
+Added Component: Designator=ANALOG(HDR1X5)
+Added Component: Designator=DAC_(HDR1X4)
+Added Component: Designator=PBHB(HDR1X5)
+Added Pin To Net: NetName=GND Pin=ACC1-1
+Added Pin To Net: NetName=GND Pin=ANALOG-1
+Added Pin To Net: NetName=AD7 Pin=ANALOG-2
+Added Pin To Net: NetName=AD6 Pin=ANALOG-3
+Added Pin To Net: NetName=AD5 Pin=ANALOG-4
+Added Pin To Net: NetName=AD4 Pin=ANALOG-5
+Added Pin To Net: NetName=NetACC1_4 Pin=C1-1
+Added Pin To Net: NetName=NetACC1_3 Pin=C2-1
+Added Pin To Net: NetName=NetACC1_2 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=CanBus1-4
+Added Pin To Net: NetName=GND Pin=ACC1-1
+Added Pin To Net: NetName=GND Pin=PA1-9
+Added Pin To Net: NetName=GND Pin=PBHB-1
+Added Pin To Net: NetName=PB7 Pin=PBHB-2
+Added Pin To Net: NetName=PB6 Pin=PBHB-3
+Added Pin To Net: NetName=PB5 Pin=PBHB-4
+Added Pin To Net: NetName=PB4 Pin=PBHB-5
+Added Pin To Net: NetName=NetACC1_4 Pin=U1-7
+Added Pin To Net: NetName=NetACC1_3 Pin=U1-8
+Added Pin To Net: NetName=NetACC1_2 Pin=U1-9
+Added Pin To Net: NetName=NetACC1_5 Pin=ACC1-5
+Added Pin To Net: NetName=NetACC1_5 Pin=R7-1
+Added Net: Name=NetACC1_5
+Added Pin To Net: NetName=NetDAC__2 Pin=ACC1-2
+Added Pin To Net: NetName=NetDAC__2 Pin=MAX1-4
+Added Net: Name=NetDAC__2
+Added Pin To Net: NetName=NetDAC__3 Pin=ACC1-3
+Added Pin To Net: NetName=NetDAC__3 Pin=MAX1-5
+Added Net: Name=NetDAC__3
+Added Pin To Net: NetName=NetDAC__4 Pin=ACC1-4
+Added Pin To Net: NetName=NetDAC__4 Pin=MAX1-8
+Added Net: Name=NetDAC__4
+Added Member To Class: ClassName=Project_Board Member=Component ANALOG Header 5
+Added Member To Class: ClassName=Project_Board Member=Component DAC_ Header 4
+Added Member To Class: ClassName=Project_Board Member=Component PBHB Header 5
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC22_2 Pin=Y1-1
+Removed Pin From Net: NetName=NetC15_2 Pin=Y1-2
+Removed Member From Class: ClassName=MC9S12C Member=Y1
+Added Component: Designator=ECX-32(ECX-32)
+Added Pin To Net: NetName=NetC22_2 Pin=ECX-32-1
+Added Pin To Net: NetName=GND Pin=ECX-32-2
+Added Pin To Net: NetName=NetC15_2 Pin=ECX-32-3
+Added Pin To Net: NetName=GND Pin=ECX-32-4
+Added Member To Class: ClassName=MC9S12C Member=Component ECX-32 ECS-XC

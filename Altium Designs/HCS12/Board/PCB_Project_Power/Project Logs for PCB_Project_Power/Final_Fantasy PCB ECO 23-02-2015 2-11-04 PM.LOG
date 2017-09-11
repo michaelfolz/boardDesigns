@@ -1,0 +1,22 @@
+Added Component: Designator=U3(POWERSOP20)
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=VIN Pin=U3-2
+Added Pin To Net: NetName=NetDCL1_1 Pin=U3-3
+Added Pin To Net: NetName=NetC39_2 Pin=U3-4
+Added Pin To Net: NetName=NetC36_1 Pin=U3-5
+Added Pin To Net: NetName=NetFreescale_Processor1_16 Pin=U3-6
+Added Pin To Net: NetName=NetFreescale_Processor1_18 Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=NetDCR1_1 Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U3-10
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Pin To Net: NetName=NetDCR1_2 Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=NetFreescale_Processor1_17 Pin=U3-14
+Added Pin To Net: NetName=NetFreescale_Processor1_19 Pin=U3-15
+Added Pin To Net: NetName=NetC40_2 Pin=U3-16
+Added Pin To Net: NetName=NetC41_2 Pin=U3-17
+Added Pin To Net: NetName=NetDCL1_2 Pin=U3-18
+Added Pin To Net: NetName=VIN Pin=U3-19
+Added Pin To Net: NetName=GND Pin=U3-20
+Added Member To Class: ClassName=DC_Motor Member=Component U3 L6225

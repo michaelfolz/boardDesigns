@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5VA Pin=R52-1
+Removed Pin From Net: NetName=NetC41_2 Pin=R52-2
+Removed Member From Class: ClassName=DC_Motor Member=R52
+Added Component: Designator=R?(RESC2112X05M)
+Added Pin To Net: NetName=5VA Pin=R?-1
+Added Pin To Net: NetName=NetC41_2 Pin=R?-2
+Added Member To Class: ClassName=DC_Motor Member=Component R? Res3

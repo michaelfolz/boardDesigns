@@ -1,0 +1,8 @@
+Added Component: Designator=R54(RESC2112X05M)
+Added Component: Designator=R55(RESC2112X05M)
+Added Pin To Net: NetName=5VA Pin=R54-1
+Added Pin To Net: NetName=NetC48_2 Pin=R54-2
+Added Pin To Net: NetName=5VA Pin=R55-1
+Added Pin To Net: NetName=NetC49_2 Pin=R55-2
+Added Member To Class: ClassName=Encoder Member=Component R54 Res3
+Added Member To Class: ClassName=Encoder Member=Component R55 Res3

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=STEPPER A Pin=StepperMotor1-1
+Removed Pin From Net: NetName=STEPPER A BAR Pin=StepperMotor1-2
+Removed Pin From Net: NetName=STEPPER B Pin=StepperMotor1-3
+Removed Pin From Net: NetName=STEPPER B BAR Pin=StepperMotor1-4
+Removed Member From Class: ClassName=Project_Board Member=StepperMotor1
+Added Room: Name=Project_Board

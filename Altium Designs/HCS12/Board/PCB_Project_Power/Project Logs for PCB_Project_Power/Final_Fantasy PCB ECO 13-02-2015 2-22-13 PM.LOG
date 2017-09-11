@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=R51-1
+Removed Pin From Net: NetName=SERVO SIGNAL Pin=R51-2
+Added Component: Designator=R55(RESC2112X05M)
+Added Pin To Net: NetName=5VA Pin=R51-1
+Added Pin To Net: NetName=NetC40_2 Pin=R51-2
+Added Pin To Net: NetName=GND Pin=R51-1
+Added Pin To Net: NetName=SERVO SIGNAL Pin=R51-2
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Member To Class: ClassName=RC_PWM Member=Component R55 Res3
+Added Room: Name=ili9327 LCD
+Added Room: Name=MC9S12C
+Added Room: Name=Project_Board
+Added Room: Name=Stepper_Motor

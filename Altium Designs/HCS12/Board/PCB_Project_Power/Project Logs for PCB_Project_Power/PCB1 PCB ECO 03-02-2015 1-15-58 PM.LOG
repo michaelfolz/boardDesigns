@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetBDM_PORT1_4 Pin=Freescale_Processor1-30
+Removed Pin From Net: NetName=NetC40_1 Pin=Schmitt_Trigger1-1
+Removed Pin From Net: NetName=NetFreescale_Processor1_5 Pin=Schmitt_Trigger1-2
+Removed Pin From Net: NetName=GND Pin=Schmitt_Trigger1-7
+Removed Pin From Net: NetName=5VA Pin=Schmitt_Trigger1-14
+Removed Pin From Net: NetName=NetC41_1 Pin=U5-3
+Removed Pin From Net: NetName=NetFreescale_Processor1_6 Pin=U5-4
+Removed Member From Class: ClassName=DC_Motor Member=Schmitt_Trigger1
+Removed Member From Class: ClassName=DC_Motor Member=U5
+Added Component: Designator=U?(SOIC127P600X175-14M)
+Added Component: Designator=U?(SOIC127P600X175-14M)
+Added Pin To Net: NetName=NetC40_1 Pin=U?-1
+Added Pin To Net: NetName=NetFreescale_Processor1_5 Pin=U?-2
+Added Pin To Net: NetName=NetC41_1 Pin=U?-3
+Added Pin To Net: NetName=NetFreescale_Processor1_6 Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=5VA Pin=U?-14
+Change Net Name : Old Net Name=NetBDM_PORT1_4 New Net Name=RESET
+Added Pin To Net: NetName=MODC-BK Pin=BDM_PORT1-1
+Added Pin To Net: NetName=MODC-BK Pin=R26-1
+Added Net: Name=MODC-BK
+Added Member To Class: ClassName=DC_Motor Member=Component U? 74ACT14_3
